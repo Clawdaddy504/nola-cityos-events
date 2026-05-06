@@ -1,6 +1,6 @@
 {
-  "count": 243,
-  "generated_at": "2026-05-06T09:37:11.094175+00:00",
+  "count": 246,
+  "generated_at": "2026-05-06T16:14:52.546576+00:00",
   "events": [
     {
       "id": "a8305ed2a37d1575bba3b6437dab59dc43059919",
@@ -41,6 +41,18 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4814698",
       "description": "Venue: Bamboulas\nStarts: 2026-05-06T11:00:00.000-06:00\nCategories: Music - Jazz & Blues\nMore info: https://bamboulasmusic.com/\n\nSUBSCRIBE TO OFFBEAT.COM and support local musicians, music and to get the most comprehensive info on New Orleans and Louisiana music and culture. A subscription allows you to access our 38+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.",
       "pubDate": "Fri, 24 Apr 2026 15:09:52 -0600"
+    },
+    {
+      "id": "faa68c74ba72dcdddd9d58206cd5cf27806001c0",
+      "source": "wwoz",
+      "title": "Kid Merv",
+      "venue": "Tipsy Trumpet",
+      "venue_url": "https://www.wwoz.org/organizations/tipsy-trumpet",
+      "event_url": "https://www.wwoz.org/events/1339936",
+      "date_text": "Wednesday, May 6",
+      "time_text": "12:00pm",
+      "start": "2026-05-06T12:00:00+00:00",
+      "description": "Venue: Tipsy Trumpet | Date: Wednesday, May 6 | Time: 12:00pm"
     },
     {
       "id": "bcae2775351711ed48dd758c6c5a33cf8812c552",
@@ -97,6 +109,18 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4820959",
       "description": "Venue: Snug Harbor Jazz Bistro\nStarts: 2026-05-06T16:00:00.000-06:00\nCategories: Music - Jazz & Blues\nMore info: https://snugjazz.com\n\nSUBSCRIBE TO OFFBEAT.COM to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
       "pubDate": "Sat, 02 May 2026 09:57:15 -0600"
+    },
+    {
+      "id": "efdfef5da5a3b4166c8e67a950694eb993b9d8e8",
+      "source": "wwoz",
+      "title": "Mark Pentone & Thomas McDonald",
+      "venue": "Bratz Y'all",
+      "venue_url": "https://www.wwoz.org/organizations/bratz-yall",
+      "event_url": "https://www.wwoz.org/events/1339186",
+      "date_text": "Wednesday, May 6",
+      "time_text": "5:00pm",
+      "start": "2026-05-06T17:00:00+00:00",
+      "description": "Venue: Bratz Y'all | Date: Wednesday, May 6 | Time: 5:00pm"
     },
     {
       "id": "58558916934abf42edd9ce3202dcec9461455a6b",
@@ -509,6 +533,18 @@
       "time_text": "8:00pm",
       "start": "2026-05-06T20:00:00+00:00",
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, May 6 | Time: 8:00pm"
+    },
+    {
+      "id": "81e960c59bdf0f9479f04109376b6bd6602ddd7b",
+      "source": "wwoz",
+      "title": "Big Mike & The R&B Kings",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1339536",
+      "date_text": "Wednesday, May 6",
+      "time_text": "8:00pm",
+      "start": "2026-05-06T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, May 6 | Time: 8:00pm"
     },
     {
       "id": "807fb25d6529819ff73f76ab94809c58052cb40c",
