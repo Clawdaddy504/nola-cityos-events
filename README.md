@@ -11,6 +11,7 @@ Merged JSON endpoint for live New Orleans event discovery.
 Currently merges:
 - WWOZ Livewire
 - OffBeat Calendar
+- NOLA.show
 
 ## Top-level schema
 
@@ -56,4 +57,8 @@ Each event object currently includes:
 
 ## Update cadence
 
-This endpoint is refreshed automatically every 3 hours via GitHub Actions.
+This endpoint is refreshed automatically every 3 hours via GitHub Actions, with additional morning passes around the expected WWOZ Livewire release window.
+
+- Every 3 hours at `:45`
+- `13:15 UTC` morning Livewire pass
+- `15:15 UTC` morning Livewire retry

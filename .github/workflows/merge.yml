@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '45 */3 * * *' # Run slightly after the source feeds
+    - cron: '15 13 * * *' # Morning Livewire pass: 8:15 AM Central during daylight time
+    - cron: '15 15 * * *' # Morning Livewire retry: 10:15 AM Central during daylight time
 
 permissions:
   contents: write
