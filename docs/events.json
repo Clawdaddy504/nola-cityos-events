@@ -1,11 +1,11 @@
 {
-  "count": 2708,
-  "generated_at": "2026-06-05T17:31:57.489344+00:00",
+  "count": 2709,
+  "generated_at": "2026-06-05T20:32:30.008089+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 86
+      "count": 87
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -399,6 +399,18 @@
       "time_text": "3:00pm",
       "start": "2026-06-05T15:00:00+00:00",
       "description": "Venue: 21st Amendment | Date: Friday, June 5 | Time: 3:00pm"
+    },
+    {
+      "id": "c412cc75196f1f0f8c04487fdf8b9f8c53d2571c",
+      "source": "wwoz",
+      "title": "Matt Perronne Band",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1354706",
+      "date_text": "Friday, June 5",
+      "time_text": "3:00pm",
+      "start": "2026-06-05T15:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Friday, June 5 | Time: 3:00pm"
     },
     {
       "id": "804efac1e5c5cf8de3f27b7dd45a41ab0cda5871",
