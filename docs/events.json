@@ -1,11 +1,11 @@
 {
-  "count": 2525,
-  "generated_at": "2026-06-10T18:08:57.701578+00:00",
+  "count": 2526,
+  "generated_at": "2026-06-10T21:16:05.600616+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 57
+      "count": 58
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -243,6 +243,18 @@
       "event_url": "https://nola.show/index.html?venue=Spotted%20Cat%20Music%20Club",
       "start": "2026-06-10T14:00:00-05:00",
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-06-10T14:00:00-05:00"
+    },
+    {
+      "id": "d6cf24c20271dbd0f500efe287301d69baecf251",
+      "source": "wwoz",
+      "title": "Christian Coleman & His Band",
+      "venue": "Market Caf\u00e9 (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/market-cafe-outdoors",
+      "event_url": "https://www.wwoz.org/events/1356096",
+      "date_text": "Wednesday, June 10",
+      "time_text": "3:00pm",
+      "start": "2026-06-10T15:00:00+00:00",
+      "description": "Venue: Market Caf\u00e9 (OUTDOORS) | Date: Wednesday, June 10 | Time: 3:00pm"
     },
     {
       "id": "bd86abcbdc706846936f291be1b9f0de0907a65a",
