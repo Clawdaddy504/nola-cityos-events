@@ -1,6 +1,6 @@
 {
   "count": 2625,
-  "generated_at": "2026-06-11T18:27:35.076433+00:00",
+  "generated_at": "2026-06-11T21:08:40.563793+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -1044,6 +1044,18 @@
       "description": "Venue: Cafe Negril | Starts: 2026-06-11T18:30:00-05:00"
     },
     {
+      "id": "631761a0a7e69d295395b8393f99588bb7193ea2",
+      "source": "wwoz",
+      "title": "The Sundown Social Club with DJ: The Gold Man",
+      "venue": "Broadside",
+      "venue_url": "https://www.wwoz.org/organizations/broadside",
+      "event_url": "https://www.wwoz.org/events/1356376",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Broadside | Date: Thursday, June 11 | Time: 7:00pm"
+    },
+    {
       "id": "14e1496bd15c4e00c1e8c7caa93e1881c6186142",
       "source": "wwoz",
       "title": "Millie Grace Band",
@@ -1641,18 +1653,6 @@
       "venue": "BMC",
       "venue_url": "https://www.wwoz.org/organizations/bmc",
       "event_url": "https://www.wwoz.org/events/1348751",
-      "date_text": "Thursday, June 11",
-      "time_text": "9:00pm",
-      "start": "2026-06-11T21:00:00+00:00",
-      "description": "Venue: BMC | Date: Thursday, June 11 | Time: 9:00pm"
-    },
-    {
-      "id": "c450e158567f2f57d98c965ce3c3124f8b5b97fb",
-      "source": "wwoz",
-      "title": "J.A.M. Brass Band",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1355041",
       "date_text": "Thursday, June 11",
       "time_text": "9:00pm",
       "start": "2026-06-11T21:00:00+00:00",
