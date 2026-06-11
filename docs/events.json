@@ -1,11 +1,11 @@
 {
-  "count": 2625,
-  "generated_at": "2026-06-11T21:08:40.563793+00:00",
+  "count": 2628,
+  "generated_at": "2026-06-11T23:10:29.715758+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 83
+      "count": 86
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -1068,6 +1068,30 @@
       "description": "Venue: Buffa's | Date: Thursday, June 11 | Time: 7:00pm"
     },
     {
+      "id": "3968aeec2f0a9a363eb19a211b077ad5518b9710",
+      "source": "wwoz",
+      "title": "Grace Manor Haints & Basch Jernigan",
+      "venue": "Howlin' Wolf - The Den",
+      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
+      "event_url": "https://www.wwoz.org/events/1356686",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Howlin' Wolf - The Den | Date: Thursday, June 11 | Time: 7:00pm"
+    },
+    {
+      "id": "dfddaaf78ae013dbd77cf5c4c3b809f62e01b5ac",
+      "source": "wwoz",
+      "title": "The CoverTones - Rolling Stones Tribute : Get yer Ya Ya's show",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1356746",
+      "date_text": "Thursday, June 11",
+      "time_text": "7:00pm",
+      "start": "2026-06-11T19:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Thursday, June 11 | Time: 7:00pm"
+    },
+    {
       "id": "f3c3281c994b06f5301091364c39513eac8e151b",
       "source": "wwoz",
       "title": "Geovane Santos",
@@ -1392,6 +1416,18 @@
       "description": "Venue: Okay Bar | Date: Thursday, June 11 | Time: 8:00pm"
     },
     {
+      "id": "5bd50888df1e2dce9a8f000c590532744b2d63b2",
+      "source": "wwoz",
+      "title": "Open Mic Night",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1356751",
+      "date_text": "Thursday, June 11",
+      "time_text": "8:00pm",
+      "start": "2026-06-11T20:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Thursday, June 11 | Time: 8:00pm"
+    },
+    {
       "id": "b0972dab3d0c2d38aa7f3ff8559cb8f7e1bc6b47",
       "source": "wwoz",
       "title": "Da Lovebirds: Robin Barnes & Pat Casey",
@@ -1562,7 +1598,7 @@
     {
       "id": "c821dd6c99bc83cfb7a21e6198dc524a7d1b5a5b",
       "source": "wwoz",
-      "title": "Jerry Dugger's Acoustic Blues Duo",
+      "title": "Bayou Manouche",
       "venue": "May Baily's Place",
       "venue_url": "https://www.wwoz.org/organizations/may-bailys-place",
       "event_url": "https://www.wwoz.org/events/1346131",
