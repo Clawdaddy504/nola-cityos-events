@@ -1,11 +1,11 @@
 {
-  "count": 2523,
-  "generated_at": "2026-06-26T17:24:32.729833+00:00",
+  "count": 2524,
+  "generated_at": "2026-06-26T20:22:51.851212+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 104
+      "count": 105
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -1870,6 +1870,18 @@
       "time_text": "9:00pm",
       "start": "2026-06-26T21:00:00+00:00",
       "description": "Venue: Good Measure at The Barnett | Date: Friday, June 26 | Time: 9:00pm"
+    },
+    {
+      "id": "53a7ebf29dd278427f224ac5ad2a63f77070cb85",
+      "source": "wwoz",
+      "title": "Refried Confuzion",
+      "venue": "Gretna Tavern",
+      "venue_url": "https://www.wwoz.org/organizations/gretna-tavern",
+      "event_url": "https://www.wwoz.org/events/1361221",
+      "date_text": "Friday, June 26",
+      "time_text": "9:00pm",
+      "start": "2026-06-26T21:00:00+00:00",
+      "description": "Venue: Gretna Tavern | Date: Friday, June 26 | Time: 9:00pm"
     },
     {
       "id": "a13c9143b34c61eb4f76fca362da0398f7ac2165",
