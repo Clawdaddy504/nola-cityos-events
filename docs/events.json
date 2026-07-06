@@ -1,11 +1,11 @@
 {
-  "count": 2452,
-  "generated_at": "2026-07-06T11:16:22.617635+00:00",
+  "count": 2453,
+  "generated_at": "2026-07-06T16:05:26.228001+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 43
+      "count": 44
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -453,6 +453,18 @@
       "time_text": "11:00am",
       "start": "2026-07-06T11:00:00+00:00",
       "description": "Venue: Steamboat Natchez | Date: Monday, July 6 | Time: 11:00am"
+    },
+    {
+      "id": "7c0caf34622b5bfb33712d70044987bbaa337497",
+      "source": "wwoz",
+      "title": "The New Orleans Rug Cutters",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1367176",
+      "date_text": "Monday, July 6",
+      "time_text": "12:00pm",
+      "start": "2026-07-06T12:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Monday, July 6 | Time: 12:00pm"
     },
     {
       "id": "nola-show-46270",
