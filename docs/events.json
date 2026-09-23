@@ -1,11 +1,11 @@
 {
-  "count": 1655,
-  "generated_at": "2026-09-22T23:50:51.316409+00:00",
+  "count": 1656,
+  "generated_at": "2026-09-23T05:13:07.345293+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 53
+      "count": 54
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -739,6 +739,18 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4811785",
       "description": "Venue: Siberia\nStarts: 2026-09-22T19:00:00.000-07:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://www.siberianola.com/\n\nSubscribe to OffBeat.com to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
       "pubDate": "Tue, 21 Apr 2026 14:05:38 -0700"
+    },
+    {
+      "id": "9c91558a6d257d39226deed5d76a0cef37fd6f4c",
+      "source": "wwoz",
+      "title": "The Sam Lobley Trio",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1393326",
+      "date_text": "Tuesday, September 22",
+      "time_text": "7:30pm",
+      "start": "2026-09-22T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Tuesday, September 22 | Time: 7:30pm"
     },
     {
       "id": "8ffc4af3e589de0440da9361e7ed09f9168fa9e3",
