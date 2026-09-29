@@ -1,11 +1,11 @@
 {
-  "count": 1700,
-  "generated_at": "2026-09-29T01:16:43.574801+00:00",
+  "count": 1726,
+  "generated_at": "2026-09-29T10:08:41.964564+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 53
+      "count": 57
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -15,400 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1552
+      "count": 1574
     }
   ],
   "events": [
-    {
-      "id": "nola-show-55962",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Public Service Bar @ NOPSI Hotel",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T10:00:00-05:00",
-      "description": "Venue: Public Service Bar @ NOPSI Hotel | Starts: 2026-09-27T10:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54886",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T11:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-09-27T11:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56900",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Broadside",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T12:00:00-05:00",
-      "description": "Venue: Broadside | Starts: 2026-09-27T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54554",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Columns",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T12:00:00-05:00",
-      "description": "Venue: The Columns | Starts: 2026-09-27T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57740",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BMac's",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T12:00:00-05:00",
-      "description": "Venue: BMac's | Starts: 2026-09-27T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-52904",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T13:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-09-27T13:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54751",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T14:00:00-05:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-27T14:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55431",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Preservation Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T14:30:00-05:00",
-      "description": "Venue: Preservation Hall | Starts: 2026-09-27T14:30:00-05:00"
-    },
-    {
-      "id": "nola-show-55680",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Mahogany Jazz Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T14:30:00-05:00",
-      "description": "Venue: Mahogany Jazz Hall | Starts: 2026-09-27T14:30:00-05:00"
-    },
-    {
-      "id": "nola-show-55781",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Balcony Music Club (BMC)",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T15:00:00-05:00",
-      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-09-27T15:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56510",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T15:00:00.979000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-09-27T15:00:00.979000-05:00"
-    },
-    {
-      "id": "nola-show-55837",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Negril",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T16:00:00-05:00",
-      "description": "Venue: Cafe Negril | Starts: 2026-09-27T16:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55901",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T16:00:00-05:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-09-27T16:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55384",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Snug Harbor Jazz Bistro",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T16:30:00-05:00",
-      "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-09-27T16:30:00-05:00"
-    },
-    {
-      "id": "nola-show-55914",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "NOLA Brewing",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T17:00:00-05:00",
-      "description": "Venue: NOLA Brewing | Starts: 2026-09-27T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56205",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Gasa Gasa",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T17:00:00-05:00",
-      "description": "Venue: Gasa Gasa | Starts: 2026-09-27T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56889",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "House of Blues Voodoo Garden",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T17:30:00-05:00",
-      "description": "Venue: House of Blues Voodoo Garden | Starts: 2026-09-27T17:30:00-05:00"
-    },
-    {
-      "id": "nola-show-53871",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "d.b.a.",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T18:00:00-05:00",
-      "description": "Venue: d.b.a. | Starts: 2026-09-27T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56807",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maison",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T18:00:00-05:00",
-      "description": "Venue: Maison | Starts: 2026-09-27T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56032",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Apple Barrel",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T18:00:00-05:00",
-      "description": "Venue: Apple Barrel | Starts: 2026-09-27T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56635",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Allways Lounge & Cabaret",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T19:00:00-05:00",
-      "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-09-27T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-53498",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Jazz Playhouse at the Royal Sonesta",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T19:30:00-05:00",
-      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-09-27T19:30:00-05:00"
-    },
-    {
-      "id": "nola-show-57580",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Three Muses",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T19:30:00.711000-05:00",
-      "description": "Venue: Three Muses | Starts: 2026-09-27T19:30:00.711000-05:00"
-    },
-    {
-      "id": "nola-show-53061",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Chickie Wah Wah",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Chickie Wah Wah | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57885",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Santos Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Santos Bar | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-45073",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Tipitina's",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Tipitina's | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56918",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Saturn Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Saturn Bar | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56489",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Poor Boys",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Poor Boys | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57623",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dos Jefes",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Dos Jefes | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56128",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Fred Hampton Free Store",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00-05:00",
-      "description": "Venue: Fred Hampton Free Store | Starts: 2026-09-27T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-53893",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Holy Diver",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00.561000-05:00",
-      "description": "Venue: Holy Diver | Starts: 2026-09-27T20:00:00.561000-05:00"
-    },
-    {
-      "id": "nola-show-56391",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Istanbul",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T20:00:00.733000-05:00",
-      "description": "Venue: Cafe Istanbul | Starts: 2026-09-27T20:00:00.733000-05:00"
-    },
-    {
-      "id": "nola-show-57088",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maple Leaf Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T21:00:00-05:00",
-      "description": "Venue: Maple Leaf Bar | Starts: 2026-09-27T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-53702",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Siberia",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T21:00:00-05:00",
-      "description": "Venue: Siberia | Starts: 2026-09-27T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56873",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Blue Nile",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T21:00:00-05:00",
-      "description": "Venue: Blue Nile | Starts: 2026-09-27T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56097",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BJ's Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T21:00:00-05:00",
-      "description": "Venue: BJ's Lounge | Starts: 2026-09-27T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-52040",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Howlin' Wolf",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T22:30:00-05:00",
-      "description": "Venue: The Howlin' Wolf | Starts: 2026-09-27T22:30:00-05:00"
-    },
-    {
-      "id": "nola-show-57364",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hide/Seek",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-27T23:00:00-05:00",
-      "description": "Venue: Hide/Seek | Starts: 2026-09-27T23:00:00-05:00"
-    },
-    {
-      "id": "5d4d90d892cb554d60de721c6c79d4131fbc982c",
-      "source": "wwoz",
-      "title": "Trombone Slim & the Creole Trio",
-      "venue": "Caf\u00e9 Beignet at The Sheraton",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-beignet-sheraton",
-      "event_url": "https://www.wwoz.org/events/1385261",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00am",
-      "start": "2026-09-28T08:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Beignet at The Sheraton | Date: Monday, September 28 | Time: 8:00am"
-    },
-    {
-      "id": "4329d2762adeeb847a1676970d8edd01f63c94f7",
-      "source": "wwoz",
-      "title": "Manny Artega",
-      "venue": "Le Ponce",
-      "venue_url": "https://www.wwoz.org/organizations/le-ponce",
-      "event_url": "https://www.wwoz.org/events/1379176",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00am",
-      "start": "2026-09-28T08:00:00+00:00",
-      "description": "Venue: Le Ponce | Date: Monday, September 28 | Time: 8:00am"
-    },
-    {
-      "id": "ffe9a153140a941b6e32587457265a413bcebd0c",
-      "source": "wwoz",
-      "title": "Bob Macy",
-      "venue": "Caf\u00e9 Beignet on Decatur",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-beignet-decatur",
-      "event_url": "https://www.wwoz.org/events/1390761",
-      "date_text": "Monday, September 28",
-      "time_text": "10:00am",
-      "start": "2026-09-28T10:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Beignet on Decatur | Date: Monday, September 28 | Time: 10:00am"
-    },
-    {
-      "id": "904d50a8985808d253de4730d273122d0e318111",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1386831",
-      "date_text": "Monday, September 28",
-      "time_text": "11:00am",
-      "start": "2026-09-28T11:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 11:00am"
-    },
     {
       "id": "nola-show-51473",
       "source": "nola_show",
@@ -419,18 +29,6 @@
       "description": "Venue: NOLA Brewing | Starts: 2026-09-28T11:00:00-05:00"
     },
     {
-      "id": "ecebe210fccc77616c2986d297e6f33102db59ea",
-      "source": "wwoz",
-      "title": "The New Orleans Rug Cutters",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1388071",
-      "date_text": "Monday, September 28",
-      "time_text": "12:00pm",
-      "start": "2026-09-28T12:00:00+00:00",
-      "description": "Venue: Bamboula's | Date: Monday, September 28 | Time: 12:00pm"
-    },
-    {
       "id": "nola-show-51696",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -438,30 +36,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T12:00:00-05:00",
       "description": "Venue: Bacchanal | Starts: 2026-09-28T12:00:00-05:00"
-    },
-    {
-      "id": "585988e708c5bfc2d8e1d967ccae70ae4baba8b7",
-      "source": "wwoz",
-      "title": "Open Jazz Jam Session with the Matinee All Stars Band",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1383716",
-      "date_text": "Monday, September 28",
-      "time_text": "1:00pm",
-      "start": "2026-09-28T13:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 1:00pm"
-    },
-    {
-      "id": "c87850e1c81c756b0038f5f923a7869014ea15b5",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1387001",
-      "date_text": "Monday, September 28",
-      "time_text": "2:00pm",
-      "start": "2026-09-28T14:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 2:00pm"
     },
     {
       "id": "nola-show-49097",
@@ -482,66 +56,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-28T14:00:00-05:00"
     },
     {
-      "id": "a8960dfa42885944eac185eeb00d412927fd477a",
-      "source": "wwoz",
-      "title": "Les Getrex",
-      "venue": "Cajun Boil House",
-      "venue_url": "https://www.wwoz.org/organizations/cajun-boil-house",
-      "event_url": "https://www.wwoz.org/events/1381461",
-      "date_text": "Monday, September 28",
-      "time_text": "3:00pm",
-      "start": "2026-09-28T15:00:00+00:00",
-      "description": "Venue: Cajun Boil House | Date: Monday, September 28 | Time: 3:00pm"
-    },
-    {
-      "id": "ee9d40c3364559fc671911d317940830f24c00cb",
-      "source": "wwoz",
-      "title": "Jon Roniger & The Good For Nothin' Band",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1388076",
-      "date_text": "Monday, September 28",
-      "time_text": "4:30pm",
-      "start": "2026-09-28T16:30:00+00:00",
-      "description": "Venue: Bamboula's | Date: Monday, September 28 | Time: 4:30pm"
-    },
-    {
-      "id": "ce61378d1fedea0f9a1763e6de68a7977436834e",
-      "source": "wwoz",
-      "title": "Tin Men",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1383751",
-      "date_text": "Monday, September 28",
-      "time_text": "5:00pm",
-      "start": "2026-09-28T17:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 5:00pm"
-    },
-    {
-      "id": "b8235164bb4e1ce409a2c758f20f0d343d471a78",
-      "source": "wwoz",
-      "title": "Sugar & the Daddies",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1385306",
-      "date_text": "Monday, September 28",
-      "time_text": "5:00pm",
-      "start": "2026-09-28T17:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Monday, September 28 | Time: 5:00pm"
-    },
-    {
-      "id": "12369f310414644f3e0dbc3c4e43d679dae443d0",
-      "source": "wwoz",
-      "title": "Preservation Brass",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1379801",
-      "date_text": "Monday, September 28",
-      "time_text": "5:00pm",
-      "start": "2026-09-28T17:00:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Monday, September 28 | Time: 5:00pm"
-    },
-    {
       "id": "nola-show-55090",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -549,114 +63,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-09-28T17:00:00-05:00"
-    },
-    {
-      "id": "81ce16ee3497af6924f013f1cef9b3dd687637eb",
-      "source": "wwoz",
-      "title": "David Boeddinghaus",
-      "venue": "Polo Club at Windsor Court, The",
-      "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
-      "event_url": "https://www.wwoz.org/events/1385901",
-      "date_text": "Monday, September 28",
-      "time_text": "5:30pm",
-      "start": "2026-09-28T17:30:00+00:00",
-      "description": "Venue: Polo Club at Windsor Court, The | Date: Monday, September 28 | Time: 5:30pm"
-    },
-    {
-      "id": "34c93a9df12a4a654eb9cc5c0b95e260095c0ee5",
-      "source": "wwoz",
-      "title": "Dapper Dandies",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1388916",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "b93675fab12721a531003453faa29c9f9d9fcdcd",
-      "source": "wwoz",
-      "title": "Byron Asher",
-      "venue": "Bacchanal (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
-      "event_url": "https://www.wwoz.org/events/1373486",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Bacchanal (OUTDOORS) | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "63ed01b01a9f1ac8a45a4ad22e1debdc049964d0",
-      "source": "wwoz",
-      "title": "Ben Flood Jazz Trio",
-      "venue": "Crescent City Brewhouse",
-      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
-      "event_url": "https://www.wwoz.org/events/1380701",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Crescent City Brewhouse | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "3518e164b79b33857cbfbe1833a5194d3bbee512",
-      "source": "wwoz",
-      "title": "Secret Six Jazz Band",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1381261",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: d.b.a. | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "e3a0fac75158989712d0d23e76c4a3810c07b12d",
-      "source": "wwoz",
-      "title": "Tom Hook",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1383066",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "0bc9e2def18595826deb0c7e2ade3da274794490",
-      "source": "wwoz",
-      "title": "(CANCELLED) Kermit Ruffins: Red Bean Mondays",
-      "venue": "Mayfield's 208 Bourbon presented by Felix's",
-      "venue_url": "https://www.wwoz.org/organizations/mayfields-208-bourbon-presented-felixs",
-      "event_url": "https://www.wwoz.org/events/1388401",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "0e527277d38de4ab3d833a3305d54aa089e76ea0",
-      "source": "wwoz",
-      "title": "Matt Hayden + Jim Lockwood",
-      "venue": "Pat O'Brien's",
-      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
-      "event_url": "https://www.wwoz.org/events/1382766",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Pat O'Brien's | Date: Monday, September 28 | Time: 6:00pm"
-    },
-    {
-      "id": "8fb7c04596f8c1fd7148f6c0c2ecdeec2883e49b",
-      "source": "wwoz",
-      "title": "Dukes of Dixieland",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1387161",
-      "date_text": "Monday, September 28",
-      "time_text": "6:00pm",
-      "start": "2026-09-28T18:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Monday, September 28 | Time: 6:00pm"
     },
     {
       "id": "nola-show-53872",
@@ -704,78 +110,6 @@
       "description": "Venue: 30/90 | Starts: 2026-09-28T18:00:00.732000-05:00"
     },
     {
-      "id": "dad24c0416bcd673a9fa8a6fdb14a03fb8574f26",
-      "source": "wwoz",
-      "title": "Preservation Brass",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1379821",
-      "date_text": "Monday, September 28",
-      "time_text": "6:15pm",
-      "start": "2026-09-28T18:15:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Monday, September 28 | Time: 6:15pm"
-    },
-    {
-      "id": "4d51b86d86cf316c7c368f9f9fc1f9449663692b",
-      "source": "wwoz",
-      "title": "Betsy Propane's Smoke Show Cabaret",
-      "venue": "AllWays Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1379631",
-      "date_text": "Monday, September 28",
-      "time_text": "7:00pm",
-      "start": "2026-09-28T19:00:00+00:00",
-      "description": "Venue: AllWays Lounge | Date: Monday, September 28 | Time: 7:00pm"
-    },
-    {
-      "id": "710208f40c5d09084baaaaa5dcfab5891995131c",
-      "source": "wwoz",
-      "title": "David Doucet",
-      "venue": "Buffa's",
-      "venue_url": "https://www.wwoz.org/organizations/buffas",
-      "event_url": "https://www.wwoz.org/events/1384336",
-      "date_text": "Monday, September 28",
-      "time_text": "7:00pm",
-      "start": "2026-09-28T19:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Monday, September 28 | Time: 7:00pm"
-    },
-    {
-      "id": "32d7bc8a53f6c85742e4375184e9c384118f85a1",
-      "source": "wwoz",
-      "title": "George Porter Jr. Trio ft. Chris Adkins",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1386141",
-      "date_text": "Monday, September 28",
-      "time_text": "7:00pm",
-      "start": "2026-09-28T19:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Monday, September 28 | Time: 7:00pm"
-    },
-    {
-      "id": "0844db8dcbca602da98b67c46e342fb85938d24c",
-      "source": "wwoz",
-      "title": "NOLA Pickin\u2019 Party Bluegrass Jam",
-      "venue": "NOLA Brewing",
-      "venue_url": "https://www.wwoz.org/organizations/nola-brewing",
-      "event_url": "https://www.wwoz.org/events/1312896",
-      "date_text": "Monday, September 28",
-      "time_text": "7:00pm",
-      "start": "2026-09-28T19:00:00+00:00",
-      "description": "Venue: NOLA Brewing | Date: Monday, September 28 | Time: 7:00pm"
-    },
-    {
-      "id": "37703b2cfe9d09a026c1a7b56f4bcbfb984c882e",
-      "source": "wwoz",
-      "title": "Dave Ferrato",
-      "venue": "Tropical Isle Original",
-      "venue_url": "https://www.wwoz.org/organizations/tropical-isle-original",
-      "event_url": "https://www.wwoz.org/events/1387421",
-      "date_text": "Monday, September 28",
-      "time_text": "7:00pm",
-      "start": "2026-09-28T19:00:00+00:00",
-      "description": "Venue: Tropical Isle Original | Date: Monday, September 28 | Time: 7:00pm"
-    },
-    {
       "id": "nola-show-56402",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -801,42 +135,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T19:00:00-05:00",
       "description": "Venue: Tell Me Bar | Starts: 2026-09-28T19:00:00-05:00"
-    },
-    {
-      "id": "4b926c6de6a8da2f76749583383c8611c04df3b4",
-      "source": "wwoz",
-      "title": "Preservation Brass",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1379841",
-      "date_text": "Monday, September 28",
-      "time_text": "7:30pm",
-      "start": "2026-09-28T19:30:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Monday, September 28 | Time: 7:30pm"
-    },
-    {
-      "id": "af5ac533d17653c48a2ce6a7e1f67c533c4a1e84",
-      "source": "wwoz",
-      "title": "Charmaine Neville Band",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1385706",
-      "date_text": "Monday, September 28",
-      "time_text": "7:30pm",
-      "start": "2026-09-28T19:30:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Monday, September 28 | Time: 7:30pm"
-    },
-    {
-      "id": "248afc8ebadcdb35347e19f0096787d0b4031656",
-      "source": "wwoz",
-      "title": "Johanna Rose",
-      "venue": "Three Muses",
-      "venue_url": "https://www.wwoz.org/organizations/three-muses",
-      "event_url": "https://www.wwoz.org/events/1393541",
-      "date_text": "Monday, September 28",
-      "time_text": "7:30pm",
-      "start": "2026-09-28T19:30:00+00:00",
-      "description": "Venue: Three Muses | Date: Monday, September 28 | Time: 7:30pm"
     },
     {
       "id": "nola-show-55426",
@@ -873,126 +171,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T19:30:00.149000-05:00",
       "description": "Venue: Three Muses | Starts: 2026-09-28T19:30:00.149000-05:00"
-    },
-    {
-      "id": "f768593ddb4796834a1b0f6015ff2f0a5466fe0d",
-      "source": "wwoz",
-      "title": "James Beaumont & Coyote Duo",
-      "venue": "21st Amendment",
-      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
-      "event_url": "https://www.wwoz.org/events/1381656",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: 21st Amendment | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "5642e4e497ceb3c0aa09930d26542f00a1879973",
-      "source": "wwoz",
-      "title": "Ross Hoppe",
-      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
-      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
-      "event_url": "https://www.wwoz.org/events/1384616",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "8b4b178d19448337d89221014ff60559091ad2d6",
-      "source": "wwoz",
-      "title": "John Boutt\u00e9 with Oscar Rossignoli, Nobu Ozaki & Caleb Tokarska",
-      "venue": "Caf\u00e9 Istanbul",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-istanbul",
-      "event_url": "https://www.wwoz.org/events/1373766",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Istanbul | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "726ee23c3010606c94d693783b489681d291611b",
-      "source": "wwoz",
-      "title": "Tom Hook",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1390386",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "8a72c2c0fed9e777daf19f2675be826768b15e65",
-      "source": "wwoz",
-      "title": "Richard Scott & Friends",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1383771",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "4ffcc05352bd0eef72e82a89c58f34b96e4c64c1",
-      "source": "wwoz",
-      "title": "The Original Tuxedo Jazz Band",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1373726",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "06e57d48612ef3dc7bfdde65411964ee1f0b2fcb",
-      "source": "wwoz",
-      "title": "Danny Rubio & the Catahoula Music Company ft. Jack Pritchett",
-      "venue": "Maison Bourbon Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1389306",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Maison Bourbon Jazz Club | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "498e598884cb2d63d5b7a572a052856bb116dcde",
-      "source": "wwoz",
-      "title": "BC Coogan",
-      "venue": "Saturn Bar",
-      "venue_url": "https://www.wwoz.org/organizations/saturn-bar",
-      "event_url": "https://www.wwoz.org/events/1374011",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Saturn Bar | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "303cc075677a372cf736173493f6023c8d4d9c93",
-      "source": "wwoz",
-      "title": "Danny Alexander Blues Jam",
-      "venue": "True South",
-      "venue_url": "https://www.wwoz.org/organizations/true-south",
-      "event_url": "https://www.wwoz.org/events/1393361",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: True South | Date: Monday, September 28 | Time: 8:00pm"
-    },
-    {
-      "id": "e62f85cd93e33f27ff20b2fd076febadd2423691",
-      "source": "wwoz",
-      "title": "I Wrote a Song (A Big Gay Musical)",
-      "venue": "Twilight Room at The Allways Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/twilight-room-allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1390586",
-      "date_text": "Monday, September 28",
-      "time_text": "8:00pm",
-      "start": "2026-09-28T20:00:00+00:00",
-      "description": "Venue: Twilight Room at The Allways Lounge | Date: Monday, September 28 | Time: 8:00pm"
     },
     {
       "id": "nola-show-53958",
@@ -1040,30 +218,6 @@
       "description": "Venue: Cafe Istanbul | Starts: 2026-09-28T20:00:00.446000-05:00"
     },
     {
-      "id": "e6f60e7ef18f9f16ef60831c4c1fffa7c3c725b6",
-      "source": "wwoz",
-      "title": "Keep It Rolling Brass Band",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1385126",
-      "date_text": "Monday, September 28",
-      "time_text": "8:30pm",
-      "start": "2026-09-28T20:30:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Monday, September 28 | Time: 8:30pm"
-    },
-    {
-      "id": "6a9cdc67f877a1c1209f380bc395cd736588fb30",
-      "source": "wwoz",
-      "title": "John Fohl",
-      "venue": "Dos Jefes",
-      "venue_url": "https://www.wwoz.org/organizations/dos-jefes",
-      "event_url": "https://www.wwoz.org/events/1381936",
-      "date_text": "Monday, September 28",
-      "time_text": "8:30pm",
-      "start": "2026-09-28T20:30:00+00:00",
-      "description": "Venue: Dos Jefes | Date: Monday, September 28 | Time: 8:30pm"
-    },
-    {
       "id": "nola-show-57259",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1080,66 +234,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T20:30:00-05:00",
       "description": "Venue: Dos Jefes | Starts: 2026-09-28T20:30:00-05:00"
-    },
-    {
-      "id": "0017aebf4be6bf412141c901a28e6a60d7e674af",
-      "source": "wwoz",
-      "title": "The Velvet Collective",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1388926",
-      "date_text": "Monday, September 28",
-      "time_text": "9:00pm",
-      "start": "2026-09-28T21:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Monday, September 28 | Time: 9:00pm"
-    },
-    {
-      "id": "3950bfb50a63274ecdef963054f0216995601927",
-      "source": "wwoz",
-      "title": "Ted Hefko & the Thousandaires",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1388111",
-      "date_text": "Monday, September 28",
-      "time_text": "9:00pm",
-      "start": "2026-09-28T21:00:00+00:00",
-      "description": "Venue: Bamboula's | Date: Monday, September 28 | Time: 9:00pm"
-    },
-    {
-      "id": "b316ad44b680f47772e9f6e77fc5e3aecf5dc9ee",
-      "source": "wwoz",
-      "title": "Red Beans & Blues with Washboard Chaz & Jonathan Freilich",
-      "venue": "BJ's Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
-      "event_url": "https://www.wwoz.org/events/1383261",
-      "date_text": "Monday, September 28",
-      "time_text": "9:00pm",
-      "start": "2026-09-28T21:00:00+00:00",
-      "description": "Venue: BJ's Lounge | Date: Monday, September 28 | Time: 9:00pm"
-    },
-    {
-      "id": "89bb3d074b41fb230a931543a7e58ed4ec18def5",
-      "source": "wwoz",
-      "title": "Sporty's Brass Band",
-      "venue": "Da Jump Off Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/da-jump-lounge",
-      "event_url": "https://www.wwoz.org/events/1386731",
-      "date_text": "Monday, September 28",
-      "time_text": "9:00pm",
-      "start": "2026-09-28T21:00:00+00:00",
-      "description": "Venue: Da Jump Off Lounge | Date: Monday, September 28 | Time: 9:00pm"
-    },
-    {
-      "id": "d93b0ac9ac2d67007f540efc08724a46c817f93e",
-      "source": "wwoz",
-      "title": "5/4 String Band + Los Pozitos",
-      "venue": "St. Roch Tavern",
-      "venue_url": "https://www.wwoz.org/organizations/st-roch-tavern",
-      "event_url": "https://www.wwoz.org/events/1389241",
-      "date_text": "Monday, September 28",
-      "time_text": "9:00pm",
-      "start": "2026-09-28T21:00:00+00:00",
-      "description": "Venue: St. Roch Tavern | Date: Monday, September 28 | Time: 9:00pm"
     },
     {
       "id": "nola-show-56105",
@@ -1160,78 +254,6 @@
       "description": "Venue: Cafe Negril | Starts: 2026-09-28T21:00:00-05:00"
     },
     {
-      "id": "4215ce578776ad6ee0961537afebf0a44eac00ea",
-      "source": "wwoz",
-      "title": "Corey Henry presents Red Beans & Ricely Yours",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1378056",
-      "date_text": "Monday, September 28",
-      "time_text": "9:30pm",
-      "start": "2026-09-28T21:30:00+00:00",
-      "description": "Venue: d.b.a. | Date: Monday, September 28 | Time: 9:30pm"
-    },
-    {
-      "id": "c68272c000a863922f8a0e2dc775d36574dd0ee5",
-      "source": "wwoz",
-      "title": "Charmaine Neville Band",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1385701",
-      "date_text": "Monday, September 28",
-      "time_text": "9:30pm",
-      "start": "2026-09-28T21:30:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Monday, September 28 | Time: 9:30pm"
-    },
-    {
-      "id": "6af9321c47cc14723b25033314b0126ddfe50ea6",
-      "source": "wwoz",
-      "title": "Biscuits n' Jam with Meryl Zimmerman & Friends",
-      "venue": "Carrollton Station",
-      "venue_url": "https://www.wwoz.org/organizations/carrollton-station",
-      "event_url": "https://www.wwoz.org/events/1385821",
-      "date_text": "Monday, September 28",
-      "time_text": "10:00pm",
-      "start": "2026-09-28T22:00:00+00:00",
-      "description": "Venue: Carrollton Station | Date: Monday, September 28 | Time: 10:00pm"
-    },
-    {
-      "id": "3f1e527df1344f530f0675618d2bad10fce05db8",
-      "source": "wwoz",
-      "title": "Guiding Light + W-9 + The Convenience",
-      "venue": "Holy Diver",
-      "venue_url": "https://www.wwoz.org/organizations/holy-diver",
-      "event_url": "https://www.wwoz.org/events/1374126",
-      "date_text": "Monday, September 28",
-      "time_text": "10:00pm",
-      "start": "2026-09-28T22:00:00+00:00",
-      "description": "Venue: Holy Diver | Date: Monday, September 28 | Time: 10:00pm"
-    },
-    {
-      "id": "a5163c9e3fdbd04334515ccfc0f8e5ac5a021d1f",
-      "source": "wwoz",
-      "title": "George Porter Jr. Trio ft. Chris Adkins",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1386701",
-      "date_text": "Monday, September 28",
-      "time_text": "10:00pm",
-      "start": "2026-09-28T22:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Monday, September 28 | Time: 10:00pm"
-    },
-    {
-      "id": "a5d7d32c783808783c79c9055c6dc5dbc3f9d4b1",
-      "source": "wwoz",
-      "title": "BC Coogan",
-      "venue": "Saturn Bar",
-      "venue_url": "https://www.wwoz.org/organizations/saturn-bar",
-      "event_url": "https://www.wwoz.org/events/1382291",
-      "date_text": "Monday, September 28",
-      "time_text": "10:00pm",
-      "start": "2026-09-28T22:00:00+00:00",
-      "description": "Venue: Saturn Bar | Date: Monday, September 28 | Time: 10:00pm"
-    },
-    {
       "id": "nola-show-56422",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1239,6 +261,42 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-28T22:00:00-05:00",
       "description": "Venue: Carrollton Station | Starts: 2026-09-28T22:00:00-05:00"
+    },
+    {
+      "id": "d16f8fcd57d375959ea06b4d01f7c671670aee55",
+      "source": "wwoz",
+      "title": "Bob Macy",
+      "venue": "Caf\u00e9 Beignet on Decatur",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-beignet-decatur",
+      "event_url": "https://www.wwoz.org/events/1390766",
+      "date_text": "Tuesday, September 29",
+      "time_text": "10:00am",
+      "start": "2026-09-29T10:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Beignet on Decatur | Date: Tuesday, September 29 | Time: 10:00am"
+    },
+    {
+      "id": "7c1fd6ebfd8a0109c230604f2d4c60cccc13e8e0",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1386856",
+      "date_text": "Tuesday, September 29",
+      "time_text": "11:00am",
+      "start": "2026-09-29T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 11:00am"
+    },
+    {
+      "id": "d9b0ff747cf17c31fc27ec8426982a315c5f77fb",
+      "source": "wwoz",
+      "title": "F K-rrera Group",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1388131",
+      "date_text": "Tuesday, September 29",
+      "time_text": "12:00pm",
+      "start": "2026-09-29T12:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, September 29 | Time: 12:00pm"
     },
     {
       "id": "nola-show-51742",
@@ -1250,6 +308,42 @@
       "description": "Venue: Bacchanal | Starts: 2026-09-29T12:00:00-05:00"
     },
     {
+      "id": "2f1c6ac5876cbd6b8052160851327e494a56b528",
+      "source": "wwoz",
+      "title": "Richard \"Piano\" Scott",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1383776",
+      "date_text": "Tuesday, September 29",
+      "time_text": "1:00pm",
+      "start": "2026-09-29T13:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 1:00pm"
+    },
+    {
+      "id": "4bfcb06a17dfe71a5671b91d66976f468930cbaa",
+      "source": "wwoz",
+      "title": "Chris Christy Band",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1380841",
+      "date_text": "Tuesday, September 29",
+      "time_text": "2:00pm",
+      "start": "2026-09-29T14:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 2:00pm"
+    },
+    {
+      "id": "84ca1b15946fa6a796e0fccb2be123630c2f7bb9",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1387006",
+      "date_text": "Tuesday, September 29",
+      "time_text": "2:00pm",
+      "start": "2026-09-29T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 2:00pm"
+    },
+    {
       "id": "nola-show-54755",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1257,6 +351,102 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T14:00:00-05:00",
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-29T14:00:00-05:00"
+    },
+    {
+      "id": "2af059972b655647ac5ca31c6f38123f9ff43f0c",
+      "source": "wwoz",
+      "title": "Les Getrex",
+      "venue": "Cajun Boil House",
+      "venue_url": "https://www.wwoz.org/organizations/cajun-boil-house",
+      "event_url": "https://www.wwoz.org/events/1381466",
+      "date_text": "Tuesday, September 29",
+      "time_text": "3:00pm",
+      "start": "2026-09-29T15:00:00+00:00",
+      "description": "Venue: Cajun Boil House | Date: Tuesday, September 29 | Time: 3:00pm"
+    },
+    {
+      "id": "56b1aba7ca4ba09176681c242058240e02de788d",
+      "source": "wwoz",
+      "title": "Arrowhead Jazz Band with Raph Zee",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1384781",
+      "date_text": "Tuesday, September 29",
+      "time_text": "3:00pm",
+      "start": "2026-09-29T15:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Tuesday, September 29 | Time: 3:00pm"
+    },
+    {
+      "id": "b0c4a36f8f37bdd8e5026d4e2378cd22271b0f51",
+      "source": "wwoz",
+      "title": "Blake Amos",
+      "venue": "Audubon Clubhouse by Dickie Brennan",
+      "venue_url": "https://www.wwoz.org/organizations/audubon-clubhouse-dickie-brennan",
+      "event_url": "https://www.wwoz.org/events/1389746",
+      "date_text": "Tuesday, September 29",
+      "time_text": "4:30pm",
+      "start": "2026-09-29T16:30:00+00:00",
+      "description": "Venue: Audubon Clubhouse by Dickie Brennan | Date: Tuesday, September 29 | Time: 4:30pm"
+    },
+    {
+      "id": "176bfcf9b7437e0c21ddc4cb7759e510edd774a8",
+      "source": "wwoz",
+      "title": "Giselle Anguizola",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1388136",
+      "date_text": "Tuesday, September 29",
+      "time_text": "4:30pm",
+      "start": "2026-09-29T16:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, September 29 | Time: 4:30pm"
+    },
+    {
+      "id": "cca88e6d4d1699ade1261688ab8e8b35d1c15841",
+      "source": "wwoz",
+      "title": "Colin Myers Orchestra",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1383811",
+      "date_text": "Tuesday, September 29",
+      "time_text": "5:00pm",
+      "start": "2026-09-29T17:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 5:00pm"
+    },
+    {
+      "id": "2b1987f494be1420fcc29b7b8ae2560784db6538",
+      "source": "wwoz",
+      "title": "Jacky Blaire & the Hot Biscuits",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387581",
+      "date_text": "Tuesday, September 29",
+      "time_text": "5:00pm",
+      "start": "2026-09-29T17:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Tuesday, September 29 | Time: 5:00pm"
+    },
+    {
+      "id": "ef64ff66f480719b9738d4194e6454c134748e9f",
+      "source": "wwoz",
+      "title": "Corey Henry & The Treme Funktet",
+      "venue": "New Orleans Jazz Museum (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-museum-outdoors",
+      "event_url": "https://www.wwoz.org/events/1373751",
+      "date_text": "Tuesday, September 29",
+      "time_text": "5:00pm",
+      "start": "2026-09-29T17:00:00+00:00",
+      "description": "Venue: New Orleans Jazz Museum (OUTDOORS) | Date: Tuesday, September 29 | Time: 5:00pm"
+    },
+    {
+      "id": "7751628ab29db4119ec1c6b12840104170b8d465",
+      "source": "wwoz",
+      "title": "Preservation All-Stars",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1380171",
+      "date_text": "Tuesday, September 29",
+      "time_text": "5:00pm",
+      "start": "2026-09-29T17:00:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 5:00pm"
     },
     {
       "id": "nola-show-55093",
@@ -1275,6 +465,114 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T17:00:00.119000-05:00",
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-09-29T17:00:00.119000-05:00"
+    },
+    {
+      "id": "a78d6214c16c3497c18313481756d7012398b524",
+      "source": "wwoz",
+      "title": "John Royen",
+      "venue": "Polo Club at Windsor Court, The",
+      "venue_url": "https://www.wwoz.org/organizations/polo-club-windsor-court",
+      "event_url": "https://www.wwoz.org/events/1385986",
+      "date_text": "Tuesday, September 29",
+      "time_text": "5:30pm",
+      "start": "2026-09-29T17:30:00+00:00",
+      "description": "Venue: Polo Club at Windsor Court, The | Date: Tuesday, September 29 | Time: 5:30pm"
+    },
+    {
+      "id": "3ed9e17e33094210c9ba49006b937010b8cbaeb0",
+      "source": "wwoz",
+      "title": "Justin Donovan",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1389026",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "86b52c822386bed9627b58abf4588f300e968270",
+      "source": "wwoz",
+      "title": "Tangiers Combo",
+      "venue": "Bacchanal (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
+      "event_url": "https://www.wwoz.org/events/1373246",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Bacchanal (OUTDOORS) | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "035706f15e68d7e101fd8018916defb52dacca0a",
+      "source": "wwoz",
+      "title": "Tuesdays at Twilight ft. The Rocketmen",
+      "venue": "City Park - Pavilion of the Two Sisters",
+      "venue_url": "https://www.wwoz.org/organizations/city-park-pavilion-two-sisters",
+      "event_url": "https://www.wwoz.org/events/1392471",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: City Park - Pavilion of the Two Sisters | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "8b97ce31da1f5dd8933d8ef3a1ca1617d48ebb31",
+      "source": "wwoz",
+      "title": "Ricky Knight Jazz Trio",
+      "venue": "Crescent City Brewhouse",
+      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
+      "event_url": "https://www.wwoz.org/events/1380661",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Crescent City Brewhouse | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "c52b367c1ed983cb40aeb4b55016da521df5c7ed",
+      "source": "wwoz",
+      "title": "Big Joe Kennedy",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1383031",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "c44cadf854de88771da67b8f864b74d805de57d5",
+      "source": "wwoz",
+      "title": "(CANCELLED) Irvin Mayfield ft. Cyril Neville",
+      "venue": "Mayfield's 208 Bourbon presented by Felix's",
+      "venue_url": "https://www.wwoz.org/organizations/mayfields-208-bourbon-presented-felixs",
+      "event_url": "https://www.wwoz.org/events/1378071",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Mayfield's 208 Bourbon presented by Felix's | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "ef90db484207bcb875738e6efcb88cb475cf3075",
+      "source": "wwoz",
+      "title": "Sweetie Pies of New Orleans",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1380806",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 6:00pm"
+    },
+    {
+      "id": "a68746eb83edd575aea94b58c5250fe64eee5cbd",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1387201",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:00pm",
+      "start": "2026-09-29T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Tuesday, September 29 | Time: 6:00pm"
     },
     {
       "id": "nola-show-56036",
@@ -1322,6 +620,66 @@
       "description": "Venue: 30/90 | Starts: 2026-09-29T18:00:00.373000-05:00"
     },
     {
+      "id": "9754d98940fd9eeeb58958cb5a931c4a6a581e27",
+      "source": "wwoz",
+      "title": "Preservation All-Stars",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1380176",
+      "date_text": "Tuesday, September 29",
+      "time_text": "6:15pm",
+      "start": "2026-09-29T18:15:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 6:15pm"
+    },
+    {
+      "id": "687febd831c456c4beca2238177dc86d046aa6cd",
+      "source": "wwoz",
+      "title": "Alex McMurray",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1384291",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:00pm",
+      "start": "2026-09-29T19:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Tuesday, September 29 | Time: 7:00pm"
+    },
+    {
+      "id": "cdea28b676be5d1fe03b62eddbeb550ba2025fbd",
+      "source": "wwoz",
+      "title": "The-Super-Most-Fantastic-Blues-N-Such-Jam",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1384946",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:00pm",
+      "start": "2026-09-29T19:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Tuesday, September 29 | Time: 7:00pm"
+    },
+    {
+      "id": "d4c83cf24faafabd41c586cbb0a2bc1ae1f303e0",
+      "source": "wwoz",
+      "title": "Miss Myra Trio",
+      "venue": "Salon Salon",
+      "venue_url": "https://www.wwoz.org/organizations/salon-salon",
+      "event_url": "https://www.wwoz.org/events/1388671",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:00pm",
+      "start": "2026-09-29T19:00:00+00:00",
+      "description": "Venue: Salon Salon | Date: Tuesday, September 29 | Time: 7:00pm"
+    },
+    {
+      "id": "2414feff6c521dbdc661435db0153213a2933b80",
+      "source": "wwoz",
+      "title": "Dave Ferrato",
+      "venue": "Tropical Isle Original",
+      "venue_url": "https://www.wwoz.org/organizations/tropical-isle-original",
+      "event_url": "https://www.wwoz.org/events/1387426",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:00pm",
+      "start": "2026-09-29T19:00:00+00:00",
+      "description": "Venue: Tropical Isle Original | Date: Tuesday, September 29 | Time: 7:00pm"
+    },
+    {
       "id": "nola-show-49042",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1349,6 +707,42 @@
       "description": "Venue: Cafe Negril | Starts: 2026-09-29T19:00:00-05:00"
     },
     {
+      "id": "19c4b03272dbcb24e09c12921296743fdec4a3e3",
+      "source": "wwoz",
+      "title": "The Sam Lobley Trio",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1393331",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:30pm",
+      "start": "2026-09-29T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Tuesday, September 29 | Time: 7:30pm"
+    },
+    {
+      "id": "ae34da2a510da042987ff83b80fe182a960e23d2",
+      "source": "wwoz",
+      "title": "Preservation All-Stars",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1380181",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:30pm",
+      "start": "2026-09-29T19:30:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 7:30pm"
+    },
+    {
+      "id": "cc34d7e198a56f8a8a25e1fe521d113f08bf4e83",
+      "source": "wwoz",
+      "title": "Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal & Trevarri",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1374066",
+      "date_text": "Tuesday, September 29",
+      "time_text": "7:30pm",
+      "start": "2026-09-29T19:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Tuesday, September 29 | Time: 7:30pm"
+    },
+    {
       "id": "nola-show-55379",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1365,6 +759,162 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T19:30:00-05:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-09-29T19:30:00-05:00"
+    },
+    {
+      "id": "f7cb728f9a4a0d059d2de28a354474b5dfd02e68",
+      "source": "wwoz",
+      "title": "Dave Hammer",
+      "venue": "21st Amendment",
+      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
+      "event_url": "https://www.wwoz.org/events/1381566",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: 21st Amendment | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "035c09ec1a170e25fc987ce43a73adedfac808d6",
+      "source": "wwoz",
+      "title": "Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker & More!",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1373891",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "cd26c8a7008ae0074f451c8ea7ae5a9168ab0ed4",
+      "source": "wwoz",
+      "title": "Shawan Rice",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1384631",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "c3ef3e42d8f55ceeeede8b3a1cb013161320c1b5",
+      "source": "wwoz",
+      "title": "Rob Wagner, James Alsanders & Martin Masakowski",
+      "venue": "Caf\u00e9 Istanbul",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-istanbul",
+      "event_url": "https://www.wwoz.org/events/1373771",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Istanbul | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "670339ea6e16902539b7d6e9b2179113e7201b47",
+      "source": "wwoz",
+      "title": "Naomie April",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1390291",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "655fc1f567b69b2c2f59b967455eb206c2692684",
+      "source": "wwoz",
+      "title": "Soft Opening",
+      "venue": "Elysian Bar at Hotel Peter & Paul",
+      "venue_url": "https://www.wwoz.org/organizations/elysian-bar-hotel-peter-paul",
+      "event_url": "https://www.wwoz.org/events/1373996",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Elysian Bar at Hotel Peter & Paul | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "d59547090839f2851bb68a51dddeeb88c19f913d",
+      "source": "wwoz",
+      "title": "Fritzel's All Star Band with Jamil Sharif",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1383816",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "85a72042a3b9bfd104aae27129063f76e0794037",
+      "source": "wwoz",
+      "title": "Paul Longstreth ft. Leroy Jones & The Home Team",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1373731",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "69b202cc8d981da822167e5c89297d234f98f1ac",
+      "source": "wwoz",
+      "title": "Paradise Jazz Band",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1387691",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "0d255e0a89f3adfb4c10c1861067c06b4f8c4973",
+      "source": "wwoz",
+      "title": "Danny Rubio & the Catahoula Music Company ft. Jeff Kreis",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1389341",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "fb3c9ce6a2bf9bd1536f5086e10f2fa47af64321",
+      "source": "wwoz",
+      "title": "Very Good Tuesday",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1393546",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "708cabb30c7dd9bd5d994245eebfd424f27bac70",
+      "source": "wwoz",
+      "title": "Big Easy Stompers Line Dancing & Lessons",
+      "venue": "Okay Bar",
+      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
+      "event_url": "https://www.wwoz.org/events/1377961",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Okay Bar | Date: Tuesday, September 29 | Time: 8:00pm"
+    },
+    {
+      "id": "23d62f1008b688a199eda65d42655721db971792",
+      "source": "wwoz",
+      "title": "Monsieur Perin\u00e9 - Instrucciones Para Ser Feliz Tour",
+      "venue": "Tipitina's",
+      "venue_url": "https://www.wwoz.org/organizations/tipitinas",
+      "event_url": "https://www.wwoz.org/events/1349946",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:00pm",
+      "start": "2026-09-29T20:00:00+00:00",
+      "description": "Venue: Tipitina's | Date: Tuesday, September 29 | Time: 8:00pm"
     },
     {
       "id": "nola-show-48614",
@@ -1421,6 +971,30 @@
       "description": "Venue: Bayou Bar | Starts: 2026-09-29T20:00:00.662000-05:00"
     },
     {
+      "id": "ad4e7cc9d56390d243f8f72c514928cc67f781bb",
+      "source": "wwoz",
+      "title": "Jenna McSwain",
+      "venue": "Church at Hotel Peter & Paul, The",
+      "venue_url": "https://www.wwoz.org/organizations/church-hotel-peter-paul",
+      "event_url": "https://www.wwoz.org/events/1373986",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:30pm",
+      "start": "2026-09-29T20:30:00+00:00",
+      "description": "Venue: Church at Hotel Peter & Paul, The | Date: Tuesday, September 29 | Time: 8:30pm"
+    },
+    {
+      "id": "6cb72fd1cd725cd7e104f721fdb9f57639ebb971",
+      "source": "wwoz",
+      "title": "Tom Hook",
+      "venue": "Dos Jefes",
+      "venue_url": "https://www.wwoz.org/organizations/dos-jefes",
+      "event_url": "https://www.wwoz.org/events/1381951",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:30pm",
+      "start": "2026-09-29T20:30:00+00:00",
+      "description": "Venue: Dos Jefes | Date: Tuesday, September 29 | Time: 8:30pm"
+    },
+    {
       "id": "nola-show-57624",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1428,6 +1002,78 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T20:30:00-05:00",
       "description": "Venue: Dos Jefes | Starts: 2026-09-29T20:30:00-05:00"
+    },
+    {
+      "id": "5c03859494527883a572897df74e327e78fdad4f",
+      "source": "wwoz",
+      "title": "Preservation All-Stars",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1380186",
+      "date_text": "Tuesday, September 29",
+      "time_text": "8:45pm",
+      "start": "2026-09-29T20:45:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Tuesday, September 29 | Time: 8:45pm"
+    },
+    {
+      "id": "c5619e5b3112fd9e24f58689fcb803db1435af0a",
+      "source": "wwoz",
+      "title": "The Litt Band",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1389036",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:00pm",
+      "start": "2026-09-29T21:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Tuesday, September 29 | Time: 9:00pm"
+    },
+    {
+      "id": "ea7175de86cf8a36e38becbd54a574464ad25af7",
+      "source": "wwoz",
+      "title": "Caitie B. & The Hand Me Downs",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1386506",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:00pm",
+      "start": "2026-09-29T21:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Tuesday, September 29 | Time: 9:00pm"
+    },
+    {
+      "id": "c6fd4fb7031cedad6ab2c45d35dcbc1c55fd6c0f",
+      "source": "wwoz",
+      "title": "Bruisey's Bottoms Up Open Mic",
+      "venue": "BJ's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
+      "event_url": "https://www.wwoz.org/events/1383191",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:00pm",
+      "start": "2026-09-29T21:00:00+00:00",
+      "description": "Venue: BJ's Lounge | Date: Tuesday, September 29 | Time: 9:00pm"
+    },
+    {
+      "id": "47c93683e53b5a45ee3e62e97f82f9d85a787370",
+      "source": "wwoz",
+      "title": "Dolly Creamer + Diet Riot",
+      "venue": "Saturn Bar",
+      "venue_url": "https://www.wwoz.org/organizations/saturn-bar",
+      "event_url": "https://www.wwoz.org/events/1391301",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:00pm",
+      "start": "2026-09-29T21:00:00+00:00",
+      "description": "Venue: Saturn Bar | Date: Tuesday, September 29 | Time: 9:00pm"
+    },
+    {
+      "id": "d1072df3d1c006c904d61a934f6f54dca72cca54",
+      "source": "wwoz",
+      "title": "Stew + Chalant + Flip Fitch",
+      "venue": "Siberia",
+      "venue_url": "https://www.wwoz.org/organizations/siberia",
+      "event_url": "https://www.wwoz.org/events/1391706",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:00pm",
+      "start": "2026-09-29T21:00:00+00:00",
+      "description": "Venue: Siberia | Date: Tuesday, September 29 | Time: 9:00pm"
     },
     {
       "id": "nola-show-56652",
@@ -1475,6 +1121,30 @@
       "description": "Venue: Holy Diver | Starts: 2026-09-29T21:00:00.041000-05:00"
     },
     {
+      "id": "67d5eb9d186f3c049c95df047fb1782750e2820c",
+      "source": "wwoz",
+      "title": "Birthday Tribute to John Coltrane with Derek Douget, Ricardo Pascal & Trevarri",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1374071",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:30pm",
+      "start": "2026-09-29T21:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Tuesday, September 29 | Time: 9:30pm"
+    },
+    {
+      "id": "a16f3fdf068bc0e3a8ddf4f74ed8a1a0af3fedc7",
+      "source": "wwoz",
+      "title": "Smoking Time Jazz Club",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1380786",
+      "date_text": "Tuesday, September 29",
+      "time_text": "9:30pm",
+      "start": "2026-09-29T21:30:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Tuesday, September 29 | Time: 9:30pm"
+    },
+    {
       "id": "nola-show-56206",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1482,6 +1152,42 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T21:30:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-09-29T21:30:00-05:00"
+    },
+    {
+      "id": "2bd9c9db3eab26ac5c00a6a716a605851fc4d959",
+      "source": "wwoz",
+      "title": "Double Bird ft. Peter Harris, David Torkanowsky, Ashlin Parker & More!",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1382331",
+      "date_text": "Tuesday, September 29",
+      "time_text": "10:00pm",
+      "start": "2026-09-29T22:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Tuesday, September 29 | Time: 10:00pm"
+    },
+    {
+      "id": "06bcb3ed1e7f5adf578066d3ba5b7a45200d22ec",
+      "source": "wwoz",
+      "title": "Rebirth Brass Band with Special Guest Wild Comanche",
+      "venue": "Rabbit Hole, The",
+      "venue_url": "https://www.wwoz.org/organizations/rabbit-hole",
+      "event_url": "https://www.wwoz.org/events/1377431",
+      "date_text": "Tuesday, September 29",
+      "time_text": "10:00pm",
+      "start": "2026-09-29T22:00:00+00:00",
+      "description": "Venue: Rabbit Hole, The | Date: Tuesday, September 29 | Time: 10:00pm"
+    },
+    {
+      "id": "25fd738f29424fea8ef7dbd76c5c266ca74d0725",
+      "source": "wwoz",
+      "title": "Cuttin' Up with the Youngbloods",
+      "venue": "Vaughan's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/vaughans-lounge",
+      "event_url": "https://www.wwoz.org/events/1393446",
+      "date_text": "Tuesday, September 29",
+      "time_text": "10:00pm",
+      "start": "2026-09-29T22:00:00+00:00",
+      "description": "Venue: Vaughan's Lounge | Date: Tuesday, September 29 | Time: 10:00pm"
     },
     {
       "id": "nola-show-51915",
@@ -1914,15 +1620,6 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-01T18:00:00-05:00"
     },
     {
-      "id": "nola-show-57834",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-01T18:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-01T18:00:00-05:00"
-    },
-    {
       "id": "nola-show-57485",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1950,6 +1647,15 @@
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-01T18:00:00-05:00"
     },
     {
+      "id": "nola-show-57938",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-01T18:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4897923",
       "source": "offbeat",
       "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
@@ -1973,6 +1679,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T18:15:00-05:00",
       "description": "Venue: Cafe Negril | Starts: 2026-10-01T18:15:00-05:00"
+    },
+    {
+      "id": "nola-show-57929",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Three Maries Jazz Club @ Omni Royal Orleans",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T18:30:00-05:00",
+      "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-10-01T18:30:00-05:00"
     },
     {
       "id": "nola-show-57798",
@@ -2036,15 +1751,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T19:00:00-05:00",
       "description": "Venue: The Tigermen Den | Starts: 2026-10-01T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-52192",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Three Maries Jazz Club @ Omni Royal Orleans",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-01T19:00:00-05:00",
-      "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-10-01T19:00:00-05:00"
     },
     {
       "id": "nola-show-57184",
@@ -2186,6 +1892,15 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-01T21:00:00-05:00"
     },
     {
+      "id": "nola-show-57900",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-01T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-56115",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2229,6 +1944,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T22:00:00-05:00",
       "description": "Venue: The Den at Howlin' Wolf | Starts: 2026-10-01T22:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58010",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T22:00:00-05:00",
+      "description": "Venue: Santos Bar | Starts: 2026-10-01T22:00:00-05:00"
     },
     {
       "id": "nola-show-54430",
@@ -2328,6 +2052,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T18:00:00-05:00",
       "description": "Venue: Apple Barrel | Starts: 2026-10-02T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57940",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-02T18:00:00-05:00"
     },
     {
       "id": "nola-show-55995",
@@ -2798,6 +2531,15 @@
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-03T15:00:00-05:00"
     },
     {
+      "id": "nola-show-57942",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-03T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-57526",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3193,6 +2935,15 @@
       "description": "Venue: The Tigermen Den | Starts: 2026-10-04T11:00:00-05:00"
     },
     {
+      "id": "nola-show-57995",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Broadside",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T12:00:00-05:00",
+      "description": "Venue: Broadside | Starts: 2026-10-04T12:00:00-05:00"
+    },
+    {
       "id": "nola-show-57280",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3263,6 +3014,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-04T15:00:00-05:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-04T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57945",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-04T15:00:00-05:00"
     },
     {
       "id": "nola-show-57194",
@@ -3429,6 +3189,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-04T20:30:00-05:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-04T20:30:00-05:00"
+    },
+    {
+      "id": "nola-show-57930",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Siberia",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T21:00:00-05:00",
+      "description": "Venue: Siberia | Starts: 2026-10-04T21:00:00-05:00"
     },
     {
       "id": "nola-show-57857",
@@ -3633,6 +3402,15 @@
       "description": "Venue: Buffa's | Starts: 2026-10-05T19:00:00-05:00"
     },
     {
+      "id": "nola-show-58007",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "NOLA Brewing",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-05T19:00:00-05:00",
+      "description": "Venue: NOLA Brewing | Starts: 2026-10-05T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-57527",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3649,6 +3427,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-05T19:30:00-05:00",
       "description": "Venue: Okay Bar | Starts: 2026-10-05T19:30:00-05:00"
+    },
+    {
+      "id": "nola-show-57936",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Twelve Mile Limit",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-05T19:30:00-05:00",
+      "description": "Venue: Twelve Mile Limit | Starts: 2026-10-05T19:30:00-05:00"
     },
     {
       "id": "nola-show-56375",
@@ -3676,15 +3463,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-05T20:00:00-05:00",
       "description": "Venue: Maison | Starts: 2026-10-05T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57630",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dos Jefes",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-05T20:30:00-05:00",
-      "description": "Venue: Dos Jefes | Starts: 2026-10-05T20:30:00-05:00"
     },
     {
       "id": "nola-show-55948",
@@ -3741,7 +3519,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-06T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57594",
+      "id": "nola-show-57593",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -4244,15 +4022,6 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-08T18:00:00-05:00"
     },
     {
-      "id": "nola-show-57837",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-08T18:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-08T18:00:00-05:00"
-    },
-    {
       "id": "nola-show-57597",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4269,6 +4038,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-08T18:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-08T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57948",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-08T18:00:00-05:00"
     },
     {
       "id": "offbeat-event-4897906",
@@ -4321,6 +4099,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-08T19:00:00-05:00",
       "description": "Venue: Rock N Bowl | Starts: 2026-10-08T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57989",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T19:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-08T19:00:00-05:00"
     },
     {
       "id": "nola-show-54051",
@@ -4492,6 +4279,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-08T21:00:00-05:00"
     },
     {
+      "id": "nola-show-57901",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-08T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4905993",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -4649,6 +4445,15 @@
       "description": "Venue: Apple Barrel | Starts: 2026-10-09T18:00:00-05:00"
     },
     {
+      "id": "nola-show-57950",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-09T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-55996",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4674,6 +4479,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T19:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-09T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57990",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T19:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-09T19:00:00-05:00"
     },
     {
       "id": "nola-show-57065",
@@ -4795,15 +4609,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T21:00:00-05:00",
       "description": "Venue: Tipitina's | Starts: 2026-10-09T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56392",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "House of Blues",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-09T21:00:00-05:00",
-      "description": "Venue: House of Blues | Starts: 2026-10-09T21:00:00-05:00"
     },
     {
       "id": "nola-show-52865",
@@ -5014,6 +4819,15 @@
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-10T15:00:00-05:00"
     },
     {
+      "id": "nola-show-57952",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-10T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-57537",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5093,6 +4907,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-10T19:00:00-05:00",
       "description": "Venue: House of Blues | Starts: 2026-10-10T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57991",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T19:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-10T19:00:00-05:00"
     },
     {
       "id": "nola-show-54633",
@@ -5468,6 +5291,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-11T15:00:00-05:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-11T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57955",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-11T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-11T15:00:00-05:00"
     },
     {
       "id": "nola-show-52428",
@@ -5855,6 +5687,15 @@
       "description": "Venue: Saenger Theater | Starts: 2026-10-12T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58005",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Maison",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-12T20:00:00-05:00",
+      "description": "Venue: Maison | Starts: 2026-10-12T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-56486",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5936,15 +5777,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-13T14:00:00-05:00"
     },
     {
-      "id": "nola-show-57838",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-13T17:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-13T17:00:00-05:00"
-    },
-    {
       "id": "nola-show-56972",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5954,7 +5786,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-13T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57607",
+      "id": "nola-show-57608",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -6096,6 +5928,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-13T21:00:00-05:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-13T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57902",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-13T21:00:00-05:00"
     },
     {
       "id": "nola-show-56769",
@@ -6400,15 +6241,6 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-15T18:00:00-05:00"
     },
     {
-      "id": "nola-show-57839",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-15T18:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-15T18:00:00-05:00"
-    },
-    {
       "id": "nola-show-57611",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6425,6 +6257,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-15T18:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-15T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57958",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-15T18:00:00-05:00"
     },
     {
       "id": "nola-show-53134",
@@ -6610,6 +6451,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-15T21:00:00-05:00"
     },
     {
+      "id": "nola-show-57903",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-15T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-57074",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6707,6 +6557,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-16T18:00:00-05:00",
       "description": "Venue: The Crypt | Starts: 2026-10-16T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57960",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-16T18:00:00-05:00"
     },
     {
       "id": "nola-show-55997",
@@ -6827,7 +6686,7 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-16T20:00:00-05:00"
     },
     {
-      "id": "nola-show-56609",
+      "id": "nola-show-56608",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "30/90",
@@ -6930,7 +6789,7 @@
       "description": "Venue: Republic NOLA | Starts: 2026-10-16T22:00:00-05:00"
     },
     {
-      "id": "nola-show-55539",
+      "id": "nola-show-56684",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -7020,6 +6879,15 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-17T11:00:00.717000-05:00"
     },
     {
+      "id": "nola-show-57996",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Broadside",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T12:00:00-05:00",
+      "description": "Venue: Broadside | Starts: 2026-10-17T12:00:00-05:00"
+    },
+    {
       "id": "nola-show-54538",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7074,6 +6942,15 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-17T14:30:00-05:00"
     },
     {
+      "id": "nola-show-58000",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Rabbit Hole",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T15:00:00-05:00",
+      "description": "Venue: The Rabbit Hole | Starts: 2026-10-17T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-57326",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7081,6 +6958,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T15:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-17T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57962",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-17T15:00:00-05:00"
     },
     {
       "id": "nola-show-57813",
@@ -7274,15 +7160,6 @@
       "description": "Venue: Siberia | Starts: 2026-10-17T21:00:00-05:00"
     },
     {
-      "id": "nola-show-57840",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-17T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-17T21:00:00-05:00"
-    },
-    {
       "id": "nola-show-57642",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7458,6 +7335,15 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-18T15:00:00-05:00"
     },
     {
+      "id": "nola-show-57965",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-18T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-56801",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7465,15 +7351,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T16:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-18T16:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57841",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-18T16:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-18T16:00:00-05:00"
     },
     {
       "id": "nola-show-57114",
@@ -7745,6 +7622,15 @@
       "description": "Venue: The Civic Theatre | Starts: 2026-10-19T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58011",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-19T20:00:00-05:00",
+      "description": "Venue: Santos Bar | Starts: 2026-10-19T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-52905",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7815,15 +7701,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-20T17:00:00-05:00",
       "description": "Venue: Saturn Bar | Starts: 2026-10-20T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57842",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-20T17:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-20T17:00:00-05:00"
     },
     {
       "id": "nola-show-57003",
@@ -7950,6 +7827,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-20T21:00:00-05:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-20T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-54661",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-20T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-20T21:00:00-05:00"
     },
     {
       "id": "nola-show-53239",
@@ -8223,15 +8109,6 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-22T18:00:00-05:00"
     },
     {
-      "id": "nola-show-57843",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-22T18:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-22T18:00:00-05:00"
-    },
-    {
       "id": "nola-show-57338",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8239,6 +8116,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-22T18:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-22T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57968",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-22T18:00:00-05:00"
     },
     {
       "id": "nola-show-56604",
@@ -8407,6 +8293,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-22T21:00:00-05:00"
     },
     {
+      "id": "nola-show-57904",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-22T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-56480",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8479,6 +8374,15 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-23T18:00:00-05:00"
     },
     {
+      "id": "nola-show-57970",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-23T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-55998",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8513,6 +8417,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T19:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-23T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57992",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T19:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-23T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58008",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "NOLA Brewing",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T19:00:00-05:00",
+      "description": "Venue: NOLA Brewing | Starts: 2026-10-23T19:00:00-05:00"
     },
     {
       "id": "nola-show-57570",
@@ -8650,7 +8572,7 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-23T22:00:00-05:00"
     },
     {
-      "id": "nola-show-55540",
+      "id": "nola-show-56685",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -8753,6 +8675,15 @@
       "description": "Venue: Jimmy's Music Club | Starts: 2026-10-24T10:00:00-05:00"
     },
     {
+      "id": "nola-show-57997",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Broadside",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T12:00:00-05:00",
+      "description": "Venue: Broadside | Starts: 2026-10-24T12:00:00-05:00"
+    },
+    {
       "id": "nola-show-56831",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8787,6 +8718,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T15:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-24T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57972",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-24T15:00:00-05:00"
     },
     {
       "id": "nola-show-57521",
@@ -8895,15 +8835,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T20:00:00-05:00",
       "description": "Venue: Good Measure @ The Barnett | Starts: 2026-10-24T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55487",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-24T20:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-24T20:00:00-05:00"
     },
     {
       "id": "nola-show-54545",
@@ -9193,6 +9124,15 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-25T15:00:00-05:00"
     },
     {
+      "id": "nola-show-57975",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-25T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-25T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-56147",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9276,6 +9216,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-25T20:00:00-05:00",
       "description": "Venue: Siberia | Starts: 2026-10-25T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58001",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Maple Leaf Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-25T21:00:00-05:00",
+      "description": "Venue: Maple Leaf Bar | Starts: 2026-10-25T21:00:00-05:00"
     },
     {
       "id": "nola-show-57878",
@@ -9399,6 +9348,15 @@
       "description": "Venue: 30/90 | Starts: 2026-10-26T18:00:00.732000-05:00"
     },
     {
+      "id": "nola-show-57993",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Columns",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T18:30:00-05:00",
+      "description": "Venue: The Columns | Starts: 2026-10-26T18:30:00-05:00"
+    },
+    {
       "id": "nola-show-57554",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9424,6 +9382,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-26T20:00:00-05:00",
       "description": "Venue: Republic NOLA | Starts: 2026-10-26T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58012",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T20:00:00-05:00",
+      "description": "Venue: Santos Bar | Starts: 2026-10-26T20:00:00-05:00"
     },
     {
       "id": "nola-show-57272",
@@ -9478,15 +9445,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-27T14:00:00-05:00",
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-27T14:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57845",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-27T17:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-27T17:00:00-05:00"
     },
     {
       "id": "nola-show-57034",
@@ -9615,6 +9573,15 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-27T20:00:00.607000-05:00"
     },
     {
+      "id": "nola-show-57998",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Dos Jefes",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-27T20:30:00-05:00",
+      "description": "Venue: Dos Jefes | Starts: 2026-10-27T20:30:00-05:00"
+    },
+    {
       "id": "nola-show-52559",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9640,6 +9607,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-27T21:00:00-05:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-27T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57905",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-27T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-27T21:00:00-05:00"
     },
     {
       "id": "nola-show-53663",
@@ -9795,6 +9771,15 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-28T20:00:00.063000-05:00"
     },
     {
+      "id": "nola-show-57999",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Dos Jefes",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-28T20:30:00-05:00",
+      "description": "Venue: Dos Jefes | Starts: 2026-10-28T20:30:00-05:00"
+    },
+    {
       "id": "nola-show-56317",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9872,15 +9857,6 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-29T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57846",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-29T18:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-29T18:00:00-05:00"
-    },
-    {
       "id": "nola-show-57355",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9897,6 +9873,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-29T18:00:00-05:00",
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-10-29T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57978",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-29T18:00:00-05:00"
     },
     {
       "id": "nola-show-57714",
@@ -10056,6 +10041,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-29T21:00:00-05:00"
     },
     {
+      "id": "nola-show-57906",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-29T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4769845",
       "source": "offbeat",
       "title": "Osees ft. Brigid Dawson + Traps PS",
@@ -10178,6 +10172,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T18:00:00-05:00",
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-10-30T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57980",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T18:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-30T18:00:00-05:00"
     },
     {
       "id": "nola-show-55999",
@@ -10373,7 +10376,7 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-30T21:00:00-05:00"
     },
     {
-      "id": "nola-show-55541",
+      "id": "nola-show-56686",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -10499,6 +10502,15 @@
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-31T15:00:00-05:00"
     },
     {
+      "id": "nola-show-57982",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Balcony Music Club (BMC)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T15:00:00-05:00",
+      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-31T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-55325",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10611,7 +10623,7 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-31T19:30:00-05:00"
     },
     {
-      "id": "nola-show-55157",
+      "id": "nola-show-55156",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "UNO Lakefront Arena",
@@ -10903,6 +10915,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-11-02T12:00:00-06:00"
     },
     {
+      "id": "nola-show-58009",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "New Orleans Jazz Museum",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-02T14:00:00-06:00",
+      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-11-02T14:00:00-06:00"
+    },
+    {
       "id": "nola-show-49865",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10921,6 +10942,24 @@
       "description": "Venue: Okay Bar | Starts: 2026-11-02T19:30:00-06:00"
     },
     {
+      "id": "nola-show-58013",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-02T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-11-02T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57914",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-02T20:30:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-02T20:30:00-06:00"
+    },
+    {
       "id": "nola-show-54375",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10928,15 +10967,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-03T12:00:00-06:00",
       "description": "Venue: Bacchanal | Starts: 2026-11-03T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-57849",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-03T17:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-03T17:00:00-06:00"
     },
     {
       "id": "nola-show-49795",
@@ -10982,6 +11012,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-03T21:00:00-06:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-11-03T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57908",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-03T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-03T21:00:00-06:00"
     },
     {
       "id": "nola-show-54418",
@@ -11188,15 +11227,6 @@
       "pubDate": "Thu, 03 Sep 2026 15:36:43 -0600"
     },
     {
-      "id": "nola-show-57850",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-05T18:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-05T18:00:00-06:00"
-    },
-    {
       "id": "nola-show-52612",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11251,6 +11281,15 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-05T20:00:00-06:00"
     },
     {
+      "id": "nola-show-57915",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-05T21:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-05T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-57620",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11258,6 +11297,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-05T21:00:00-06:00",
       "description": "Venue: Broadside | Starts: 2026-11-05T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57909",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-05T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-05T21:00:00-06:00"
     },
     {
       "id": "nola-show-57467",
@@ -11504,6 +11552,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-06T22:00:00-06:00",
       "description": "Venue: Santos Bar | Starts: 2026-11-06T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57916",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-06T22:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-06T22:00:00-06:00"
     },
     {
       "id": "nola-show-57148",
@@ -11794,6 +11851,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-09T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58014",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-09T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-11-09T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-57084",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11801,6 +11867,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-09T20:00:00-06:00",
       "description": "Venue: Broadside | Starts: 2026-11-09T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57917",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-09T20:30:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-09T20:30:00-06:00"
     },
     {
       "id": "nola-show-56324",
@@ -11828,15 +11903,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-10T12:00:00-06:00",
       "description": "Venue: Bacchanal | Starts: 2026-11-10T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-57852",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-10T17:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-10T17:00:00-06:00"
     },
     {
       "id": "nola-show-49794",
@@ -11893,6 +11959,15 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-10T20:00:00-06:00"
     },
     {
+      "id": "nola-show-57918",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-10T21:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-10T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-55525",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11900,6 +11975,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-10T21:00:00-06:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-11-10T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57910",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-10T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-10T21:00:00-06:00"
     },
     {
       "id": "nola-show-51703",
@@ -12051,15 +12135,6 @@
       "pubDate": "Thu, 03 Sep 2026 14:36:51 -0700"
     },
     {
-      "id": "nola-show-57853",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-12T18:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-12T18:00:00-06:00"
-    },
-    {
       "id": "nola-show-55195",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12121,6 +12196,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-12T21:00:00-06:00",
       "description": "Venue: Siberia | Starts: 2026-11-12T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57911",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-12T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-12T21:00:00-06:00"
     },
     {
       "id": "nola-show-57075",
@@ -12362,6 +12446,15 @@
       "description": "Venue: Rock N Bowl | Starts: 2026-11-14T21:00:00-06:00"
     },
     {
+      "id": "nola-show-57919",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-14T22:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-14T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-55113",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12506,13 +12599,31 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-16T19:00:00-06:00"
     },
     {
-      "id": "nola-show-56493",
+      "id": "nola-show-58015",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-16T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-11-16T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-54058",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Poor Boys",
       "event_url": "https://nola.show/",
       "start": "2026-11-16T20:00:00-06:00",
       "description": "Venue: Poor Boys | Starts: 2026-11-16T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57920",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-16T20:30:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-16T20:30:00-06:00"
     },
     {
       "id": "nola-show-55226",
@@ -12524,13 +12635,13 @@
       "description": "Venue: Bacchanal | Starts: 2026-11-17T12:00:00-06:00"
     },
     {
-      "id": "nola-show-57854",
+      "id": "nola-show-57921",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "venue": "Saturn Bar",
       "event_url": "https://nola.show/",
       "start": "2026-11-17T17:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-17T17:00:00-06:00"
+      "description": "Venue: Saturn Bar | Starts: 2026-11-17T17:00:00-06:00"
     },
     {
       "id": "nola-show-49793",
@@ -12585,6 +12696,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-17T21:00:00-06:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-11-17T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57912",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-17T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-17T21:00:00-06:00"
     },
     {
       "id": "nola-show-55319",
@@ -12664,6 +12784,15 @@
       "description": "Venue: Santos Bar | Starts: 2026-11-18T21:00:00-06:00"
     },
     {
+      "id": "nola-show-57922",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-18T21:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-18T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-45847",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12696,15 +12825,6 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4897896",
       "description": "Venue: The Howlin' Wolf\nStarts: 2026-11-19T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
       "pubDate": "Thu, 03 Sep 2026 14:36:42 -0700"
-    },
-    {
-      "id": "nola-show-57855",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-19T18:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-19T18:00:00-06:00"
     },
     {
       "id": "offbeat-event-4708613",
@@ -12766,6 +12886,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-19T20:00:00-06:00",
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-19T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57913",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-19T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-19T21:00:00-06:00"
     },
     {
       "id": "nola-show-54474",
@@ -12918,6 +13047,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-20T21:00:00-06:00",
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-20T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57923",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-20T21:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-20T21:00:00-06:00"
     },
     {
       "id": "nola-show-55249",
@@ -13156,6 +13294,24 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-23T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58016",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-23T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-11-23T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57924",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-23T20:30:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-23T20:30:00-06:00"
+    },
+    {
       "id": "nola-show-46344",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -13224,6 +13380,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-24T21:00:00-06:00",
       "description": "Venue: Siberia | Starts: 2026-11-24T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57925",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-24T21:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-11-24T21:00:00-06:00"
     },
     {
       "id": "nola-show-55527",
@@ -13723,6 +13888,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-30T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58017",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-30T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-11-30T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-56250",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14037,6 +14211,24 @@
       "description": "Venue: Santos Bar | Starts: 2026-12-04T22:00:00-06:00"
     },
     {
+      "id": "nola-show-57926",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Saturn Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-04T22:00:00-06:00",
+      "description": "Venue: Saturn Bar | Starts: 2026-12-04T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57928",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "d.b.a.",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-04T22:00:00-06:00",
+      "description": "Venue: d.b.a. | Starts: 2026-12-04T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-57150",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14277,6 +14469,15 @@
       "description": "Venue: Okay Bar | Starts: 2026-12-07T19:30:00-06:00"
     },
     {
+      "id": "nola-show-58018",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-07T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-12-07T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-56703",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14408,7 +14609,7 @@
       "pubDate": "Thu, 03 Sep 2026 17:36:55 -0400"
     },
     {
-      "id": "nola-show-52518",
+      "id": "nola-show-52517",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -14658,6 +14859,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-14T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-14T19:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58019",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-14T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-12-14T20:00:00-06:00"
     },
     {
       "id": "nola-show-57060",
@@ -15101,6 +15311,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-21T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58020",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-21T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-12-21T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-57453",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -15351,6 +15570,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-28T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58021",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Santos Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-28T20:00:00-06:00",
+      "description": "Venue: Santos Bar | Starts: 2026-12-28T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-53944",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -15440,7 +15668,7 @@
       "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
-      "id": "nola-show-54087",
+      "id": "nola-show-54088",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -16095,6 +16323,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-02-19T17:00:00-06:00"
     },
     {
+      "id": "nola-show-57937",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Smoothie King Center",
+      "event_url": "https://nola.show/",
+      "start": "2027-02-19T20:00:00-06:00",
+      "description": "Venue: Smoothie King Center | Starts: 2027-02-19T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-57151",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16228,6 +16465,15 @@
       "event_url": "https://nola.show/",
       "start": "2027-03-05T17:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-03-05T17:00:00-06:00"
+    },
+    {
+      "id": "nola-show-57986",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Allways Lounge & Cabaret",
+      "event_url": "https://nola.show/",
+      "start": "2027-03-06T18:00:00-06:00",
+      "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-03-06T18:00:00-06:00"
     },
     {
       "id": "nola-show-56917",
