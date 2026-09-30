@@ -1,6 +1,6 @@
 {
-  "count": 1811,
-  "generated_at": "2026-09-30T13:01:27.749054+00:00",
+  "count": 1830,
+  "generated_at": "2026-09-30T18:26:19.764905+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,7 +15,7 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1644
+      "count": 1663
     }
   ],
   "events": [
@@ -1138,7 +1138,7 @@
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-09-30T20:00:00-05:00"
     },
     {
-      "id": "nola-show-58087",
+      "id": "nola-show-58088",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Hotel Peter & Paul",
@@ -1525,6 +1525,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T18:00:00-05:00",
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-01T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58169",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T18:00:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-01T18:00:00-05:00"
     },
     {
       "id": "offbeat-event-4897923",
@@ -2427,6 +2436,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T11:00:00-05:00",
       "description": "Venue: Bywater Bakery | Starts: 2026-10-03T11:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58170",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T11:30:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-03T11:30:00-05:00"
     },
     {
       "id": "nola-show-58043",
@@ -4165,6 +4183,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-08T18:00:00-05:00"
     },
     {
+      "id": "nola-show-58171",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T18:00:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-08T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-56620",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4788,7 +4815,7 @@
       "description": "Venue: Saturn Bar | Starts: 2026-10-09T22:00:00-05:00"
     },
     {
-      "id": "nola-show-56683",
+      "id": "nola-show-55538",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -4917,6 +4944,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-10T11:00:00-05:00",
       "description": "Venue: Lafayette Square | Starts: 2026-10-10T11:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58175",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T11:30:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-10T11:30:00-05:00"
     },
     {
       "id": "nola-show-56869",
@@ -5644,6 +5680,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-11T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58179",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-11T20:00:00-05:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-10-11T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-56722",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5976,7 +6021,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-13T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57607",
+      "id": "nola-show-57608",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -6505,6 +6550,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-15T18:00:00-05:00",
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-15T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58172",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T18:00:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-15T18:00:00-05:00"
     },
     {
       "id": "nola-show-53134",
@@ -7064,7 +7118,7 @@
       "description": "Venue: Republic NOLA | Starts: 2026-10-16T22:00:00-05:00"
     },
     {
-      "id": "nola-show-55539",
+      "id": "nola-show-56684",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -7174,6 +7228,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T11:00:00.717000-05:00",
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-17T11:00:00.717000-05:00"
+    },
+    {
+      "id": "nola-show-58176",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T11:30:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-17T11:30:00-05:00"
     },
     {
       "id": "nola-show-57996",
@@ -7729,6 +7792,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T20:00:00-05:00",
       "description": "Venue: Dos Jefes | Starts: 2026-10-18T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58180",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T20:00:00-05:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-10-18T20:00:00-05:00"
     },
     {
       "id": "nola-show-57268",
@@ -8491,6 +8563,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-22T18:00:00-05:00"
     },
     {
+      "id": "nola-show-58173",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T18:00:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-22T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-56604",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9113,6 +9194,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T10:00:00-05:00",
       "description": "Venue: Jimmy's Music Club | Starts: 2026-10-24T10:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58177",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T11:30:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-24T11:30:00-05:00"
     },
     {
       "id": "nola-show-57997",
@@ -10400,6 +10490,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-29T18:00:00-05:00"
     },
     {
+      "id": "nola-show-58174",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T18:00:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-29T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-57714",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11040,6 +11139,15 @@
       "description": "Venue: Hey! Cafe on the Greenway | Starts: 2026-10-31T11:00:00-05:00"
     },
     {
+      "id": "nola-show-58178",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Paulie's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T11:30:00-05:00",
+      "description": "Venue: Paulie's | Starts: 2026-10-31T11:30:00-05:00"
+    },
+    {
       "id": "nola-show-56386",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11469,6 +11577,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-01T20:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-01T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58182",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-01T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-11-01T20:00:00-06:00"
     },
     {
       "id": "nola-show-53297",
@@ -12452,6 +12569,15 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-08T20:00:00-06:00"
     },
     {
+      "id": "nola-show-58183",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-08T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-11-08T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-52046",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -13236,6 +13362,15 @@
       "description": "Venue: Tipitina's | Starts: 2026-11-15T20:00:00-06:00"
     },
     {
+      "id": "nola-show-58184",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-15T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-11-15T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-57232",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -13317,7 +13452,7 @@
       "description": "Venue: Santos Bar | Starts: 2026-11-16T20:00:00-06:00"
     },
     {
-      "id": "nola-show-54058",
+      "id": "nola-show-56493",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Poor Boys",
@@ -14012,6 +14147,15 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-22T19:30:00-06:00"
     },
     {
+      "id": "nola-show-58185",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-22T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-11-22T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-52048",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14604,6 +14748,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-29T19:30:00-06:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-29T19:30:00-06:00"
+    },
+    {
+      "id": "nola-show-58186",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-29T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-11-29T20:00:00-06:00"
     },
     {
       "id": "nola-show-52049",
@@ -15214,6 +15367,15 @@
       "description": "Venue: Saenger Theater | Starts: 2026-12-06T19:30:00-06:00"
     },
     {
+      "id": "nola-show-58187",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-06T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-12-06T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-57374",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -15408,7 +15570,7 @@
       "pubDate": "Thu, 03 Sep 2026 17:36:55 -0400"
     },
     {
-      "id": "nola-show-52518",
+      "id": "nola-show-52517",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -15631,6 +15793,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-13T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-13T19:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58188",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Silky Satin Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-13T20:00:00-06:00",
+      "description": "Venue: Silky Satin Lounge | Starts: 2026-12-13T20:00:00-06:00"
     },
     {
       "id": "nola-show-52050",
