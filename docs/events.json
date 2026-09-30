@@ -1,6 +1,6 @@
 {
-  "count": 1830,
-  "generated_at": "2026-09-30T18:26:19.764905+00:00",
+  "count": 1850,
+  "generated_at": "2026-09-30T19:59:06.067494+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,28 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1663
+      "count": 1683
     }
   ],
   "events": [
-    {
-      "id": "nola-show-51742",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-29T12:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-09-29T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54755",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-29T14:00:00-05:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-29T14:00:00-05:00"
-    },
     {
       "id": "nola-show-55093",
       "source": "nola_show",
@@ -54,6 +36,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-09-29T17:00:00.119000-05:00",
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-09-29T17:00:00.119000-05:00"
+    },
+    {
+      "id": "nola-show-52888",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-09-29T18:00:00-05:00",
+      "description": "Venue: Bacchanal | Starts: 2026-09-29T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-54756",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Spotted Cat Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-09-29T18:00:00-05:00",
+      "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-29T18:00:00-05:00"
     },
     {
       "id": "nola-show-56036",
@@ -1138,7 +1138,7 @@
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-09-30T20:00:00-05:00"
     },
     {
-      "id": "nola-show-58088",
+      "id": "nola-show-58087",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Hotel Peter & Paul",
@@ -1651,6 +1651,15 @@
       "description": "Venue: Zeitgeist Theatre & Lounge | Starts: 2026-10-01T19:00:00-05:00"
     },
     {
+      "id": "nola-show-58201",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Studio Saint Philip",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T19:00:00-05:00",
+      "description": "Venue: Studio Saint Philip | Starts: 2026-10-01T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-57184",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1777,15 +1786,6 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-01T21:00:00-05:00"
     },
     {
-      "id": "nola-show-57900",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-01T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-01T21:00:00-05:00"
-    },
-    {
       "id": "nola-show-56115",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1820,6 +1820,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T21:00:00-05:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-10-01T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58189",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-01T21:00:00-05:00"
     },
     {
       "id": "offbeat-event-4902768",
@@ -1968,6 +1977,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-02T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58206",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Seither\u2019s Seafood",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T17:00:00-05:00",
+      "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-02T17:00:00-05:00"
     },
     {
       "id": "nola-show-58067",
@@ -2242,6 +2260,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T21:00:00-05:00",
       "description": "Venue: Siberia | Starts: 2026-10-02T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58203",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T21:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-02T21:00:00-05:00"
     },
     {
       "id": "nola-show-56119",
@@ -2571,6 +2598,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T18:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-03T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58204",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T18:00:00-05:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-03T18:00:00-05:00"
     },
     {
       "id": "nola-show-56209",
@@ -3597,7 +3633,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-06T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57593",
+      "id": "nola-show-57594",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -4433,6 +4469,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-08T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58190",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-08T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4905993",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -4561,6 +4606,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-09T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58207",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Seither\u2019s Seafood",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T17:00:00-05:00",
+      "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-09T17:00:00-05:00"
     },
     {
       "id": "nola-show-57795",
@@ -4795,6 +4849,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T21:00:00-05:00",
       "description": "Venue: The Crypt | Starts: 2026-10-09T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58191",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-09T21:00:00-05:00"
     },
     {
       "id": "nola-show-56249",
@@ -5342,6 +5405,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-10T21:00:00-05:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-10-10T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58192",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-10T21:00:00-05:00"
     },
     {
       "id": "nola-show-56695",
@@ -6021,7 +6093,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-13T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57608",
+      "id": "nola-show-57607",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -6749,6 +6821,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-15T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58193",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-15T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4905997",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -6859,6 +6940,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-16T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-16T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58208",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Seither\u2019s Seafood",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T17:00:00-05:00",
+      "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-16T17:00:00-05:00"
     },
     {
       "id": "nola-show-53292",
@@ -7090,6 +7180,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-16T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58194",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-16T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4708596",
       "source": "offbeat",
       "title": "A monthly spectacle featuring the biggest and best from New Orleans' finest entertainers and special guests from around the world including circus acts, Burlesque Dancers, Magic, and sideshow stunts!",
@@ -7118,7 +7217,7 @@
       "description": "Venue: Republic NOLA | Starts: 2026-10-16T22:00:00-05:00"
     },
     {
-      "id": "nola-show-56684",
+      "id": "nola-show-55539",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -7538,6 +7637,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T21:00:00-05:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-10-17T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58195",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-17T21:00:00-05:00"
     },
     {
       "id": "offbeat-event-4708599",
@@ -8828,6 +8936,15 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-23T17:00:00-05:00"
     },
     {
+      "id": "nola-show-58209",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Seither\u2019s Seafood",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T17:00:00-05:00",
+      "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-23T17:00:00-05:00"
+    },
+    {
       "id": "nola-show-53695",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9082,6 +9199,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T21:00:00-05:00",
       "description": "Venue: Dos Jefes | Starts: 2026-10-23T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58196",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-23T21:00:00-05:00"
     },
     {
       "id": "nola-show-56870",
@@ -9522,6 +9648,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T21:00:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-10-24T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58197",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-24T21:00:00-05:00"
     },
     {
       "id": "nola-show-57562",
@@ -10677,6 +10812,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-29T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58198",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-29T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4906005",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -10796,6 +10940,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-30T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58210",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Seither\u2019s Seafood",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T17:00:00-05:00",
+      "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-30T17:00:00-05:00"
     },
     {
       "id": "nola-show-48404",
@@ -11043,6 +11196,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T21:00:00-05:00",
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-30T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58199",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-30T21:00:00-05:00"
     },
     {
       "id": "nola-show-56686",
@@ -11350,6 +11512,15 @@
       "description": "Venue: Carrollton Station | Starts: 2026-10-31T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58202",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Marigny Opera House",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T20:00:00-05:00",
+      "description": "Venue: Marigny Opera House | Starts: 2026-10-31T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-54040",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11429,6 +11600,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T21:00:00-05:00",
       "description": "Venue: BJ's Lounge | Starts: 2026-10-31T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58200",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Double Dealer",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T21:00:00-05:00",
+      "description": "Venue: Double Dealer | Starts: 2026-10-31T21:00:00-05:00"
     },
     {
       "id": "nola-show-56445",
@@ -13187,7 +13367,7 @@
       "description": "Venue: A Studio In The Woods | Starts: 2026-11-14T11:00:00-06:00"
     },
     {
-      "id": "nola-show-50278",
+      "id": "nola-show-50277",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -16674,7 +16854,7 @@
       "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
-      "id": "nola-show-54088",
+      "id": "nola-show-54087",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
