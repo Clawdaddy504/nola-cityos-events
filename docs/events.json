@@ -1,11 +1,11 @@
 {
-  "count": 1885,
-  "generated_at": "2026-10-02T06:15:10.099199+00:00",
+  "count": 1938,
+  "generated_at": "2026-10-02T13:12:31.509680+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 74
+      "count": 100
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -15,385 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1711
+      "count": 1738
     }
   ],
   "events": [
-    {
-      "id": "nola-show-51915",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T12:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-09-30T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54758",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T14:00:00-05:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-09-30T14:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57260",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Saturn Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T17:00:00-05:00",
-      "description": "Venue: Saturn Bar | Starts: 2026-09-30T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55613",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Snug Harbor Jazz Bistro",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T17:00:00-05:00",
-      "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-09-30T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55097",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Preservation Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T17:00:00-05:00",
-      "description": "Venue: Preservation Hall | Starts: 2026-09-30T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54555",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Columns",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00-05:00",
-      "description": "Venue: The Columns | Starts: 2026-09-30T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57064",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maison",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00-05:00",
-      "description": "Venue: Maison | Starts: 2026-09-30T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56038",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Apple Barrel",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00-05:00",
-      "description": "Venue: Apple Barrel | Starts: 2026-09-30T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55687",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Mahogany Jazz Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00-05:00",
-      "description": "Venue: Mahogany Jazz Hall | Starts: 2026-09-30T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58085",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Atchafalaya",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00-05:00",
-      "description": "Venue: Atchafalaya | Starts: 2026-09-30T18:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56503",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:00:00.920000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-09-30T18:00:00.920000-05:00"
-    },
-    {
-      "id": "nola-show-47193",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Allways Lounge & Cabaret",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T18:30:00-05:00",
-      "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-09-30T18:30:00-05:00"
-    },
-    {
-      "id": "nola-show-57653",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maple Leaf Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:00:00-05:00",
-      "description": "Venue: Maple Leaf Bar | Starts: 2026-09-30T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54969",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Broadside",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:00:00-05:00",
-      "description": "Venue: Broadside | Starts: 2026-09-30T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55153",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-09-30T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58083",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BK Historic House and Gardens",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:00:00-05:00",
-      "description": "Venue: BK Historic House and Gardens | Starts: 2026-09-30T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56070",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz Museum",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:00:00.146000-05:00",
-      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-09-30T19:00:00.146000-05:00"
-    },
-    {
-      "id": "nola-show-57661",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Negril",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:30:00-05:00",
-      "description": "Venue: Cafe Negril | Starts: 2026-09-30T19:30:00-05:00"
-    },
-    {
-      "id": "nola-show-53951",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Jazz Playhouse at the Royal Sonesta",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T19:30:00-05:00",
-      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-09-30T19:30:00-05:00"
-    },
-    {
-      "id": "nola-show-53601",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Chickie Wah Wah",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Chickie Wah Wah | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57648",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dew Drop Inn",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Dew Drop Inn | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55260",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "d.b.a.",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: d.b.a. | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57444",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Twelve Mile Limit",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Twelve Mile Limit | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57827",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Fred Hampton Free Store",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Fred Hampton Free Store | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55904",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56199",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Carousel Bar at the Hotel Monteleone",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58087",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hotel Peter & Paul",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00-05:00",
-      "description": "Venue: Hotel Peter & Paul | Starts: 2026-09-30T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-53890",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Holy Diver",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00.573000-05:00",
-      "description": "Venue: Holy Diver | Starts: 2026-09-30T20:00:00.573000-05:00"
-    },
-    {
-      "id": "nola-show-55563",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bayou Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:00:00.968000-05:00",
-      "description": "Venue: Bayou Bar | Starts: 2026-09-30T20:00:00.968000-05:00"
-    },
-    {
-      "id": "nola-show-57625",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dos Jefes",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:30:00-05:00",
-      "description": "Venue: Dos Jefes | Starts: 2026-09-30T20:30:00-05:00"
-    },
-    {
-      "id": "nola-show-56450",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Paulie's",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T20:30:00-05:00",
-      "description": "Venue: Paulie's | Starts: 2026-09-30T20:30:00-05:00"
-    },
-    {
-      "id": "nola-show-56312",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Santos Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: Santos Bar | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-52925",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Siberia",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: Siberia | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55499",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Blue Nile",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: Blue Nile | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56110",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BJ's Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: BJ's Lounge | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-52933",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Gasa Gasa",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: Gasa Gasa | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58153",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Nightbloom",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T21:00:00-05:00",
-      "description": "Venue: Nightbloom | Starts: 2026-09-30T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57466",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Le Bon Temps Roule",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T22:00:00-05:00",
-      "description": "Venue: Le Bon Temps Roule | Starts: 2026-09-30T22:00:00-05:00"
-    },
-    {
-      "id": "nola-show-55980",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Istanbul",
-      "event_url": "https://nola.show/",
-      "start": "2026-09-30T22:00:00.217000-05:00",
-      "description": "Venue: Cafe Istanbul | Starts: 2026-09-30T22:00:00.217000-05:00"
-    },
-    {
-      "id": "03b835d2ebc28d57b52802125e56d87787ff30d1",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1397116",
-      "date_text": "Thursday, October 1",
-      "time_text": "11:00am",
-      "start": "2026-10-01T11:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 11:00am"
-    },
-    {
-      "id": "3ac441944637a0211d783b6b7629792ac1b3bc04",
-      "source": "wwoz",
-      "title": "Richard \"Piano\" Scott",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1395156",
-      "date_text": "Thursday, October 1",
-      "time_text": "12:00pm",
-      "start": "2026-10-01T12:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 12:00pm"
-    },
     {
       "id": "nola-show-51968",
       "source": "nola_show",
@@ -404,54 +29,6 @@
       "description": "Venue: Bacchanal | Starts: 2026-10-01T12:00:00-05:00"
     },
     {
-      "id": "0d8a9b4dd6fba8c72f89ecd456274479a925c4b5",
-      "source": "wwoz",
-      "title": "The New Orleans Ragtime Festival ft. Kyle Roussel, El Puente with Margie Perez + More!",
-      "venue": "New Orleans Jazz National Historical Park",
-      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
-      "event_url": "https://www.wwoz.org/events/1390951",
-      "date_text": "Thursday, October 1",
-      "time_text": "1:00pm",
-      "start": "2026-10-01T13:00:00+00:00",
-      "description": "Venue: New Orleans Jazz National Historical Park | Date: Thursday, October 1 | Time: 1:00pm"
-    },
-    {
-      "id": "93635290c0ca90fe40e52c406e80c0f45db950ca",
-      "source": "wwoz",
-      "title": "Bob Macy",
-      "venue": "Caf\u00e9 Beignet on Decatur",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-beignet-decatur",
-      "event_url": "https://www.wwoz.org/events/1390776",
-      "date_text": "Thursday, October 1",
-      "time_text": "2:00pm",
-      "start": "2026-10-01T14:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Beignet on Decatur | Date: Thursday, October 1 | Time: 2:00pm"
-    },
-    {
-      "id": "e0e577dcf61aa3bebd0535fee902464a7bd57b35",
-      "source": "wwoz",
-      "title": "Doyle Cooper Band",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1395331",
-      "date_text": "Thursday, October 1",
-      "time_text": "2:00pm",
-      "start": "2026-10-01T14:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 2:00pm"
-    },
-    {
-      "id": "a731288080c613003a88dec59934b4e2c38d51b2",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1397276",
-      "date_text": "Thursday, October 1",
-      "time_text": "2:00pm",
-      "start": "2026-10-01T14:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 2:00pm"
-    },
-    {
       "id": "nola-show-54761",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -459,18 +36,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T14:00:00-05:00",
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-01T14:00:00-05:00"
-    },
-    {
-      "id": "1631f44a887a99bb9bfc6d096df099263c6d7f27",
-      "source": "wwoz",
-      "title": "Big Joe Kennedy",
-      "venue": "21st Amendment",
-      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
-      "event_url": "https://www.wwoz.org/events/1393906",
-      "date_text": "Thursday, October 1",
-      "time_text": "3:00pm",
-      "start": "2026-10-01T15:00:00+00:00",
-      "description": "Venue: 21st Amendment | Date: Thursday, October 1 | Time: 3:00pm"
     },
     {
       "id": "offbeat-event-4897923",
@@ -498,78 +63,6 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-01T15:30:00-05:00"
     },
     {
-      "id": "2b614e2a4d3b7cd517038605f2a927a408dfd7e1",
-      "source": "wwoz",
-      "title": "Kyle Roussel",
-      "venue": "Hotel Henrietta",
-      "venue_url": "https://www.wwoz.org/organizations/hotel-henrietta",
-      "event_url": "https://www.wwoz.org/events/1374056",
-      "date_text": "Thursday, October 1",
-      "time_text": "4:00pm",
-      "start": "2026-10-01T16:00:00+00:00",
-      "description": "Venue: Hotel Henrietta | Date: Thursday, October 1 | Time: 4:00pm"
-    },
-    {
-      "id": "bb0c0d1930da482c72959a6703d1700045aafa6a",
-      "source": "wwoz",
-      "title": "Victoria Amato & Matt Hayden + Ben Michaels & Jim Lockwood",
-      "venue": "Pat O'Brien's",
-      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
-      "event_url": "https://www.wwoz.org/events/1395941",
-      "date_text": "Thursday, October 1",
-      "time_text": "4:00pm",
-      "start": "2026-10-01T16:00:00+00:00",
-      "description": "Venue: Pat O'Brien's | Date: Thursday, October 1 | Time: 4:00pm"
-    },
-    {
-      "id": "73d88076e02737d8b4f521c42822552a0b0b2ace",
-      "source": "wwoz",
-      "title": "The Champagniacs",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1396491",
-      "date_text": "Thursday, October 1",
-      "time_text": "4:30pm",
-      "start": "2026-10-01T16:30:00+00:00",
-      "description": "Venue: Maison, The | Date: Thursday, October 1 | Time: 4:30pm"
-    },
-    {
-      "id": "30a5eea1c4d1e381afb765d185a96ad2c95221f3",
-      "source": "wwoz",
-      "title": "John Saavedra Band",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1395506",
-      "date_text": "Thursday, October 1",
-      "time_text": "5:00pm",
-      "start": "2026-10-01T17:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 5:00pm"
-    },
-    {
-      "id": "015eebaaee20ff086b890fd12386ef252a5d8322",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Wendell Brunious",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1391881",
-      "date_text": "Thursday, October 1",
-      "time_text": "5:00pm",
-      "start": "2026-10-01T17:00:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Thursday, October 1 | Time: 5:00pm"
-    },
-    {
-      "id": "1a9abd26c42d83cccc32514701b05cb0ccbbf56f",
-      "source": "wwoz",
-      "title": "Mark Barrett & The First Calls",
-      "venue": "Tropical Isle Bourbon",
-      "venue_url": "https://www.wwoz.org/organizations/tropical-isle-bourbon",
-      "event_url": "https://www.wwoz.org/events/1394456",
-      "date_text": "Thursday, October 1",
-      "time_text": "5:00pm",
-      "start": "2026-10-01T17:00:00+00:00",
-      "description": "Venue: Tropical Isle Bourbon | Date: Thursday, October 1 | Time: 5:00pm"
-    },
-    {
       "id": "nola-show-56921",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -588,136 +81,13 @@
       "description": "Venue: Cafe Istanbul | Starts: 2026-10-01T17:00:00.514000-05:00"
     },
     {
-      "id": "227d25255447445b3d1f00266b6fe9f589f394ff",
-      "source": "wwoz",
-      "title": "Leslie Martin",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1369276",
-      "date_text": "Thursday, October 1",
-      "time_text": "5:30pm",
-      "start": "2026-10-01T17:30:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Thursday, October 1 | Time: 5:30pm"
-    },
-    {
-      "id": "65c8ade888f51839e84bdc8816b2bba9a17f32f0",
-      "source": "wwoz",
-      "title": "Jeremy Davenport",
-      "venue": "Davenport Lounge at The Ritz-Carlton",
-      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
-      "event_url": "https://www.wwoz.org/events/1387291",
-      "date_text": "Thursday, October 1",
-      "time_text": "5:30pm",
-      "start": "2026-10-01T17:30:00+00:00",
-      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Thursday, October 1 | Time: 5:30pm"
-    },
-    {
-      "id": "87e8f910ff90815869b37de489c253e6b9782eef",
-      "source": "wwoz",
-      "title": "Jazz Series ft. Sunny Side Jazz Band",
-      "venue": "Abita New Orleans",
-      "venue_url": "https://www.wwoz.org/organizations/abita-new-orleans",
-      "event_url": "https://www.wwoz.org/events/1395646",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Abita New Orleans | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "b8ec6f8cdc0573fc97517c91b20f1490206ec169",
-      "source": "wwoz",
-      "title": "Dapper Dandies",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1396131",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: BMC | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "3089e0a995848897affa614b3f370ff36c1c6b14",
-      "source": "wwoz",
-      "title": "Blues at Work with Phil Breen",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1396481",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "d35a61bf193fba3b5159935415af3d1b37cba8ea",
-      "source": "wwoz",
-      "title": "The Ricky Knight Jazz Trio",
-      "venue": "Crescent City Brewhouse",
-      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
-      "event_url": "https://www.wwoz.org/events/1395696",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Crescent City Brewhouse | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "0709b9bb753dd0b2bf8bce9f6b81f98e08b92f44",
-      "source": "wwoz",
-      "title": "(CANCELLED) Latin Dance & Music Series",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1378061",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: d.b.a. | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "3753e67c91b4289f9055a66990aff985ee9d3d1b",
-      "source": "wwoz",
-      "title": "Kermit Ruffins & The BBQ Swingers",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1373736",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "e6f92d8de9467152c68e9b9c517d2421ea2a6bfc",
-      "source": "wwoz",
-      "title": "Booker & Beyond with Jeremy Habegger",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1397871",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "de1b1a21e682d9960a4b13c598db1f9c08ac4c62",
-      "source": "wwoz",
-      "title": "Grapes of Mash",
-      "venue": "Paulie's",
-      "venue_url": "https://www.wwoz.org/organizations/paulies",
-      "event_url": "https://www.wwoz.org/events/1394361",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Paulie's | Date: Thursday, October 1 | Time: 6:00pm"
-    },
-    {
-      "id": "55448756c533edb15495a4ec4bb551021fd2b631",
-      "source": "wwoz",
-      "title": "Dukes of Dixieland",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1397431",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:00pm",
-      "start": "2026-10-01T18:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Thursday, October 1 | Time: 6:00pm"
+      "id": "nola-show-58379",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-01T17:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-01T17:30:00-05:00"
     },
     {
       "id": "nola-show-57654",
@@ -790,18 +160,6 @@
       "pubDate": "Sat, 14 Mar 2026 11:55:17 -0400"
     },
     {
-      "id": "943118888c0b90823d554c9f0551759976e97544",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Wendell Brunious",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1391891",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:15pm",
-      "start": "2026-10-01T18:15:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Thursday, October 1 | Time: 6:15pm"
-    },
-    {
       "id": "nola-show-57245",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -811,54 +169,6 @@
       "description": "Venue: Cafe Negril | Starts: 2026-10-01T18:15:00-05:00"
     },
     {
-      "id": "bc82f5ca7e943c165b00f59940ae2c0d64e3d85e",
-      "source": "wwoz",
-      "title": "David Doucet",
-      "venue": "4141 NOLA",
-      "venue_url": "https://www.wwoz.org/organizations/4141-nola",
-      "event_url": "https://www.wwoz.org/events/1386676",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:30pm",
-      "start": "2026-10-01T18:30:00+00:00",
-      "description": "Venue: 4141 NOLA | Date: Thursday, October 1 | Time: 6:30pm"
-    },
-    {
-      "id": "6a82fff281973506e44a7ab471dbb66e1ea96245",
-      "source": "wwoz",
-      "title": "Rapuzzi's Glo Worm Trio",
-      "venue": "Fausto's Italian Bistro",
-      "venue_url": "https://www.wwoz.org/organizations/faustos-italian-bistro",
-      "event_url": "https://www.wwoz.org/events/1395641",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:30pm",
-      "start": "2026-10-01T18:30:00+00:00",
-      "description": "Venue: Fausto's Italian Bistro | Date: Thursday, October 1 | Time: 6:30pm"
-    },
-    {
-      "id": "66b27b7340dbb48b44457308bb359b284dc38b76",
-      "source": "wwoz",
-      "title": "New Orleans Ragtime Festival ft. Louis Ford & The New Orleans Flairs",
-      "venue": "New Marigny Theatre",
-      "venue_url": "https://www.wwoz.org/organizations/new-marigny-theatre",
-      "event_url": "https://www.wwoz.org/events/1390931",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:30pm",
-      "start": "2026-10-01T18:30:00+00:00",
-      "description": "Venue: New Marigny Theatre | Date: Thursday, October 1 | Time: 6:30pm"
-    },
-    {
-      "id": "4146b1214cbc1ef9d3b3a32c6034f72e67a473d4",
-      "source": "wwoz",
-      "title": "MACCNO 14 Year Anniversary Fundraiser ft. Loose Cattle, Susan Cowsill, Whitney Alouisious & More!",
-      "venue": "NOLA Brewing",
-      "venue_url": "https://www.wwoz.org/organizations/nola-brewing",
-      "event_url": "https://www.wwoz.org/events/1391776",
-      "date_text": "Thursday, October 1",
-      "time_text": "6:30pm",
-      "start": "2026-10-01T18:30:00+00:00",
-      "description": "Venue: NOLA Brewing | Date: Thursday, October 1 | Time: 6:30pm"
-    },
-    {
       "id": "nola-show-57929",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -866,102 +176,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T18:30:00-05:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-10-01T18:30:00-05:00"
-    },
-    {
-      "id": "c639fc4e234e3b168e0fbd903ce5bed031810e7e",
-      "source": "wwoz",
-      "title": "Open Musician Jam with Christian Coleman",
-      "venue": "B Mac's (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
-      "event_url": "https://www.wwoz.org/events/1394961",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: B Mac's (OUTDOORS) | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "aa0366076edfb4f7b0ffdad7148002bfb0e41f7c",
-      "source": "wwoz",
-      "title": "Tom McDermott with Aurora Nealand",
-      "venue": "Buffa's",
-      "venue_url": "https://www.wwoz.org/organizations/buffas",
-      "event_url": "https://www.wwoz.org/events/1398616",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "3c70a192a92681f71a206de00398256898517bb0",
-      "source": "wwoz",
-      "title": "The Joshua Constantine Quartet",
-      "venue": "Marigny Opera House",
-      "venue_url": "https://www.wwoz.org/organizations/marigny-opera-house",
-      "event_url": "https://www.wwoz.org/events/1345596",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Marigny Opera House | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "1cab2d3630ea863d5b3ba1873ee1f9e2ba59159b",
-      "source": "wwoz",
-      "title": "Geovane Santos",
-      "venue": "Salon Salon",
-      "venue_url": "https://www.wwoz.org/organizations/salon-salon",
-      "event_url": "https://www.wwoz.org/events/1388676",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Salon Salon | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "8acaa93749787bc55f9df6fa0fd40a23742fe9ee",
-      "source": "wwoz",
-      "title": "The Protecting Veil ft. Cellist Jeanne Jaubert",
-      "venue": "Studio Saint Philip",
-      "venue_url": "https://www.wwoz.org/organizations/studio-saint-philip",
-      "event_url": "https://www.wwoz.org/events/1392611",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Studio Saint Philip | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "5257ae16d7e4f59b943f17c537d67fd9e26bbe8b",
-      "source": "wwoz",
-      "title": "Kyle Sharamitaro",
-      "venue": "Three Maries Jazz Club at the Omni Royal Orleans",
-      "venue_url": "https://www.wwoz.org/organizations/three-maries-jazz-club-omni-royal-orleans",
-      "event_url": "https://www.wwoz.org/events/1393116",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "ca988f5e737fe8cfc2171fff2cb08f049247c146",
-      "source": "wwoz",
-      "title": "The Van Ella Bordella: A Storyville Burlesque Musical",
-      "venue": "Twilight Room at The Allways Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/twilight-room-allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1390446",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Twilight Room at The Allways Lounge | Date: Thursday, October 1 | Time: 7:00pm"
-    },
-    {
-      "id": "3a72bf3ff2bb4f63b014e4eab166efdd0a28f45a",
-      "source": "wwoz",
-      "title": "Scatterjazz Presents: Ars Supernova Trio Reunion ft. Bruce Golden, Jeb Stuart & Evan Gallagher + More!",
-      "venue": "Zeitgeist Multi-Disciplinary Arts Center",
-      "venue_url": "https://www.wwoz.org/organizations/zeitgeist-multi-disciplinary-arts-center",
-      "event_url": "https://www.wwoz.org/events/1391771",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:00pm",
-      "start": "2026-10-01T19:00:00+00:00",
-      "description": "Venue: Zeitgeist Multi-Disciplinary Arts Center | Date: Thursday, October 1 | Time: 7:00pm"
     },
     {
       "id": "nola-show-57798",
@@ -1054,54 +268,6 @@
       "description": "Venue: Studio Saint Philip | Starts: 2026-10-01T19:00:00-05:00"
     },
     {
-      "id": "21161bab678ea739c3510bcb2e7c7a3699b78907",
-      "source": "wwoz",
-      "title": "Brass-A-Holics ft. Kayla Love",
-      "venue": "Jazz Playhouse",
-      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
-      "event_url": "https://www.wwoz.org/events/1377471",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:30pm",
-      "start": "2026-10-01T19:30:00+00:00",
-      "description": "Venue: Jazz Playhouse | Date: Thursday, October 1 | Time: 7:30pm"
-    },
-    {
-      "id": "05d172ef9895f1b5eca0d7c8702e965f10304b68",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Wendell Brunious",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1391901",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:30pm",
-      "start": "2026-10-01T19:30:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Thursday, October 1 | Time: 7:30pm"
-    },
-    {
-      "id": "ab236e23e80e0ddaae2a97569776b7ef179b9a77",
-      "source": "wwoz",
-      "title": "Revisited: The Early Days of Snug Harbor with Lawrence Sieberth, Ricky Sebastian & More!",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1377446",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:30pm",
-      "start": "2026-10-01T19:30:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Thursday, October 1 | Time: 7:30pm"
-    },
-    {
-      "id": "83ab760d73f3741a76ee1fc90b5dda5c6e9a74fe",
-      "source": "wwoz",
-      "title": "Holy Cross Water Boilers",
-      "venue": "Three Muses",
-      "venue_url": "https://www.wwoz.org/organizations/three-muses",
-      "event_url": "https://www.wwoz.org/events/1398891",
-      "date_text": "Thursday, October 1",
-      "time_text": "7:30pm",
-      "start": "2026-10-01T19:30:00+00:00",
-      "description": "Venue: Three Muses | Date: Thursday, October 1 | Time: 7:30pm"
-    },
-    {
       "id": "nola-show-57184",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1118,162 +284,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T19:30:00-05:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-01T19:30:00-05:00"
-    },
-    {
-      "id": "7220146e91c0ad31cf7e05c4c7b2221addb8a8aa",
-      "source": "wwoz",
-      "title": "Marty Peters & The Party Meters",
-      "venue": "21st Amendment",
-      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
-      "event_url": "https://www.wwoz.org/events/1393911",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: 21st Amendment | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "b8e7e011509b7ff79b5ff12dae421608bc9894f8",
-      "source": "wwoz",
-      "title": "Cryptic ft. Peter Harris, Ricardo Pascal & Nygel Anderson",
-      "venue": "Bayou Bar at the Pontchartrain",
-      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
-      "event_url": "https://www.wwoz.org/events/1373901",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "c0e4e669e1b3fc7c2c60763a61d147037d9f8cea",
-      "source": "wwoz",
-      "title": "Bounce, Power, and Erasure of the Black Vote ft. Big Freedia, Alanah Odoms & More!",
-      "venue": "Broadside (Outdoor Stage)",
-      "venue_url": "https://www.wwoz.org/organizations/broadside-outdoor-stage",
-      "event_url": "https://www.wwoz.org/events/1393496",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Broadside (Outdoor Stage) | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "76415373d4cb42a58b3becaeaa70092c25386e4a",
-      "source": "wwoz",
-      "title": "Herlin Riley & Friends",
-      "venue": "Chickie Wah Wah",
-      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
-      "event_url": "https://www.wwoz.org/events/1373951",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Chickie Wah Wah | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "82935b157cd8b2b58233fd86feca37a489928eaf",
-      "source": "wwoz",
-      "title": "Vegas Cola Band",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1381316",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: d.b.a. | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "418528c3816afc269e3d9a3a34c0ca40f52a5b71",
-      "source": "wwoz",
-      "title": "The Vibe: An R&B Experience with GumboFunk & Jovin Webb",
-      "venue": "Dew Drop Inn Hotel & Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/dew-drop-inn-hotel-lounge",
-      "event_url": "https://www.wwoz.org/events/1374171",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Dew Drop Inn Hotel & Lounge | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "7dc8b5a936708906c128ee5e9011e681e4bf2642",
-      "source": "wwoz",
-      "title": "Fritzel's All Star Band with John Zarsky",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1395316",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "fe232b8d24b9d668cab1710adb2b013f63458c74",
-      "source": "wwoz",
-      "title": "Yusa",
-      "venue": "Good Measure at The Barnett",
-      "venue_url": "https://www.wwoz.org/organizations/good-measure-barnett",
-      "event_url": "https://www.wwoz.org/events/1389816",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Good Measure at The Barnett | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "dfac18fcdb8fa6f40176c6eb998a4b16a2bc1f58",
-      "source": "wwoz",
-      "title": "Jami Sharif New Orleans Extravaganza",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1392631",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "39e3ce99b2179107e7e5776d063a1ac7cdcf5179",
-      "source": "wwoz",
-      "title": "Danny Rubio & the Catahoula Music Company ft. Jack Pritchett",
-      "venue": "Maison Bourbon Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1389261",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Maison Bourbon Jazz Club | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "5367354f73d87d65e525f8015296dfe0286da4ab",
-      "source": "wwoz",
-      "title": "Johnny Vidacovich Trio with Brian Haas & James Singleton",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1397876",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "fd4e4a08ffb06298cf4c21f8bcda0888256d9ada",
-      "source": "wwoz",
-      "title": "New Fools + Oh Dang + Swarm Comp",
-      "venue": "Okay Bar",
-      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
-      "event_url": "https://www.wwoz.org/events/1374191",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Okay Bar | Date: Thursday, October 1 | Time: 8:00pm"
-    },
-    {
-      "id": "c1a20f216848c79347827b65859ace423fc0d66a",
-      "source": "wwoz",
-      "title": "Da Lovebirds: Robin Barnes & Pat Casey",
-      "venue": "Peacock Room at the Kimpton Hotel Fontenot",
-      "venue_url": "https://www.wwoz.org/organizations/peacock-room-kimpton-hotel-fontenot",
-      "event_url": "https://www.wwoz.org/events/1320531",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:00pm",
-      "start": "2026-10-01T20:00:00+00:00",
-      "description": "Venue: Peacock Room at the Kimpton Hotel Fontenot | Date: Thursday, October 1 | Time: 8:00pm"
     },
     {
       "id": "nola-show-54604",
@@ -1330,30 +340,6 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-01T20:00:00.341000-05:00"
     },
     {
-      "id": "d448c637cdfedd0c6a6c5eb58111e39712ecc981",
-      "source": "wwoz",
-      "title": "The Tail-Gators",
-      "venue": "Gretna Tavern",
-      "venue_url": "https://www.wwoz.org/organizations/gretna-tavern",
-      "event_url": "https://www.wwoz.org/events/1381511",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:30pm",
-      "start": "2026-10-01T20:30:00+00:00",
-      "description": "Venue: Gretna Tavern | Date: Thursday, October 1 | Time: 8:30pm"
-    },
-    {
-      "id": "604098cfbefc46d9c3e65dee321b773aa9b8823f",
-      "source": "wwoz",
-      "title": "Surfers Club",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1396496",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:30pm",
-      "start": "2026-10-01T20:30:00+00:00",
-      "description": "Venue: Maison, The | Date: Thursday, October 1 | Time: 8:30pm"
-    },
-    {
       "id": "nola-show-57087",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1379,126 +365,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T20:30:00-05:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-10-01T20:30:00-05:00"
-    },
-    {
-      "id": "dd57458869c9bee1022afdba96086ed9807f6733",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Wendell Brunious",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1391911",
-      "date_text": "Thursday, October 1",
-      "time_text": "8:45pm",
-      "start": "2026-10-01T20:45:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Thursday, October 1 | Time: 8:45pm"
-    },
-    {
-      "id": "d523858815212b59906199f2aac832cf5aa49288",
-      "source": "wwoz",
-      "title": "The Family Affair Record Release Show",
-      "venue": "Bar Redux",
-      "venue_url": "https://www.wwoz.org/organizations/bar-redux",
-      "event_url": "https://www.wwoz.org/events/1393046",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Bar Redux | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "81c9a99d36569216e42613cb662d2cf00d2a9b14",
-      "source": "wwoz",
-      "title": "Loose Cattle",
-      "venue": "BJ's Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
-      "event_url": "https://www.wwoz.org/events/1379226",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: BJ's Lounge | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "2d7dec5fc2c3376ff4bfe0a134407e0097d835b4",
-      "source": "wwoz",
-      "title": "Irvin Mayfield's Music Church with Special Guests",
-      "venue": "Blue Nile",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
-      "event_url": "https://www.wwoz.org/events/1374211",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Blue Nile | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "3f3f814658d6f38114e44a31a5f278aff58c2ac8",
-      "source": "wwoz",
-      "title": "The Kat Kiley Experience",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1396151",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: BMC | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "99ccd622e7bdfe440c57f6f023b325a6ba8f31ec",
-      "source": "wwoz",
-      "title": "Lena Prima & Her Band",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1390216",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "633fa0ac4c39890e4da2cd509f4f481c0ce94642",
-      "source": "wwoz",
-      "title": "Tiffany Pollack",
-      "venue": "Double Dealer at the Orpheum Theater",
-      "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
-      "event_url": "https://www.wwoz.org/events/1395511",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Double Dealer at the Orpheum Theater | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "2651b5b975c80ad6d66c859aa2b4e930413c4954",
-      "source": "wwoz",
-      "title": "Pete Murano Band featuring Noah Young, Cam IAM & More!",
-      "venue": "Gasa Gasa",
-      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
-      "event_url": "https://www.wwoz.org/events/1378861",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Gasa Gasa | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "807b82ed0e9031a6b12b98e569712b6f0f39e8a3",
-      "source": "wwoz",
-      "title": "Grand Reopening 80's Night with DJ Shane Love",
-      "venue": "Hi Ho Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/hi-ho-lounge",
-      "event_url": "https://www.wwoz.org/events/1398851",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Hi Ho Lounge | Date: Thursday, October 1 | Time: 9:00pm"
-    },
-    {
-      "id": "0e50e2f279b327fb49421c10bfec30729f6014ec",
-      "source": "wwoz",
-      "title": "Louis Michot's Swamp Magic",
-      "venue": "Saturn Bar",
-      "venue_url": "https://www.wwoz.org/organizations/saturn-bar",
-      "event_url": "https://www.wwoz.org/events/1374016",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:00pm",
-      "start": "2026-10-01T21:00:00+00:00",
-      "description": "Venue: Saturn Bar | Date: Thursday, October 1 | Time: 9:00pm"
     },
     {
       "id": "nola-show-57261",
@@ -1582,54 +448,6 @@
       "description": "Venue: 30/90 | Starts: 2026-10-01T21:00:00.693000-05:00"
     },
     {
-      "id": "8a9514668a240f8149a9ebb7dbb5b517cbdf9875",
-      "source": "wwoz",
-      "title": "Revisited: The Early Days of Snug Harbor with Lawrence Sieberth, Ricky Sebastian & More!",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1377451",
-      "date_text": "Thursday, October 1",
-      "time_text": "9:30pm",
-      "start": "2026-10-01T21:30:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Thursday, October 1 | Time: 9:30pm"
-    },
-    {
-      "id": "9ab57d5b9e0326baa40301d265e691065b229ce9",
-      "source": "wwoz",
-      "title": "Cryptic ft. Peter Harris, Ricardo Pascal & Nygel Anderson",
-      "venue": "Bayou Bar at the Pontchartrain",
-      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
-      "event_url": "https://www.wwoz.org/events/1394166",
-      "date_text": "Thursday, October 1",
-      "time_text": "10:00pm",
-      "start": "2026-10-01T22:00:00+00:00",
-      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Thursday, October 1 | Time: 10:00pm"
-    },
-    {
-      "id": "abcd5275a6b4241a5f87b53529c169b4d41e98b9",
-      "source": "wwoz",
-      "title": "Sierra Green",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1396486",
-      "date_text": "Thursday, October 1",
-      "time_text": "10:00pm",
-      "start": "2026-10-01T22:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Thursday, October 1 | Time: 10:00pm"
-    },
-    {
-      "id": "24f1f3b673d2406d5a41f81e197e16791e7c2dcf",
-      "source": "wwoz",
-      "title": "Fowk Band + Nikaness & Friends",
-      "venue": "Howlin' Wolf - The Den",
-      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
-      "event_url": "https://www.wwoz.org/events/1379191",
-      "date_text": "Thursday, October 1",
-      "time_text": "10:00pm",
-      "start": "2026-10-01T22:00:00+00:00",
-      "description": "Venue: Howlin' Wolf - The Den | Date: Thursday, October 1 | Time: 10:00pm"
-    },
-    {
       "id": "nola-show-55168",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1670,30 +488,6 @@
       "pubDate": "Tue, 15 Sep 2026 10:26:16 -0400"
     },
     {
-      "id": "ce033f5c01e3b402c61291ea9a11d34a3da9da59",
-      "source": "wwoz",
-      "title": "Johnny Mastro",
-      "venue": "Apple Barrel",
-      "venue_url": "https://www.wwoz.org/organizations/apple-barrel",
-      "event_url": "https://www.wwoz.org/events/1389526",
-      "date_text": "Thursday, October 1",
-      "time_text": "10:30pm",
-      "start": "2026-10-01T22:30:00+00:00",
-      "description": "Venue: Apple Barrel | Date: Thursday, October 1 | Time: 10:30pm"
-    },
-    {
-      "id": "b2a76ebb640dc391f31cdc4f02f2e7ff5e3efd6c",
-      "source": "wwoz",
-      "title": "Corey Henry & The Treme Funktet",
-      "venue": "Vaughan's Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/vaughans-lounge",
-      "event_url": "https://www.wwoz.org/events/1354791",
-      "date_text": "Thursday, October 1",
-      "time_text": "10:30pm",
-      "start": "2026-10-01T22:30:00+00:00",
-      "description": "Venue: Vaughan's Lounge | Date: Thursday, October 1 | Time: 10:30pm"
-    },
-    {
       "id": "nola-show-58157",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1701,30 +495,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-01T22:30:00-05:00",
       "description": "Venue: Vaughan's Lounge | Starts: 2026-10-01T22:30:00-05:00"
-    },
-    {
-      "id": "04047aaebd4c354b76346d2157aa549853af1d1f",
-      "source": "wwoz",
-      "title": "Reggae Night with DJ T-Roy",
-      "venue": "Blue Nile - Balcony Room",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
-      "event_url": "https://www.wwoz.org/events/1394791",
-      "date_text": "Thursday, October 1",
-      "time_text": "11:00pm",
-      "start": "2026-10-01T23:00:00+00:00",
-      "description": "Venue: Blue Nile - Balcony Room | Date: Thursday, October 1 | Time: 11:00pm"
-    },
-    {
-      "id": "c3ae762fb1eea41c0ffd5e3c1716a601fa66d5e2",
-      "source": "wwoz",
-      "title": "Tiago Guy",
-      "venue": "Le Bon Temps Roul\u00e9",
-      "venue_url": "https://www.wwoz.org/organizations/le-bon-temps-roule",
-      "event_url": "https://www.wwoz.org/events/1377376",
-      "date_text": "Thursday, October 1",
-      "time_text": "11:00pm",
-      "start": "2026-10-01T23:00:00+00:00",
-      "description": "Venue: Le Bon Temps Roul\u00e9 | Date: Thursday, October 1 | Time: 11:00pm"
     },
     {
       "id": "nola-show-54430",
@@ -1745,6 +515,99 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-02T10:00:00.947000-05:00"
     },
     {
+      "id": "c4f9d3f427bcc99ecc80ce9b94433306dea3182d",
+      "source": "wwoz",
+      "title": "The New Orleans Rug Cutters",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1396411",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00am",
+      "start": "2026-10-02T11:00:00+00:00",
+      "description": "Venue: Bamboula's | Date: Friday, October 2 | Time: 11:00am"
+    },
+    {
+      "id": "637fc0c40083dce7298ba647d1811820535873a4",
+      "source": "wwoz",
+      "title": "Johnette Downing",
+      "venue": "New Orleans Jazz National Historical Park - Dutch Alley",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park-dutch-alley",
+      "event_url": "https://www.wwoz.org/events/1394626",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00am",
+      "start": "2026-10-02T11:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park - Dutch Alley | Date: Friday, October 2 | Time: 11:00am"
+    },
+    {
+      "id": "50bcdded37f2db0cdc9eda534d555f72a8bf554e",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1397161",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00am",
+      "start": "2026-10-02T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 11:00am"
+    },
+    {
+      "id": "ca7016c2214a3e6a818540ad2c4bcc42f8e4a123",
+      "source": "wwoz",
+      "title": "The Ricky Knight Jazz Trio",
+      "venue": "Crescent City Brewhouse",
+      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
+      "event_url": "https://www.wwoz.org/events/1395741",
+      "date_text": "Friday, October 2",
+      "time_text": "12:00pm",
+      "start": "2026-10-02T12:00:00+00:00",
+      "description": "Venue: Crescent City Brewhouse | Date: Friday, October 2 | Time: 12:00pm"
+    },
+    {
+      "id": "nola-show-58381",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T12:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-02T12:30:00-05:00"
+    },
+    {
+      "id": "065ce6aa41bdd92187b1a3da7c78d5f84a5ae8e2",
+      "source": "wwoz",
+      "title": "Richard \"Piano\" Scott",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1395181",
+      "date_text": "Friday, October 2",
+      "time_text": "1:00pm",
+      "start": "2026-10-02T13:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 1:00pm"
+    },
+    {
+      "id": "8b83aee790b89c6b952885e1920aee0b032e917e",
+      "source": "wwoz",
+      "title": "The New Orleans Ragtime Festival ft. Tom McDermott, Matt Lemmler Ragtime Trio + More!",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1390956",
+      "date_text": "Friday, October 2",
+      "time_text": "1:00pm",
+      "start": "2026-10-02T13:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Friday, October 2 | Time: 1:00pm"
+    },
+    {
+      "id": "cb907a9244cd2a7a69c19ef4649bfad5fb869537",
+      "source": "wwoz",
+      "title": "Victoria Amato + Ben Michaels",
+      "venue": "Pat O'Brien's",
+      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
+      "event_url": "https://www.wwoz.org/events/1395946",
+      "date_text": "Friday, October 2",
+      "time_text": "1:00pm",
+      "start": "2026-10-02T13:00:00+00:00",
+      "description": "Venue: Pat O'Brien's | Date: Friday, October 2 | Time: 1:00pm"
+    },
+    {
       "id": "nola-show-56846",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1752,6 +615,42 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T13:00:00-05:00",
       "description": "Venue: Bacchanal | Starts: 2026-10-02T13:00:00-05:00"
+    },
+    {
+      "id": "0ba9296c8dffcaab1dae28c6405fc915010406b8",
+      "source": "wwoz",
+      "title": "Cristina Kaminis Quartet",
+      "venue": "French Market (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/french-market-outdoors",
+      "event_url": "https://www.wwoz.org/events/1389646",
+      "date_text": "Friday, October 2",
+      "time_text": "1:30pm",
+      "start": "2026-10-02T13:30:00+00:00",
+      "description": "Venue: French Market (OUTDOORS) | Date: Friday, October 2 | Time: 1:30pm"
+    },
+    {
+      "id": "770c1ac2cb9212753903200c1e9d4207b28e078b",
+      "source": "wwoz",
+      "title": "OVJ Collective",
+      "venue": "New Orleans Jazz Museum",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-museum",
+      "event_url": "https://www.wwoz.org/events/1373756",
+      "date_text": "Friday, October 2",
+      "time_text": "2:00pm",
+      "start": "2026-10-02T14:00:00+00:00",
+      "description": "Venue: New Orleans Jazz Museum | Date: Friday, October 2 | Time: 2:00pm"
+    },
+    {
+      "id": "86121f5dbdb02e2df8072e10e05009a33d92fd4e",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1397301",
+      "date_text": "Friday, October 2",
+      "time_text": "2:00pm",
+      "start": "2026-10-02T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 2:00pm"
     },
     {
       "id": "nola-show-54763",
@@ -1763,6 +662,18 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-02T14:00:00-05:00"
     },
     {
+      "id": "2d0e829c2ebaa5863a0643fcea00a957f9e6b742",
+      "source": "wwoz",
+      "title": "Tiago Guy",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1397591",
+      "date_text": "Friday, October 2",
+      "time_text": "2:30pm",
+      "start": "2026-10-02T14:30:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Friday, October 2 | Time: 2:30pm"
+    },
+    {
       "id": "nola-show-57675",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1770,6 +681,54 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T14:30:00-05:00",
       "description": "Venue: Cafe Negril | Starts: 2026-10-02T14:30:00-05:00"
+    },
+    {
+      "id": "afa2716e937860a107733ec3692ea0bb169eeb80",
+      "source": "wwoz",
+      "title": "Big Joe Kennedy Duo",
+      "venue": "21st Amendment",
+      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
+      "event_url": "https://www.wwoz.org/events/1393941",
+      "date_text": "Friday, October 2",
+      "time_text": "3:00pm",
+      "start": "2026-10-02T15:00:00+00:00",
+      "description": "Venue: 21st Amendment | Date: Friday, October 2 | Time: 3:00pm"
+    },
+    {
+      "id": "bc4d3cb5e823ee7433cf4ced7fc7ba47932f5aa3",
+      "source": "wwoz",
+      "title": "Sam Friend Band",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1395441",
+      "date_text": "Friday, October 2",
+      "time_text": "3:00pm",
+      "start": "2026-10-02T15:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 3:00pm"
+    },
+    {
+      "id": "97445ecb15d3eaaa63c02b5833d786f68b1321ca",
+      "source": "wwoz",
+      "title": "Khris Royal Trio",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1392656",
+      "date_text": "Friday, October 2",
+      "time_text": "3:00pm",
+      "start": "2026-10-02T15:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 3:00pm"
+    },
+    {
+      "id": "f435b979fc2ddcd885413664ceec1fde57252f0a",
+      "source": "wwoz",
+      "title": "NOLA Sweethearts",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1397926",
+      "date_text": "Friday, October 2",
+      "time_text": "3:00pm",
+      "start": "2026-10-02T15:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Friday, October 2 | Time: 3:00pm"
     },
     {
       "id": "nola-show-57168",
@@ -1799,6 +758,147 @@
       "description": "Venue: Hide/Seek | Starts: 2026-10-02T15:00:00-05:00"
     },
     {
+      "id": "430eb649fd35a31a2c904cbbf75d2504c4f5eadb",
+      "source": "wwoz",
+      "title": "Fried Chicken Festival ft. Marc Broussard, Shamarr Allen's Ratchet Jazz & More!",
+      "venue": "New Orleans Lakefront (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-lakefront-outdoors",
+      "event_url": "https://www.wwoz.org/events/1393026",
+      "date_text": "Friday, October 2",
+      "time_text": "3:30pm",
+      "start": "2026-10-02T15:30:00+00:00",
+      "description": "Venue: New Orleans Lakefront (OUTDOORS) | Date: Friday, October 2 | Time: 3:30pm"
+    },
+    {
+      "id": "53afe5b6deac9c3c7e87aac781b0cbb305e231a9",
+      "source": "wwoz",
+      "title": "Honest Man Happy Hour with Domenic Fusca",
+      "venue": "Banks Street Bar",
+      "venue_url": "https://www.wwoz.org/organizations/banks-street-bar",
+      "event_url": "https://www.wwoz.org/events/1385341",
+      "date_text": "Friday, October 2",
+      "time_text": "4:00pm",
+      "start": "2026-10-02T16:00:00+00:00",
+      "description": "Venue: Banks Street Bar | Date: Friday, October 2 | Time: 4:00pm"
+    },
+    {
+      "id": "ed1d9cf7ec941978334024b0997635731b80f292",
+      "source": "wwoz",
+      "title": "Jass Hysteria",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1394861",
+      "date_text": "Friday, October 2",
+      "time_text": "4:00pm",
+      "start": "2026-10-02T16:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Friday, October 2 | Time: 4:00pm"
+    },
+    {
+      "id": "2fd08bb356e6212b3bcd90949dcfa1dcc9662d2a",
+      "source": "wwoz",
+      "title": "Shea Siraj",
+      "venue": "Hotel Henrietta",
+      "venue_url": "https://www.wwoz.org/organizations/hotel-henrietta",
+      "event_url": "https://www.wwoz.org/events/1374061",
+      "date_text": "Friday, October 2",
+      "time_text": "4:00pm",
+      "start": "2026-10-02T16:00:00+00:00",
+      "description": "Venue: Hotel Henrietta | Date: Friday, October 2 | Time: 4:00pm"
+    },
+    {
+      "id": "1ffe70d76d009d981c424066d29b813fc754711e",
+      "source": "wwoz",
+      "title": "Mark Barrett & The First Calls",
+      "venue": "House of Blues - Voodoo Garden (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/house-blues-voodoo-garden-outdoors",
+      "event_url": "https://www.wwoz.org/events/1394506",
+      "date_text": "Friday, October 2",
+      "time_text": "4:00pm",
+      "start": "2026-10-02T16:00:00+00:00",
+      "description": "Venue: House of Blues - Voodoo Garden (OUTDOORS) | Date: Friday, October 2 | Time: 4:00pm"
+    },
+    {
+      "id": "nola-show-58335",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-02T16:00:00-05:00"
+    },
+    {
+      "id": "84814a449f9666cafb0ea8295f62a1e5e91e84ec",
+      "source": "wwoz",
+      "title": "Henrietta's Baudy Brothel Sing A-Long",
+      "venue": "AllWays Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1390531",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: AllWays Lounge | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
+      "id": "f9b557263daa4844d7d4cd466d3cb0fcfe4ebd2c",
+      "source": "wwoz",
+      "title": "T Marie & Bayou Juju",
+      "venue": "Blue Crab Restaurant & Oyster Bar, The",
+      "venue_url": "https://www.wwoz.org/organizations/blue-crab-restaurant-oyster-bar",
+      "event_url": "https://www.wwoz.org/events/1373656",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: Blue Crab Restaurant & Oyster Bar, The | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
+      "id": "3b237b21da2634eee9fc3ed8c79f927eb30a3f00",
+      "source": "wwoz",
+      "title": "Shotgun Jazz Band",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1397951",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
+      "id": "e8aae68a9929987fb1e399313bc7ad2d8222f0b3",
+      "source": "wwoz",
+      "title": "Preservation All-Stars ft. Mark Braud",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1391951",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
+      "id": "83589799a50202dcaaba828ea430bbb808083fd4",
+      "source": "wwoz",
+      "title": "Live After Five Concert Series ft. After 8",
+      "venue": "Rhorer Plaza (OUTDOORS) - Baton Rouge",
+      "venue_url": "https://www.wwoz.org/organizations/rhorer-plaza-outdoors-baton-rouge",
+      "event_url": "https://www.wwoz.org/events/1380371",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: Rhorer Plaza (OUTDOORS) - Baton Rouge | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
+      "id": "064a7c1faeca2c276b13c07e39db6a6be20c9e82",
+      "source": "wwoz",
+      "title": "The Desert Nudes",
+      "venue": "Seithers Seafood (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/seithers-seafood-outdoors",
+      "event_url": "https://www.wwoz.org/events/1386576",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: Seithers Seafood (OUTDOORS) | Date: Friday, October 2 | Time: 5:00pm"
+    },
+    {
       "id": "nola-show-47257",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1806,6 +906,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T17:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-02T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58322",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T17:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-02T17:00:00-05:00"
     },
     {
       "id": "nola-show-56925",
@@ -1824,6 +933,18 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T17:00:00-05:00",
       "description": "Venue: Seither\u2019s Seafood | Starts: 2026-10-02T17:00:00-05:00"
+    },
+    {
+      "id": "652e200668a542c96536dc07a673e69c4598af4c",
+      "source": "wwoz",
+      "title": "Wil Blades & Sasha Masakowski",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1396341",
+      "date_text": "Friday, October 2",
+      "time_text": "5:30pm",
+      "start": "2026-10-02T17:30:00+00:00",
+      "description": "Venue: Blue Nile | Date: Friday, October 2 | Time: 5:30pm"
     },
     {
       "id": "nola-show-58067",
@@ -1855,6 +976,126 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4906009",
       "description": "Venue: Blue Nile\nStarts: 2026-10-02T17:30:00.000-07:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.\n\nDOORS 7PM.",
       "pubDate": "Tue, 22 Sep 2026 06:51:58 -0700"
+    },
+    {
+      "id": "91613b32bb8bfbfa2a0b99b773b0ac826305392f",
+      "source": "wwoz",
+      "title": "Danny Ray & the Electric Barrelhouse",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1394511",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: BMC | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "183ee76a6d8605146cb5608a518239786f23dc6f",
+      "source": "wwoz",
+      "title": "Audrey LeCrone Trio",
+      "venue": "Brutto Americano",
+      "venue_url": "https://www.wwoz.org/organizations/brutto-americano",
+      "event_url": "https://www.wwoz.org/events/1391021",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Brutto Americano | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "fa2596b556f1683d2aca6cf32b077ac463493ce0",
+      "source": "wwoz",
+      "title": "The Ricky Knight Jazz Quartet",
+      "venue": "Crescent City Brewhouse",
+      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
+      "event_url": "https://www.wwoz.org/events/1395746",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Crescent City Brewhouse | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "b28d2d1655255074a7a4e79b53d4e983f632ec9d",
+      "source": "wwoz",
+      "title": "Michael Watson & the Alchemy",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1381346",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: d.b.a. | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "cf51a85648fa967206c1f699a90165ee26803f75",
+      "source": "wwoz",
+      "title": "Sam Lobley Band",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1395426",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "e5850ab3176a3443b13f988aadf42fdbd83f378c",
+      "source": "wwoz",
+      "title": "Raphael Bas",
+      "venue": "Lobby Lounge at JW Marriott",
+      "venue_url": "https://www.wwoz.org/organizations/lobby-lounge-jw-marriott",
+      "event_url": "https://www.wwoz.org/events/1361776",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Lobby Lounge at JW Marriott | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "ed7b7cf4bb3f0bcd4999c5a224dbc3d8ea325714",
+      "source": "wwoz",
+      "title": "NOMA at Night ft. Haruka Kikuchi & Friends + More!",
+      "venue": "New Orleans Museum of Art",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-museum-art",
+      "event_url": "https://www.wwoz.org/events/1393266",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: New Orleans Museum of Art | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "8514110ca03eea221a7858fb803b0036b7303453",
+      "source": "wwoz",
+      "title": "Matt Hayden & Hannah Kreiger-Benson + Jim Lockwood & Lisa Bittick-Lowe",
+      "venue": "Pat O'Brien's",
+      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
+      "event_url": "https://www.wwoz.org/events/1395951",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Pat O'Brien's | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "21fe9e2edcfcc72bfe6d69ac5031f9c83d32b794",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1397436",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Friday, October 2 | Time: 6:00pm"
+    },
+    {
+      "id": "5a51486f58fe0b4e8de1e30d08c777ebe621bb47",
+      "source": "wwoz",
+      "title": "Gumbo Funk",
+      "venue": "Three Maries Jazz Club at the Omni Royal Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/three-maries-jazz-club-omni-royal-orleans",
+      "event_url": "https://www.wwoz.org/events/1393136",
+      "date_text": "Friday, October 2",
+      "time_text": "6:00pm",
+      "start": "2026-10-02T18:00:00+00:00",
+      "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, October 2 | Time: 6:00pm"
     },
     {
       "id": "nola-show-53289",
@@ -1893,6 +1134,126 @@
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-10-02T18:00:00-05:00"
     },
     {
+      "id": "d1616af685b040ed41720e7ce7f6b1e37b5d7eef",
+      "source": "wwoz",
+      "title": "Preservation All-Stars ft. Mark Braud",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1391956",
+      "date_text": "Friday, October 2",
+      "time_text": "6:15pm",
+      "start": "2026-10-02T18:15:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Friday, October 2 | Time: 6:15pm"
+    },
+    {
+      "id": "87702ce2b88cca3682215a1df938bf7e45415751",
+      "source": "wwoz",
+      "title": "Free Agents Brass Band",
+      "venue": "Blue Crawfish, The",
+      "venue_url": "https://www.wwoz.org/organizations/blue-crawfish",
+      "event_url": "https://www.wwoz.org/events/1388491",
+      "date_text": "Friday, October 2",
+      "time_text": "6:30pm",
+      "start": "2026-10-02T18:30:00+00:00",
+      "description": "Venue: Blue Crawfish, The | Date: Friday, October 2 | Time: 6:30pm"
+    },
+    {
+      "id": "473764db67d0b058952ae35658ca19a70fdd0b5b",
+      "source": "wwoz",
+      "title": "2nd Lion Reggae Band",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1385181",
+      "date_text": "Friday, October 2",
+      "time_text": "6:30pm",
+      "start": "2026-10-02T18:30:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Friday, October 2 | Time: 6:30pm"
+    },
+    {
+      "id": "5d759d3f5ad0223c61c661294a4ff6bddd8771f0",
+      "source": "wwoz",
+      "title": "Adam Pearce",
+      "venue": "Frenier Landing Restaurant & Oyster Bar - LaPlace",
+      "venue_url": "https://www.wwoz.org/organizations/frenier-landing-restaurant-oyster-bar-laplace",
+      "event_url": "https://www.wwoz.org/events/1395566",
+      "date_text": "Friday, October 2",
+      "time_text": "6:30pm",
+      "start": "2026-10-02T18:30:00+00:00",
+      "description": "Venue: Frenier Landing Restaurant & Oyster Bar - LaPlace | Date: Friday, October 2 | Time: 6:30pm"
+    },
+    {
+      "id": "89b7965daf3445377329ccb423e8edf6b0754864",
+      "source": "wwoz",
+      "title": "Bishop & Blues Masters Live",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1394966",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "ba56d526339dfccd15a23269910a6a862a05b1bc",
+      "source": "wwoz",
+      "title": "Or Shovaly Plus",
+      "venue": "Common House New Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/common-house-new-orleans",
+      "event_url": "https://www.wwoz.org/events/1391636",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: Common House New Orleans | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "9ae8d81ea667a23b28893409dc07d49d5b9b0c8d",
+      "source": "wwoz",
+      "title": "Delfeayo Marsalis Quintet",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1373741",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "4fd78b4d3b18fb108293ee732672a59f052beb09",
+      "source": "wwoz",
+      "title": "New Orleans Ragtime Festival with Seva Venet ft. Dr. Michael White",
+      "venue": "New Marigny Theatre",
+      "venue_url": "https://www.wwoz.org/organizations/new-marigny-theatre",
+      "event_url": "https://www.wwoz.org/events/1390936",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: New Marigny Theatre | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "5384c9cac352a91e9f6d6fc23b53a4404f975d1a",
+      "source": "wwoz",
+      "title": "Mr. Silver",
+      "venue": "Pirogue's Whiskey Bayou (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/pirogues-whiskey-bayou-outdoors",
+      "event_url": "https://www.wwoz.org/events/1391221",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "8fa2c4906e0aaaaa8e3f2f53561b829fcf8f36a6",
+      "source": "wwoz",
+      "title": "Nouvelle Follies: Parisian Glamour Meets Underworld Burlesque",
+      "venue": "Twilight Room at The Allways Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/twilight-room-allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1390556",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: Twilight Room at The Allways Lounge | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
       "id": "nola-show-58143",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1920,6 +1281,78 @@
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-10-02T19:00:00-05:00"
     },
     {
+      "id": "1eecb33ee533bac3997d32c22dbf7d021c6cdba1",
+      "source": "wwoz",
+      "title": "The Caesar Brothers' FunkBox",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1394631",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: Blue Nile | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
+      "id": "7ce895d927c715d9981b03010b36aaa568ff43ec",
+      "source": "wwoz",
+      "title": "(CANCELLED) Jovin Webb",
+      "venue": "New Orleans Jazz & Blues Market",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-blues-market",
+      "event_url": "https://www.wwoz.org/events/1393071",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: New Orleans Jazz & Blues Market | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
+      "id": "2eb0e5caf8072d816d7fcc49f737844d477c854f",
+      "source": "wwoz",
+      "title": "Louisiana Philharmonic Orchestra with Tank & The Bangas and Dawn Richard",
+      "venue": "Orpheum Theater",
+      "venue_url": "https://www.wwoz.org/organizations/orpheum-theater",
+      "event_url": "https://www.wwoz.org/events/1370526",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: Orpheum Theater | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
+      "id": "49d65684bc7c1da67f9efa96dbc9df5ff5bb30b0",
+      "source": "wwoz",
+      "title": "Preservation All-Stars ft. Mark Braud",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1391961",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
+      "id": "dc851d96243f635c3524fea6a6db5b40c8a82b42",
+      "source": "wwoz",
+      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1374076",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
+      "id": "6b48ab44323d5c3ed0f6ba8723a37a869dae0a42",
+      "source": "wwoz",
+      "title": "Jelly Roll Stompers",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1398896",
+      "date_text": "Friday, October 2",
+      "time_text": "7:30pm",
+      "start": "2026-10-02T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Friday, October 2 | Time: 7:30pm"
+    },
+    {
       "id": "nola-show-54951",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1936,6 +1369,159 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T19:30:00-05:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-02T19:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58325",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Three Muses",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-02T19:30:00-05:00",
+      "description": "Venue: Three Muses | Starts: 2026-10-02T19:30:00-05:00"
+    },
+    {
+      "id": "221e29679e3447fdbf0fc56209c4905d31418564",
+      "source": "wwoz",
+      "title": "Dr. Sick & the Late Greats",
+      "venue": "21st Amendment",
+      "venue_url": "https://www.wwoz.org/organizations/21st-amendment",
+      "event_url": "https://www.wwoz.org/events/1393966",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: 21st Amendment | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "abb1b7788736c0d58c55a6dc150e1d05268a85ce",
+      "source": "wwoz",
+      "title": "Bayou Blues Burlesque ft. The Delta Revues",
+      "venue": "AllWays Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1390466",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: AllWays Lounge | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "9f8018ca536f961f2d3c566d6bc66c5b111321df",
+      "source": "wwoz",
+      "title": "Solid Harmony ft. Peter Harris, Yolanda Robinson, Joe Ashlar & More!",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1373906",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "8d24d9eaaa2d78ff4ea0a1326d5d98eaf0e993ae",
+      "source": "wwoz",
+      "title": "Ancestral Tongue",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1375196",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "8981334535f8a5ed172053530bc00821a4765f56",
+      "source": "wwoz",
+      "title": "The Nicolas Payton Trio ft. Herlin Riley & Reginald Veal",
+      "venue": "Caf\u00e9 Istanbul",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-istanbul",
+      "event_url": "https://www.wwoz.org/events/1373781",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Istanbul | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "4c0802630b17494962d2f2b4e026bb6cb239359b",
+      "source": "wwoz",
+      "title": "Of Monsters and Men: The Mouse Parade Tour with August Ponthier",
+      "venue": "Civic Theatre",
+      "venue_url": "https://www.wwoz.org/organizations/civic-theatre",
+      "event_url": "https://www.wwoz.org/events/1376896",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Civic Theatre | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "e4e1195669a1fe302c475c84a7d28850347bf179",
+      "source": "wwoz",
+      "title": "Club Switch Two Year Anniversary Drag Show",
+      "venue": "Club Switch",
+      "venue_url": "https://www.wwoz.org/organizations/club-switch",
+      "event_url": "https://www.wwoz.org/events/1374291",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Club Switch | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "4cc4fdf6d2105e08392d5a9152bcaf26e27e97a9",
+      "source": "wwoz",
+      "title": "Jeremy Davenport",
+      "venue": "Davenport Lounge at The Ritz-Carlton",
+      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
+      "event_url": "https://www.wwoz.org/events/1387336",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "17fb4061017ee36fe2b4755101f7f07e9cfe0489",
+      "source": "wwoz",
+      "title": "The Dewdrops Album Release Show",
+      "venue": "Good Measure at The Barnett",
+      "venue_url": "https://www.wwoz.org/organizations/good-measure-barnett",
+      "event_url": "https://www.wwoz.org/events/1389821",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Good Measure at The Barnett | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "5141428fb48d76558512ae7f1c07229319d28e2d",
+      "source": "wwoz",
+      "title": "Trixie Minx's Burlesque Ballroom ft. Romy Kaye & the Mercy Buckets",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1377461",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "7cae4127ba0b7d67d04e57f785e4c6a9f94822e7",
+      "source": "wwoz",
+      "title": "Sky Choice + Mars & Other Planets + Josephine Alphanzo",
+      "venue": "Okay Bar",
+      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
+      "event_url": "https://www.wwoz.org/events/1393091",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Okay Bar | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "628586b5b4b633d6f4793dc71109159bdf541d61",
+      "source": "wwoz",
+      "title": "River Eckert Generations of Groove with Special Guests Cyril Nevile, Omari Neville, Dave Malone & More!",
+      "venue": "Tipitina's",
+      "venue_url": "https://www.wwoz.org/organizations/tipitinas",
+      "event_url": "https://www.wwoz.org/events/1385221",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Tipitina's | Date: Friday, October 2 | Time: 8:00pm"
     },
     {
       "id": "nola-show-52084",
@@ -2029,15 +1615,6 @@
       "pubDate": "Fri, 16 Jan 2026 12:16:29 -0800"
     },
     {
-      "id": "nola-show-56623",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-02T20:00:00.049000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-02T20:00:00.049000-05:00"
-    },
-    {
       "id": "nola-show-56707",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2065,6 +1642,30 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-02T20:00:00.675000-05:00"
     },
     {
+      "id": "f80e1126589b5feff3d098272f2b07c000f0082e",
+      "source": "wwoz",
+      "title": "The Leroy Marshall Band",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1396981",
+      "date_text": "Friday, October 2",
+      "time_text": "8:15pm",
+      "start": "2026-10-02T20:15:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Friday, October 2 | Time: 8:15pm"
+    },
+    {
+      "id": "7562f1a183ba7a056f480a6d756b4e6ddff1b00b",
+      "source": "wwoz",
+      "title": "Bayou Manouche",
+      "venue": "May Baily's Place",
+      "venue_url": "https://www.wwoz.org/organizations/may-bailys-place",
+      "event_url": "https://www.wwoz.org/events/1398906",
+      "date_text": "Friday, October 2",
+      "time_text": "8:30pm",
+      "start": "2026-10-02T20:30:00+00:00",
+      "description": "Venue: May Baily's Place | Date: Friday, October 2 | Time: 8:30pm"
+    },
+    {
       "id": "nola-show-54440",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2081,6 +1682,210 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T20:30:00-05:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-10-02T20:30:00-05:00"
+    },
+    {
+      "id": "8090a42d14d21be528ace3ecbda603b6cef75da1",
+      "source": "wwoz",
+      "title": "Preservation All-Stars ft. Mark Braud",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1391986",
+      "date_text": "Friday, October 2",
+      "time_text": "8:45pm",
+      "start": "2026-10-02T20:45:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Friday, October 2 | Time: 8:45pm"
+    },
+    {
+      "id": "0e15a7bc7c9658ba4123f94c2e9beed18722140c",
+      "source": "wwoz",
+      "title": "Rose Vaughn",
+      "venue": "Banks Street Bar",
+      "venue_url": "https://www.wwoz.org/organizations/banks-street-bar",
+      "event_url": "https://www.wwoz.org/events/1373976",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Banks Street Bar | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "b3d0d675ed2a6c800795c8ab046126aed466a641",
+      "source": "wwoz",
+      "title": "Wacko Wade's 82nd B-Day Party with Little Freddie King + Leopard Hounds",
+      "venue": "BJ's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
+      "event_url": "https://www.wwoz.org/events/1379231",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: BJ's Lounge | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "485c980d9c45d7e49fe8d4f3d1141f7082f070f9",
+      "source": "wwoz",
+      "title": "Big Mike & The R&B Kings",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1396156",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: BMC | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "f0de85669141afdaf860e20d5159ac7b531383ae",
+      "source": "wwoz",
+      "title": "Nayo Jones Experience",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1390346",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "e213bd57e6813c9e03faf6bb92d93cbf2e35c3aa",
+      "source": "wwoz",
+      "title": "Uptown Hoedown: NOLA Allstar Bluegrass Jam with Dead Magnolia String Band",
+      "venue": "Carrollton Station",
+      "venue_url": "https://www.wwoz.org/organizations/carrollton-station",
+      "event_url": "https://www.wwoz.org/events/1373816",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Carrollton Station | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "013e78d14b75e9a23d512b29afad3a7f7dc03ed4",
+      "source": "wwoz",
+      "title": "Erica Falls Presents A Night of Marvin Gaye",
+      "venue": "Chickie Wah Wah",
+      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
+      "event_url": "https://www.wwoz.org/events/1373931",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Chickie Wah Wah | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "b0637d54f00f423d9e7782bbce59ea711c978f59",
+      "source": "wwoz",
+      "title": "Fritzel's All Star Band with Kevin Ray Clark",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1395311",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "fc286737b3804dc1df4483e88da33fc0cbebadb3",
+      "source": "wwoz",
+      "title": "Sub-Division Joy Division Tribute + The English Channels Cure Tribute",
+      "venue": "Gasa Gasa",
+      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
+      "event_url": "https://www.wwoz.org/events/1386396",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Gasa Gasa | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "f0f4ff06833b99a89a458776ade224279fd4df70",
+      "source": "wwoz",
+      "title": "Grand Reopening with Sporty's Brass Band",
+      "venue": "Hi Ho Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/hi-ho-lounge",
+      "event_url": "https://www.wwoz.org/events/1398856",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Hi Ho Lounge | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "c02b4972ed1b16829233baa89dddf3c4d66bb68f",
+      "source": "wwoz",
+      "title": "The Ladies Of...featuring James Hall + Cone of Uncertainty + DarkLounge Ministries",
+      "venue": "Holy Diver",
+      "venue_url": "https://www.wwoz.org/organizations/holy-diver",
+      "event_url": "https://www.wwoz.org/events/1374131",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Holy Diver | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "4034cac1063db596322079639444bca7e8f1154c",
+      "source": "wwoz",
+      "title": "The Bottoms with Shawn Gwin",
+      "venue": "Howlin' Wolf - The Den",
+      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
+      "event_url": "https://www.wwoz.org/events/1373926",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Howlin' Wolf - The Den | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "7139b572730be6e720a9f194152633d5c258afe2",
+      "source": "wwoz",
+      "title": "Street Lyfe",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1397976",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "a491f8553ae9583d6b54ce9672283927f15005ea",
+      "source": "wwoz",
+      "title": "Alfred Jordan & the SCAWAD - Album Release Party with Special Guests 95mp",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1397881",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "1e181bccf36327f450026c3c49f70186d8f49033",
+      "source": "wwoz",
+      "title": "The Old Barstools",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1398311",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "43971bbec7b03e0a6bf3995d068e78a9f0652070",
+      "source": "wwoz",
+      "title": "The Black Queen + Trace Ammount",
+      "venue": "Siberia",
+      "venue_url": "https://www.wwoz.org/organizations/siberia",
+      "event_url": "https://www.wwoz.org/events/1367676",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Siberia | Date: Friday, October 2 | Time: 9:00pm"
+    },
+    {
+      "id": "0059373eb8a6a5293a4d0f3043cd4729a42c30ba",
+      "source": "wwoz",
+      "title": "Ana\u00efs St. John",
+      "venue": "Three Maries Jazz Club at the Omni Royal Orleans",
+      "venue_url": "https://www.wwoz.org/organizations/three-maries-jazz-club-omni-royal-orleans",
+      "event_url": "https://www.wwoz.org/events/1393146",
+      "date_text": "Friday, October 2",
+      "time_text": "9:00pm",
+      "start": "2026-10-02T21:00:00+00:00",
+      "description": "Venue: Three Maries Jazz Club at the Omni Royal Orleans | Date: Friday, October 2 | Time: 9:00pm"
     },
     {
       "id": "nola-show-56739",
@@ -2164,6 +1969,54 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-02T21:00:00-05:00"
     },
     {
+      "id": "bd001a4b1e4b1cc964d2d16bb56a2f6406431086",
+      "source": "wwoz",
+      "title": "George Porter, Jr.",
+      "venue": "Double Dealer at the Orpheum Theater",
+      "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
+      "event_url": "https://www.wwoz.org/events/1384761",
+      "date_text": "Friday, October 2",
+      "time_text": "9:30pm",
+      "start": "2026-10-02T21:30:00+00:00",
+      "description": "Venue: Double Dealer at the Orpheum Theater | Date: Friday, October 2 | Time: 9:30pm"
+    },
+    {
+      "id": "763ef5634afd9ea78afafa4604bcfa1c88603683",
+      "source": "wwoz",
+      "title": "Trixie Minx's Burlesque Ballroom ft. Romy Kaye & the Mercy Buckets",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1377466",
+      "date_text": "Friday, October 2",
+      "time_text": "9:30pm",
+      "start": "2026-10-02T21:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Friday, October 2 | Time: 9:30pm"
+    },
+    {
+      "id": "233981c00432893ee35803153030c8f3d27f9330",
+      "source": "wwoz",
+      "title": "Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque Pop Up by Trixie Minx",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1392681",
+      "date_text": "Friday, October 2",
+      "time_text": "9:30pm",
+      "start": "2026-10-02T21:30:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Friday, October 2 | Time: 9:30pm"
+    },
+    {
+      "id": "8c5b293f4c71cd0bb45c229258caa98913d4c01d",
+      "source": "wwoz",
+      "title": "Super Session: Wil Blades, Donald Harrison & Mike Clark",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1374081",
+      "date_text": "Friday, October 2",
+      "time_text": "9:30pm",
+      "start": "2026-10-02T21:30:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Friday, October 2 | Time: 9:30pm"
+    },
+    {
       "id": "nola-show-58154",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2171,6 +2024,102 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T21:30:00-05:00",
       "description": "Venue: The Library | Starts: 2026-10-02T21:30:00-05:00"
+    },
+    {
+      "id": "745263227f78580f9e63f01ecfe3f47c4b562296",
+      "source": "wwoz",
+      "title": "Solid Harmony ft. Peter Harris, Yolanda Robinson, Joe Ashlar & More!",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1394171",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "fc84497ec5316f5a630f8106a8d56a4f4886c54c",
+      "source": "wwoz",
+      "title": "Kermit Ruffins & Friends: An All-Star Show ft. Kirk Joseph, Corey Henry, David Torkanosky & Jerry Barbarin-Anderson",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1388871",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Blue Nile | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "ae1ce3deb4698b71c7078377cb07e05605889608",
+      "source": "wwoz",
+      "title": "DJ FTK",
+      "venue": "Blue Nile - Balcony Room",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
+      "event_url": "https://www.wwoz.org/events/1394816",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "363526673d9d4ff0fecd96c297210ec5adeca299",
+      "source": "wwoz",
+      "title": "Higher Heights",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1397596",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "b78b347aa63c709ac84ba1f1e6570ed5ff2b9369",
+      "source": "wwoz",
+      "title": "Jason Neville Funky Soul All-Star Band",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1377846",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: d.b.a. | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "9807f8c03c5369fda02c10ec8dcd27bd3cd0d415",
+      "source": "wwoz",
+      "title": "Sweat Etiquette with P.U.D.G.E. & RQ AWAY",
+      "venue": "Rabbit Hole, The",
+      "venue_url": "https://www.wwoz.org/organizations/rabbit-hole",
+      "event_url": "https://www.wwoz.org/events/1377441",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Rabbit Hole, The | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "f34724000cb89b02c6fce89248aa8d0f6d84dc48",
+      "source": "wwoz",
+      "title": "Resurrection Goth Night with DJs Mange, EveHill & Kacey Chaos",
+      "venue": "Santos Bar",
+      "venue_url": "https://www.wwoz.org/organizations/santos-bar",
+      "event_url": "https://www.wwoz.org/events/1374106",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Santos Bar | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
+      "id": "17ced724096f32c4e40a161bc8dc5931b4191d18",
+      "source": "wwoz",
+      "title": "Una Noche de M\u00fasica Latina con La Tran-K",
+      "venue": "Saturn Bar",
+      "venue_url": "https://www.wwoz.org/organizations/saturn-bar",
+      "event_url": "https://www.wwoz.org/events/1374021",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Saturn Bar | Date: Friday, October 2 | Time: 10:00pm"
     },
     {
       "id": "nola-show-56313",
@@ -2225,6 +2174,54 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T22:30:00-05:00",
       "description": "Venue: Chickie Wah Wah | Starts: 2026-10-02T22:30:00-05:00"
+    },
+    {
+      "id": "3e9818b08861f16e09e64f5df5b463ae5aa3efd4",
+      "source": "wwoz",
+      "title": "Le Vampyre Cabaret presents: Vamp Lounge",
+      "venue": "AllWays Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1390496",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00pm",
+      "start": "2026-10-02T23:00:00+00:00",
+      "description": "Venue: AllWays Lounge | Date: Friday, October 2 | Time: 11:00pm"
+    },
+    {
+      "id": "af81d4c5f5e74bcd1dd608aa3812098bf416851c",
+      "source": "wwoz",
+      "title": "Tri-Fi",
+      "venue": "Le Bon Temps Roul\u00e9",
+      "venue_url": "https://www.wwoz.org/organizations/le-bon-temps-roule",
+      "event_url": "https://www.wwoz.org/events/1377381",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00pm",
+      "start": "2026-10-02T23:00:00+00:00",
+      "description": "Venue: Le Bon Temps Roul\u00e9 | Date: Friday, October 2 | Time: 11:00pm"
+    },
+    {
+      "id": "e5efbfd035db6352be6fef5910eb04ee61269929",
+      "source": "wwoz",
+      "title": "Spookylicious: Big Ace + Geno + Tokidokihoe",
+      "venue": "Poor Boys",
+      "venue_url": "https://www.wwoz.org/organizations/poor-boys",
+      "event_url": "https://www.wwoz.org/events/1393491",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00pm",
+      "start": "2026-10-02T23:00:00+00:00",
+      "description": "Venue: Poor Boys | Date: Friday, October 2 | Time: 11:00pm"
+    },
+    {
+      "id": "ca625cbd73b5c38fb290a6cf40f305f63401d6f0",
+      "source": "wwoz",
+      "title": "Free Swim with S.K.B. & YRSTRLY",
+      "venue": "Saint, The",
+      "venue_url": "https://www.wwoz.org/organizations/saint",
+      "event_url": "https://www.wwoz.org/events/1374141",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00pm",
+      "start": "2026-10-02T23:00:00+00:00",
+      "description": "Venue: Saint, The | Date: Friday, October 2 | Time: 11:00pm"
     },
     {
       "id": "nola-show-55725",
@@ -2357,6 +2354,15 @@
       "description": "Venue: Cafe Negril | Starts: 2026-10-03T14:00:00-05:00"
     },
     {
+      "id": "nola-show-58384",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T14:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-03T14:00:00-05:00"
+    },
+    {
       "id": "nola-show-56818",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2402,6 +2408,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-03T15:00:00-05:00"
     },
     {
+      "id": "nola-show-58337",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-03T16:00:00-05:00"
+    },
+    {
       "id": "nola-show-57526",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2409,6 +2424,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T16:30:00-05:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-03T16:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58321",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T17:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-03T17:00:00-05:00"
     },
     {
       "id": "nola-show-56089",
@@ -2512,6 +2536,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T19:00:00-05:00",
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-10-03T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58324",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Three Muses",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T19:30:00-05:00",
+      "description": "Venue: Three Muses | Starts: 2026-10-03T19:30:00-05:00"
     },
     {
       "id": "nola-show-56643",
@@ -2620,15 +2653,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T20:00:00.625000-05:00",
       "description": "Venue: Bayou Bar | Starts: 2026-10-03T20:00:00.625000-05:00"
-    },
-    {
-      "id": "nola-show-57195",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-03T20:00:00.917000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-03T20:00:00.917000-05:00"
     },
     {
       "id": "nola-show-53418",
@@ -2757,15 +2781,6 @@
       "description": "Venue: Arora | Starts: 2026-10-03T22:00:00-05:00"
     },
     {
-      "id": "nola-show-52001",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Ohm Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-03T22:00:00-05:00",
-      "description": "Venue: Ohm Lounge | Starts: 2026-10-03T22:00:00-05:00"
-    },
-    {
       "id": "nola-show-56586",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2809,6 +2824,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-03T23:00:00-05:00",
       "description": "Venue: The Saint | Starts: 2026-10-03T23:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58435",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Ohm Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-03T23:00:00-05:00",
+      "description": "Venue: Ohm Lounge | Starts: 2026-10-03T23:00:00-05:00"
     },
     {
       "id": "offbeat-event-4906057",
@@ -2959,6 +2983,15 @@
       "description": "Venue: 30/90 | Starts: 2026-10-04T15:00:00.979000-05:00"
     },
     {
+      "id": "nola-show-58339",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-04T16:00:00-05:00"
+    },
+    {
       "id": "nola-show-57492",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3047,6 +3080,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-04T19:00:00-05:00",
       "description": "Venue: New Marigny Theatre | Starts: 2026-10-04T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58386",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T19:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-04T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58323",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Three Muses",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-04T19:30:00-05:00",
+      "description": "Venue: Three Muses | Starts: 2026-10-04T19:30:00-05:00"
     },
     {
       "id": "nola-show-55603",
@@ -3408,6 +3459,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-05T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58342",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-05T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-05T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-55948",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3462,7 +3522,7 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-06T17:00:00-05:00"
     },
     {
-      "id": "nola-show-57594",
+      "id": "nola-show-57593",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -3593,6 +3653,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-06T20:00:00-05:00",
       "description": "Venue: Maison | Starts: 2026-10-06T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58343",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-06T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-06T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58387",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-06T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-06T20:00:00-05:00"
     },
     {
       "id": "nola-show-57783",
@@ -3881,6 +3959,15 @@
       "description": "Venue: Twelve Mile Limit | Starts: 2026-10-07T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58388",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-07T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-07T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57781",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4012,6 +4099,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-08T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-08T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58389",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T17:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-08T17:30:00-05:00"
     },
     {
       "id": "nola-show-57655",
@@ -4244,6 +4340,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-08T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58344",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-08T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-08T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57779",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4307,13 +4412,13 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-08T21:00:00-05:00"
     },
     {
-      "id": "nola-show-57901",
+      "id": "nola-show-58292",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "venue": "Twelve Mile Limit",
       "event_url": "https://nola.show/",
       "start": "2026-10-08T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-08T21:00:00-05:00"
+      "description": "Venue: Twelve Mile Limit | Starts: 2026-10-08T21:00:00-05:00"
     },
     {
       "id": "nola-show-58190",
@@ -4410,6 +4515,15 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-09T09:00:00.891000-05:00"
     },
     {
+      "id": "nola-show-58391",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T12:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-09T12:30:00-05:00"
+    },
+    {
       "id": "nola-show-56847",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4453,6 +4567,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T15:30:00-05:00",
       "description": "Venue: UNO Lakefront Festival Grounds | Starts: 2026-10-09T15:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58345",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-09T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58318",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T17:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-09T17:00:00-05:00"
     },
     {
       "id": "nola-show-56952",
@@ -4617,15 +4749,6 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-09T20:00:00.364000-05:00"
     },
     {
-      "id": "nola-show-56618",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-09T20:00:00.438000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-09T20:00:00.438000-05:00"
-    },
-    {
       "id": "nola-show-57085",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4651,6 +4774,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-09T20:30:00-05:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-10-09T20:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58332",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Chickie Wah Wah",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-09T21:00:00-05:00",
+      "description": "Venue: Chickie Wah Wah | Starts: 2026-10-09T21:00:00-05:00"
     },
     {
       "id": "nola-show-50376",
@@ -4716,15 +4848,6 @@
       "description": "Venue: Double Dealer | Starts: 2026-10-09T21:00:00-05:00"
     },
     {
-      "id": "nola-show-56249",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Chickie Wah Wah",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-09T21:30:00-05:00",
-      "description": "Venue: Chickie Wah Wah | Starts: 2026-10-09T21:30:00-05:00"
-    },
-    {
       "id": "nola-show-57442",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4734,7 +4857,7 @@
       "description": "Venue: Saturn Bar | Starts: 2026-10-09T22:00:00-05:00"
     },
     {
-      "id": "nola-show-56683",
+      "id": "nola-show-55538",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -4928,6 +5051,15 @@
       "description": "Venue: Cafe Negril | Starts: 2026-10-10T14:00:00-05:00"
     },
     {
+      "id": "nola-show-58394",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T14:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-10T14:00:00-05:00"
+    },
+    {
       "id": "nola-show-56956",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4955,6 +5087,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-10T15:00:00-05:00"
     },
     {
+      "id": "nola-show-58347",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-10T16:00:00-05:00"
+    },
+    {
       "id": "nola-show-57537",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4971,6 +5112,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-10T17:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-10T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58316",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T17:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-10T17:00:00-05:00"
     },
     {
       "id": "nola-show-56090",
@@ -5218,6 +5368,15 @@
       "pubDate": "Tue, 22 Sep 2026 09:51:58 -0400"
     },
     {
+      "id": "nola-show-58333",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Chickie Wah Wah",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T21:00:00-05:00",
+      "description": "Venue: Chickie Wah Wah | Starts: 2026-10-10T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-52643",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5333,15 +5492,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-10T22:00:00-05:00",
       "description": "Venue: Favela Chic | Starts: 2026-10-10T22:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56823",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Chickie Wah Wah",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-10T22:30:00-05:00",
-      "description": "Venue: Chickie Wah Wah | Starts: 2026-10-10T22:30:00-05:00"
     },
     {
       "id": "nola-show-57068",
@@ -5465,6 +5615,15 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-11T15:00:00-05:00"
     },
     {
+      "id": "nola-show-58313",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-11T15:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-11T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-57955",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5481,6 +5640,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-11T16:00:00-05:00",
       "description": "Venue: Tuff Break Losers' Lounge | Starts: 2026-10-11T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58349",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-11T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-11T16:00:00-05:00"
     },
     {
       "id": "nola-show-49615",
@@ -5537,15 +5705,6 @@
       "description": "Venue: Apple Barrel | Starts: 2026-10-11T18:00:00-05:00"
     },
     {
-      "id": "nola-show-56616",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-11T18:00:00.984000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-11T18:00:00.984000-05:00"
-    },
-    {
       "id": "nola-show-57658",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5571,6 +5730,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-11T19:00:00-05:00",
       "description": "Venue: Buffa's | Starts: 2026-10-11T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58396",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-11T19:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-11T19:00:00-05:00"
     },
     {
       "id": "nola-show-57213",
@@ -5904,6 +6072,15 @@
       "description": "Venue: Nola 'Nacular | Starts: 2026-10-12T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58351",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-12T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-12T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57266",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6082,6 +6259,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-13T20:00:00-05:00",
       "description": "Venue: Maison | Starts: 2026-10-13T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58352",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-13T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58397",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-13T20:00:00-05:00"
     },
     {
       "id": "nola-show-57773",
@@ -6327,6 +6522,15 @@
       "description": "Venue: Saturn Bar | Starts: 2026-10-14T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58398",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-14T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-14T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57771",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6473,6 +6677,15 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-15T17:00:00-05:00"
     },
     {
+      "id": "nola-show-58399",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T17:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-15T17:30:00-05:00"
+    },
+    {
       "id": "nola-show-57659",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6480,6 +6693,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-15T18:00:00-05:00",
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-15T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58311",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T18:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-15T18:00:00-05:00"
     },
     {
       "id": "nola-show-57611",
@@ -6642,6 +6864,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-15T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58353",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-15T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57769",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6649,6 +6880,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-15T20:00:00.529000-05:00",
       "description": "Venue: Bayou Bar | Starts: 2026-10-15T20:00:00.529000-05:00"
+    },
+    {
+      "id": "nola-show-58431",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Maison",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-15T20:30:00-05:00",
+      "description": "Venue: Maison | Starts: 2026-10-15T20:30:00-05:00"
     },
     {
       "id": "nola-show-57640",
@@ -6711,15 +6951,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-15T21:00:00-05:00",
       "description": "Venue: Blue Nile | Starts: 2026-10-15T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57903",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-15T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-15T21:00:00-05:00"
     },
     {
       "id": "nola-show-58193",
@@ -6789,6 +7020,15 @@
       "description": "Venue: Goldring Woldenberg Riverfront Park | Starts: 2026-10-16T12:00:00-05:00"
     },
     {
+      "id": "nola-show-58401",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T12:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-16T12:30:00-05:00"
+    },
+    {
       "id": "nola-show-56848",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6796,6 +7036,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-16T13:00:00-05:00",
       "description": "Venue: Bacchanal | Starts: 2026-10-16T13:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58309",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-16T14:00:00-05:00"
     },
     {
       "id": "nola-show-54788",
@@ -6823,6 +7072,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-16T15:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-16T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58354",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-16T16:00:00-05:00"
     },
     {
       "id": "nola-show-48227",
@@ -6924,6 +7182,15 @@
       "description": "Venue: Buffa's | Starts: 2026-10-16T19:00:00-05:00"
     },
     {
+      "id": "nola-show-58432",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "NOLA Brewing",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T19:00:00-05:00",
+      "description": "Venue: NOLA Brewing | Starts: 2026-10-16T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-57568",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6994,15 +7261,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-16T20:00:00-05:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-16T20:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56608",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-16T20:00:00.792000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-16T20:00:00.792000-05:00"
     },
     {
       "id": "nola-show-57767",
@@ -7293,6 +7551,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-10-17T13:00:00-05:00"
     },
     {
+      "id": "nola-show-58307",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-17T14:00:00-05:00"
+    },
+    {
       "id": "nola-show-54500",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7309,6 +7576,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T14:00:00-05:00",
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-17T14:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58404",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T14:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-17T14:00:00-05:00"
     },
     {
       "id": "nola-show-56987",
@@ -7363,15 +7639,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T17:00:00-05:00",
       "description": "Venue: Gretna Fest Grounds | Starts: 2026-10-17T17:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56607",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-17T17:00:00.449000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-17T17:00:00.449000-05:00"
     },
     {
       "id": "nola-show-55806",
@@ -7514,6 +7781,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-17T20:00:00-05:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-17T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58356",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-17T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-17T20:00:00-05:00"
     },
     {
       "id": "nola-show-57765",
@@ -7776,6 +8052,15 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-10-18T15:00:00-05:00"
     },
     {
+      "id": "nola-show-58306",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T15:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-18T15:00:00-05:00"
+    },
+    {
       "id": "nola-show-57965",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7792,6 +8077,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T16:00:00-05:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-18T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58357",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-18T16:00:00-05:00"
     },
     {
       "id": "nola-show-57114",
@@ -7837,6 +8131,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T19:00:00-05:00",
       "description": "Venue: Buffa's | Starts: 2026-10-18T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58406",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T19:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-18T19:00:00-05:00"
     },
     {
       "id": "nola-show-57216",
@@ -7893,6 +8196,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-18T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58425",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Holy Diver",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T21:00:00-05:00",
+      "description": "Venue: Holy Diver | Starts: 2026-10-18T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-47067",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7900,15 +8212,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T21:00:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-10-18T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-56566",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-18T21:00:00.252000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-18T21:00:00.252000-05:00"
     },
     {
       "id": "offbeat-event-4909147",
@@ -8108,6 +8411,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-10-19T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58359",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-19T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-19T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57269",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8261,6 +8573,24 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-10-20T19:30:00-05:00"
     },
     {
+      "id": "nola-show-58360",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-20T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-20T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58407",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-20T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-20T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57763",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8365,6 +8695,15 @@
       "pubDate": "Mon, 11 May 2026 15:37:21 -0600"
     },
     {
+      "id": "nola-show-58304",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-21T18:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-21T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-58044",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8462,6 +8801,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-21T20:00:00-05:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-10-21T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58361",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-21T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-21T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58408",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-21T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-21T20:00:00-05:00"
     },
     {
       "id": "nola-show-57761",
@@ -8601,6 +8958,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-22T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-22T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58409",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T17:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-22T17:30:00-05:00"
     },
     {
       "id": "nola-show-57802",
@@ -8797,6 +9163,15 @@
       "description": "Venue: Southport Hall | Starts: 2026-10-22T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58362",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-22T20:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4906001",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -8873,15 +9248,6 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-22T21:00:00-05:00"
     },
     {
-      "id": "nola-show-57904",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-22T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-22T21:00:00-05:00"
-    },
-    {
       "id": "nola-show-56480",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8900,6 +9266,15 @@
       "description": "Venue: Vaughan's Lounge | Starts: 2026-10-22T22:30:00-05:00"
     },
     {
+      "id": "nola-show-58411",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T12:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-23T12:30:00-05:00"
+    },
+    {
       "id": "nola-show-56849",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8907,6 +9282,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T13:00:00-05:00",
       "description": "Venue: Bacchanal | Starts: 2026-10-23T13:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58301",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-23T14:00:00-05:00"
     },
     {
       "id": "nola-show-54802",
@@ -8934,6 +9318,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T15:00:00-05:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-23T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58363",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-23T16:00:00-05:00"
     },
     {
       "id": "nola-show-57014",
@@ -9322,15 +9715,6 @@
       "pubDate": "Thu, 13 Aug 2026 13:28:05 -0400"
     },
     {
-      "id": "nola-show-56603",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-23T23:00:00.370000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-23T23:00:00.370000-05:00"
-    },
-    {
       "id": "nola-show-56865",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9367,6 +9751,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-10-24T13:00:00-05:00"
     },
     {
+      "id": "nola-show-58298",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-24T14:00:00-05:00"
+    },
+    {
       "id": "nola-show-57685",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9374,6 +9767,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T14:00:00-05:00",
       "description": "Venue: Cafe Negril | Starts: 2026-10-24T14:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58414",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T14:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-24T14:00:00-05:00"
     },
     {
       "id": "nola-show-57018",
@@ -9401,6 +9803,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T15:00:00-05:00",
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-24T15:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58365",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-24T16:00:00-05:00"
     },
     {
       "id": "nola-show-57521",
@@ -9572,15 +9983,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-24T20:00:00.847000-05:00",
       "description": "Venue: Cafe Istanbul | Starts: 2026-10-24T20:00:00.847000-05:00"
-    },
-    {
-      "id": "nola-show-56602",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-24T20:00:00.917000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-24T20:00:00.917000-05:00"
     },
     {
       "id": "nola-show-58116",
@@ -9861,6 +10263,15 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-10-25T15:00:00-05:00"
     },
     {
+      "id": "nola-show-58368",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-25T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-25T16:00:00-05:00"
+    },
+    {
       "id": "nola-show-56147",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9913,6 +10324,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-25T19:00:00-05:00",
       "description": "Venue: Buffa's | Starts: 2026-10-25T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58416",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-25T19:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-25T19:00:00-05:00"
     },
     {
       "id": "nola-show-57219",
@@ -10094,6 +10514,15 @@
       "description": "Venue: The Columns | Starts: 2026-10-26T18:30:00-05:00"
     },
     {
+      "id": "nola-show-58429",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Maple Leaf Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T19:00:00-05:00",
+      "description": "Venue: Maple Leaf Bar | Starts: 2026-10-26T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-57554",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10128,6 +10557,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-26T20:00:00-05:00",
       "description": "Venue: Santos Bar | Starts: 2026-10-26T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58370",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-26T20:00:00-05:00"
     },
     {
       "id": "nola-show-57272",
@@ -10299,6 +10737,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-27T20:00:00-05:00",
       "description": "Venue: Banks St Bar | Starts: 2026-10-27T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58371",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-27T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-27T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58417",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-27T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-27T20:00:00-05:00"
     },
     {
       "id": "nola-show-57755",
@@ -10526,6 +10982,24 @@
       "description": "Venue: Broadside | Starts: 2026-10-28T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58372",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-28T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-28T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58418",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-28T20:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-28T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57753",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10627,6 +11101,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-29T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-29T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58419",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T17:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-29T17:30:00-05:00"
     },
     {
       "id": "nola-show-58248",
@@ -10830,6 +11313,15 @@
       "description": "Venue: Good Measure @ The Barnett | Starts: 2026-10-29T20:00:00-05:00"
     },
     {
+      "id": "nola-show-58373",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-29T20:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-29T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-57415",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10873,15 +11365,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-29T21:00:00-05:00",
       "description": "Venue: Blue Nile | Starts: 2026-10-29T21:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57906",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge (formerly No Dice)",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-29T21:00:00-05:00",
-      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-10-29T21:00:00-05:00"
     },
     {
       "id": "nola-show-58198",
@@ -10951,6 +11434,15 @@
       "description": "Venue: The Crypt | Starts: 2026-10-29T23:00:00-05:00"
     },
     {
+      "id": "nola-show-58421",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T12:30:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-30T12:30:00-05:00"
+    },
+    {
       "id": "nola-show-56854",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10958,6 +11450,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T13:00:00-05:00",
       "description": "Venue: Bacchanal | Starts: 2026-10-30T13:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58295",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-30T14:00:00-05:00"
     },
     {
       "id": "nola-show-55474",
@@ -10994,6 +11495,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T16:00:00-05:00",
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-30T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58374",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-30T16:00:00-05:00"
     },
     {
       "id": "nola-show-54640",
@@ -11203,15 +11713,6 @@
       "description": "Venue: Bayou Bar | Starts: 2026-10-30T20:00:00.863000-05:00"
     },
     {
-      "id": "nola-show-56592",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-30T20:00:00.969000-05:00",
-      "description": "Venue: 30/90 | Starts: 2026-10-30T20:00:00.969000-05:00"
-    },
-    {
       "id": "nola-show-52955",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11418,6 +11919,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-10-31T13:00:00-05:00"
     },
     {
+      "id": "nola-show-58293",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T14:00:00-05:00",
+      "description": "Venue: 30/90 | Starts: 2026-10-31T14:00:00-05:00"
+    },
+    {
       "id": "nola-show-57687",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11470,6 +11980,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T16:00:00-05:00",
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-31T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58376",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T16:00:00-05:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-10-31T16:00:00-05:00"
     },
     {
       "id": "nola-show-57823",
@@ -11535,15 +12054,6 @@
       "description": "Venue: Music Box Village | Starts: 2026-10-31T19:00:00-05:00"
     },
     {
-      "id": "nola-show-57408",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Good Measure @ The Barnett",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-31T19:00:00-05:00",
-      "description": "Venue: Good Measure @ The Barnett | Starts: 2026-10-31T19:00:00-05:00"
-    },
-    {
       "id": "nola-show-57505",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11571,7 +12081,7 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-31T19:30:00-05:00"
     },
     {
-      "id": "nola-show-55156",
+      "id": "nola-show-55157",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "UNO Lakefront Arena",
@@ -11587,6 +12097,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T20:00:00-05:00",
       "description": "Venue: Carrollton Station | Starts: 2026-10-31T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58330",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Good Measure @ The Barnett",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T20:00:00-05:00",
+      "description": "Venue: Good Measure @ The Barnett | Starts: 2026-10-31T20:00:00-05:00"
     },
     {
       "id": "nola-show-58202",
@@ -11708,6 +12227,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T21:00:00-05:00",
       "description": "Venue: Double Dealer | Starts: 2026-10-31T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58424",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T21:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-31T21:00:00-05:00"
     },
     {
       "id": "nola-show-56445",
@@ -12776,15 +13304,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-07T22:00:00-06:00"
     },
     {
-      "id": "nola-show-58219",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Arora",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-07T22:00:00-06:00",
-      "description": "Venue: Arora | Starts: 2026-11-07T22:00:00-06:00"
-    },
-    {
       "id": "nola-show-54562",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12810,6 +13329,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-07T23:00:00-06:00",
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-07T23:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58326",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Arora",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-07T23:00:00-06:00",
+      "description": "Venue: Arora | Starts: 2026-11-07T23:00:00-06:00"
     },
     {
       "id": "nola-show-57499",
@@ -12929,6 +13457,15 @@
       "description": "Venue: Silky Satin Lounge | Starts: 2026-11-08T20:00:00-06:00"
     },
     {
+      "id": "nola-show-58378",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-08T21:00:00-06:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-11-08T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-52046",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12972,6 +13509,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-09T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-09T19:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58331",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Chickie Wah Wah",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-09T20:00:00-06:00",
+      "description": "Venue: Chickie Wah Wah | Starts: 2026-11-09T20:00:00-06:00"
     },
     {
       "id": "nola-show-58014",
@@ -14881,6 +15427,15 @@
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-11-26T19:00:00-06:00"
     },
     {
+      "id": "nola-show-58428",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hi-Ho Lounge (formerly No Dice)",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-26T21:00:00-06:00",
+      "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-26T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-49788",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16589,15 +17144,6 @@
       "description": "Venue: Hide/Seek | Starts: 2026-12-18T22:00:00-06:00"
     },
     {
-      "id": "nola-show-54477",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Mahalia Jackson Theater for the Performing Arts",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-19T18:00:00-06:00",
-      "description": "Venue: Mahalia Jackson Theater for the Performing Arts | Starts: 2026-12-19T18:00:00-06:00"
-    },
-    {
       "id": "nola-show-56141",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16675,15 +17221,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-19T23:00:00-06:00",
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-12-19T23:00:00-06:00"
-    },
-    {
-      "id": "nola-show-54478",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Mahalia Jackson Theater for the Performing Arts",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-20T14:00:00-06:00",
-      "description": "Venue: Mahalia Jackson Theater for the Performing Arts | Starts: 2026-12-20T14:00:00-06:00"
     },
     {
       "id": "nola-show-53236",
@@ -17071,6 +17608,15 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-12-29T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58334",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-30T12:00:00-06:00",
+      "description": "Venue: Bacchanal | Starts: 2026-12-30T12:00:00-06:00"
+    },
+    {
       "id": "offbeat-event-4597919",
       "source": "offbeat",
       "title": "Laughing Jack's Presents: \"Humpday HiJenks\" Comedy Open Mic at One More Pie in the French Quarter where the French Market meets Jackson Square. Hosted By: Jackie Jenkins Jr.",
@@ -17151,7 +17697,7 @@
       "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
-      "id": "nola-show-54088",
+      "id": "nola-show-54087",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -17993,6 +18539,15 @@
       "event_url": "https://nola.show/",
       "start": "2027-03-07T17:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-03-07T17:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58328",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Allways Lounge & Cabaret",
+      "event_url": "https://nola.show/",
+      "start": "2027-03-08T19:00:00-06:00",
+      "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-03-08T19:00:00-06:00"
     },
     {
       "id": "nola-show-56917",
