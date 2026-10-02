@@ -1,11 +1,11 @@
 {
-  "count": 1938,
-  "generated_at": "2026-10-02T13:12:31.509680+00:00",
+  "count": 1947,
+  "generated_at": "2026-10-02T18:24:41.262786+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 100
+      "count": 109
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -631,7 +631,7 @@
     {
       "id": "770c1ac2cb9212753903200c1e9d4207b28e078b",
       "source": "wwoz",
-      "title": "OVJ Collective",
+      "title": "Hispanic Heritage Month Celebration ft. The OVJ Collective",
       "venue": "New Orleans Jazz Museum",
       "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-museum",
       "event_url": "https://www.wwoz.org/events/1373756",
@@ -782,6 +782,18 @@
       "description": "Venue: Banks Street Bar | Date: Friday, October 2 | Time: 4:00pm"
     },
     {
+      "id": "ac8711e9d35b9128a1cbae9f720868ab38a05446",
+      "source": "wwoz",
+      "title": "April Spain",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1399256",
+      "date_text": "Friday, October 2",
+      "time_text": "4:00pm",
+      "start": "2026-10-02T16:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, October 2 | Time: 4:00pm"
+    },
+    {
       "id": "ed1d9cf7ec941978334024b0997635731b80f292",
       "source": "wwoz",
       "title": "Jass Hysteria",
@@ -825,6 +837,18 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T16:00:00-05:00",
       "description": "Venue: Bourbon O Bar | Starts: 2026-10-02T16:00:00-05:00"
+    },
+    {
+      "id": "05c863d1901fa1338ebc89ded15af14bc6e12eab",
+      "source": "wwoz",
+      "title": "Decaturadio",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1399441",
+      "date_text": "Friday, October 2",
+      "time_text": "5:00pm",
+      "start": "2026-10-02T17:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Friday, October 2 | Time: 5:00pm"
     },
     {
       "id": "84814a449f9666cafb0ea8295f62a1e5e91e84ec",
@@ -1146,6 +1170,18 @@
       "description": "Venue: Preservation Hall | Date: Friday, October 2 | Time: 6:15pm"
     },
     {
+      "id": "5905ec5540ffeb35728a90ecc4e3dabb3563a439",
+      "source": "wwoz",
+      "title": "Les Getrex",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1399166",
+      "date_text": "Friday, October 2",
+      "time_text": "6:30pm",
+      "start": "2026-10-02T18:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Friday, October 2 | Time: 6:30pm"
+    },
+    {
       "id": "87702ce2b88cca3682215a1df938bf7e45415751",
       "source": "wwoz",
       "title": "Free Agents Brass Band",
@@ -1206,6 +1242,18 @@
       "description": "Venue: Common House New Orleans | Date: Friday, October 2 | Time: 7:00pm"
     },
     {
+      "id": "3539171967c6360e99229c849383382331474b62",
+      "source": "wwoz",
+      "title": "J.A.M. Brass Band",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1399061",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
       "id": "9ae8d81ea667a23b28893409dc07d49d5b9b0c8d",
       "source": "wwoz",
       "title": "Delfeayo Marsalis Quintet",
@@ -1228,6 +1276,18 @@
       "time_text": "7:00pm",
       "start": "2026-10-02T19:00:00+00:00",
       "description": "Venue: New Marigny Theatre | Date: Friday, October 2 | Time: 7:00pm"
+    },
+    {
+      "id": "c20ef659978d326ed083a0b840382f13b73c7b99",
+      "source": "wwoz",
+      "title": "Johnny Sansone & John Fohl",
+      "venue": "NOLA Brewing",
+      "venue_url": "https://www.wwoz.org/organizations/nola-brewing",
+      "event_url": "https://www.wwoz.org/events/1399031",
+      "date_text": "Friday, October 2",
+      "time_text": "7:00pm",
+      "start": "2026-10-02T19:00:00+00:00",
+      "description": "Venue: NOLA Brewing | Date: Friday, October 2 | Time: 7:00pm"
     },
     {
       "id": "5384c9cac352a91e9f6d6fc23b53a4404f975d1a",
@@ -1392,6 +1452,18 @@
       "description": "Venue: 21st Amendment | Date: Friday, October 2 | Time: 8:00pm"
     },
     {
+      "id": "16fe4f828fdbefd486112ac522ad585d95721d07",
+      "source": "wwoz",
+      "title": "Kayla Jasmine",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1399451",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
       "id": "abb1b7788736c0d58c55a6dc150e1d05268a85ce",
       "source": "wwoz",
       "title": "Bayou Blues Burlesque ft. The Delta Revues",
@@ -1414,6 +1486,18 @@
       "time_text": "8:00pm",
       "start": "2026-10-02T20:00:00+00:00",
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, October 2 | Time: 8:00pm"
+    },
+    {
+      "id": "32c1849ea5f8fdfcd63ec59735569cf96cb9313f",
+      "source": "wwoz",
+      "title": "Kid Merv",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1399231",
+      "date_text": "Friday, October 2",
+      "time_text": "8:00pm",
+      "start": "2026-10-02T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, October 2 | Time: 8:00pm"
     },
     {
       "id": "8d24d9eaaa2d78ff4ea0a1326d5d98eaf0e993ae",
@@ -2086,6 +2170,18 @@
       "description": "Venue: d.b.a. | Date: Friday, October 2 | Time: 10:00pm"
     },
     {
+      "id": "9f7d7d00588529ca25f0b2b0da68d5b236014f33",
+      "source": "wwoz",
+      "title": "Shorty & the Giants",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1399076",
+      "date_text": "Friday, October 2",
+      "time_text": "10:00pm",
+      "start": "2026-10-02T22:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Friday, October 2 | Time: 10:00pm"
+    },
+    {
       "id": "9807f8c03c5369fda02c10ec8dcd27bd3cd0d415",
       "source": "wwoz",
       "title": "Sweat Etiquette with P.U.D.G.E. & RQ AWAY",
@@ -2174,6 +2270,18 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-02T22:30:00-05:00",
       "description": "Venue: Chickie Wah Wah | Starts: 2026-10-02T22:30:00-05:00"
+    },
+    {
+      "id": "8d0662db07762b4c9707081100ab61ef29b81637",
+      "source": "wwoz",
+      "title": "T. Cherrelle & Lou's Bayou",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1399466",
+      "date_text": "Friday, October 2",
+      "time_text": "11:00pm",
+      "start": "2026-10-02T23:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Friday, October 2 | Time: 11:00pm"
     },
     {
       "id": "3e9818b08861f16e09e64f5df5b463ae5aa3efd4",
