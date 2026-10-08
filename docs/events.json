@@ -1,6 +1,6 @@
 {
-  "count": 1977,
-  "generated_at": "2026-10-08T19:00:55.027920+00:00",
+  "count": 1991,
+  "generated_at": "2026-10-08T19:16:34.257736+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,28 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1810
+      "count": 1824
     }
   ],
   "events": [
-    {
-      "id": "nola-show-54770",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-07T14:00:00-05:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-07T14:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57438",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz Museum",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-07T14:00:00.703000-05:00",
-      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-07T14:00:00.703000-05:00"
-    },
     {
       "id": "nola-show-57516",
       "source": "nola_show",
@@ -81,6 +63,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-07T18:00:00-05:00",
       "description": "Venue: d.b.a. | Starts: 2026-10-07T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-57128",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Spotted Cat Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-07T18:00:00-05:00",
+      "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-07T18:00:00-05:00"
     },
     {
       "id": "nola-show-57483",
@@ -3001,6 +2992,15 @@
       "description": "Venue: Bud Rips | Starts: 2026-10-10T22:00:00-05:00"
     },
     {
+      "id": "nola-show-58979",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Saint",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-10T22:00:00-05:00",
+      "description": "Venue: The Saint | Starts: 2026-10-10T22:00:00-05:00"
+    },
+    {
       "id": "nola-show-52509",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3813,7 +3813,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-13T18:00:00-05:00"
     },
     {
-      "id": "nola-show-57608",
+      "id": "nola-show-57607",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -4045,6 +4045,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-13T21:30:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-10-13T21:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58967",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T22:00:00-05:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-10-13T22:00:00-05:00"
     },
     {
       "id": "nola-show-56769",
@@ -6584,7 +6593,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-20T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58230",
+      "id": "nola-show-58231",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -6771,6 +6780,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-20T21:30:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-10-20T21:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58968",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-20T22:00:00-05:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-10-20T22:00:00-05:00"
     },
     {
       "id": "nola-show-53239",
@@ -7525,6 +7543,15 @@
       "description": "Venue: The Crypt | Starts: 2026-10-22T21:00:00-05:00"
     },
     {
+      "id": "nola-show-58980",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Domino",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-22T21:00:00-05:00",
+      "description": "Venue: The Domino | Starts: 2026-10-22T21:00:00-05:00"
+    },
+    {
       "id": "offbeat-event-4906001",
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
@@ -7999,6 +8026,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T22:00:00-05:00",
       "description": "Venue: Ohm Lounge | Starts: 2026-10-23T22:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58966",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Jimmy's Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T22:00:00-05:00",
+      "description": "Venue: Jimmy's Music Club | Starts: 2026-10-23T22:00:00-05:00"
     },
     {
       "id": "nola-show-53298",
@@ -9119,7 +9155,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-27T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58245",
+      "id": "nola-show-58244",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -9342,6 +9378,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-27T21:30:00-05:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-10-27T21:30:00-05:00"
+    },
+    {
+      "id": "nola-show-58969",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-27T22:00:00-05:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-10-27T22:00:00-05:00"
     },
     {
       "id": "nola-show-58711",
@@ -11513,6 +11558,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-03T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58970",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-03T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-11-03T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-54418",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12831,6 +12885,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-11-10T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58971",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-10T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-11-10T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-54823",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -13696,7 +13759,7 @@
       "description": "Venue: Santos Bar | Starts: 2026-11-16T20:00:00-06:00"
     },
     {
-      "id": "nola-show-54058",
+      "id": "nola-show-56493",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Poor Boys",
@@ -13838,6 +13901,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-17T21:00:00-06:00",
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-17T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58972",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-17T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-11-17T22:00:00-06:00"
     },
     {
       "id": "nola-show-55319",
@@ -14803,6 +14875,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-11-24T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58973",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-24T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-11-24T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-55787",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -15507,6 +15588,15 @@
       "description": "Venue: Hi-Ho Lounge (formerly No Dice) | Starts: 2026-12-01T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58974",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-01T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-12-01T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-56348",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16187,6 +16277,15 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-12-08T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58975",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-08T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-12-08T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-56734",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16676,6 +16775,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-15T21:00:00-06:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-12-15T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58976",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-15T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-12-15T22:00:00-06:00"
     },
     {
       "id": "nola-show-57081",
@@ -17191,6 +17299,15 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-12-22T21:00:00-06:00"
     },
     {
+      "id": "nola-show-58977",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-22T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-12-22T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-57618",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -17493,6 +17610,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-29T21:00:00-06:00",
       "description": "Venue: The Rabbit Hole | Starts: 2026-12-29T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58978",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Vaughan's Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-29T22:00:00-06:00",
+      "description": "Venue: Vaughan's Lounge | Starts: 2026-12-29T22:00:00-06:00"
     },
     {
       "id": "nola-show-58334",
