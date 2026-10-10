@@ -1,11 +1,11 @@
 {
-  "count": 1984,
-  "generated_at": "2026-10-10T13:04:20.172092+00:00",
+  "count": 1987,
+  "generated_at": "2026-10-10T17:51:33.038058+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 106
+      "count": 109
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -576,6 +576,18 @@
       "time_text": "11:00am",
       "start": "2026-10-10T11:00:00+00:00",
       "description": "Venue: Lafayette Square (OUTDOORS) | Date: Saturday, October 10 | Time: 11:00am"
+    },
+    {
+      "id": "92ced952542142640f2b7369f9df517a891fb342",
+      "source": "wwoz",
+      "title": "Festival of the Lake ft. Marc Broussard + Supercharger + Christian Serpas & Steve Blaze",
+      "venue": "Our Lady of the Lake Church - Mandeville",
+      "venue_url": "https://www.wwoz.org/organizations/our-lady-lake-church-mandeville",
+      "event_url": "https://www.wwoz.org/events/1401591",
+      "date_text": "Saturday, October 10",
+      "time_text": "11:00am",
+      "start": "2026-10-10T11:00:00+00:00",
+      "description": "Venue: Our Lady of the Lake Church - Mandeville | Date: Saturday, October 10 | Time: 11:00am"
     },
     {
       "id": "d40a3ee45204105050b70101ef954d49c2f1a1e3",
@@ -1334,6 +1346,18 @@
       "description": "Venue: House of Blues Voodoo Garden | Starts: 2026-10-10T18:30:00-05:00"
     },
     {
+      "id": "efa8ec39ce28617abc3450326b2558caa7cbe8ff",
+      "source": "wwoz",
+      "title": "The Crossroads Cabaret ft. Johanna Rose",
+      "venue": "AllWays Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1401621",
+      "date_text": "Saturday, October 10",
+      "time_text": "7:00pm",
+      "start": "2026-10-10T19:00:00+00:00",
+      "description": "Venue: AllWays Lounge | Date: Saturday, October 10 | Time: 7:00pm"
+    },
+    {
       "id": "36fcecc65c38efa30364c00981ce127e41e13852",
       "source": "wwoz",
       "title": "Bayou Manouche",
@@ -1614,6 +1638,18 @@
       "time_text": "7:30pm",
       "start": "2026-10-10T19:30:00+00:00",
       "description": "Venue: Snug Harbor | Date: Saturday, October 10 | Time: 7:30pm"
+    },
+    {
+      "id": "6f8c2193c6a1f1a940ada0111acca403d23f0820",
+      "source": "wwoz",
+      "title": "Rosalynn DeRoos",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1401656",
+      "date_text": "Saturday, October 10",
+      "time_text": "7:30pm",
+      "start": "2026-10-10T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Saturday, October 10 | Time: 7:30pm"
     },
     {
       "id": "nola-show-57173",
