@@ -1,6 +1,6 @@
 {
-  "count": 1819,
-  "generated_at": "2026-10-14T18:00:43.165829+00:00",
+  "count": 1820,
+  "generated_at": "2026-10-14T19:19:48.390195+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,28 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1684
+      "count": 1685
     }
   ],
   "events": [
-    {
-      "id": "nola-show-56770",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz Museum",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-13T09:00:00.891000-05:00",
-      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-13T09:00:00.891000-05:00"
-    },
-    {
-      "id": "nola-show-52660",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-13T12:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-10-13T12:00:00-05:00"
-    },
     {
       "id": "nola-show-54782",
       "source": "nola_show",
@@ -54,6 +36,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-13T17:00:00-05:00",
       "description": "Venue: Preservation Hall | Starts: 2026-10-13T17:00:00-05:00"
+    },
+    {
+      "id": "nola-show-53251",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "New Orleans Jazz Museum",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T17:00:00.318000-05:00",
+      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-13T17:00:00.318000-05:00"
+    },
+    {
+      "id": "nola-show-56825",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-13T18:00:00-05:00",
+      "description": "Venue: Bacchanal | Starts: 2026-10-13T18:00:00-05:00"
     },
     {
       "id": "nola-show-58442",
@@ -2125,6 +2125,15 @@
       "description": "Venue: The Tigermen Den | Starts: 2026-10-16T19:00:00-05:00"
     },
     {
+      "id": "nola-show-59286",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "BMac's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T19:00:00-05:00",
+      "description": "Venue: BMac's | Starts: 2026-10-16T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-58618",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3975,7 +3984,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-21T18:00:00-05:00"
     },
     {
-      "id": "nola-show-59084",
+      "id": "nola-show-58044",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Broadside",
@@ -6460,7 +6469,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-27T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58244",
+      "id": "nola-show-58245",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -10952,7 +10961,7 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-14T14:30:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -15627,7 +15636,7 @@
       "pubDate": "Thu, 03 Sep 2026 16:36:54 -0500"
     },
     {
-      "id": "nola-show-54087",
+      "id": "nola-show-54088",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
