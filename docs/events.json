@@ -1,6 +1,6 @@
 {
-  "count": 1834,
-  "generated_at": "2026-10-15T17:45:52.612990+00:00",
+  "count": 1829,
+  "generated_at": "2026-10-15T19:05:20.632795+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,28 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1677
+      "count": 1672
     }
   ],
   "events": [
-    {
-      "id": "nola-show-56769",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz Museum",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-14T09:00:00.891000-05:00",
-      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-14T09:00:00.891000-05:00"
-    },
-    {
-      "id": "nola-show-52846",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-14T12:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-10-14T12:00:00-05:00"
-    },
     {
       "id": "nola-show-54785",
       "source": "nola_show",
@@ -92,6 +74,15 @@
       "description": "Venue: House of Blues | Starts: 2026-10-14T18:00:00-05:00"
     },
     {
+      "id": "nola-show-56851",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-14T18:00:00-05:00",
+      "description": "Venue: Bacchanal | Starts: 2026-10-14T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-58727",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -135,6 +126,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-14T18:00:00.920000-05:00",
       "description": "Venue: 30/90 | Starts: 2026-10-14T18:00:00.920000-05:00"
+    },
+    {
+      "id": "nola-show-56768",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "New Orleans Jazz Museum",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-14T18:00:00.962000-05:00",
+      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-14T18:00:00.962000-05:00"
     },
     {
       "id": "nola-show-46897",
@@ -189,15 +189,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-14T19:00:00-05:00",
       "description": "Venue: Rock N Bowl | Starts: 2026-10-14T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58510",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-14T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-14T19:00:00-05:00"
     },
     {
       "id": "nola-show-56716",
@@ -2108,6 +2099,15 @@
       "description": "Venue: Venue Vapaille | Starts: 2026-10-16T19:00:00-05:00"
     },
     {
+      "id": "nola-show-59344",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Ash\u00e9 Cultural Arts Center",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-16T19:00:00-05:00",
+      "description": "Venue: Ash\u00e9 Cultural Arts Center | Starts: 2026-10-16T19:00:00-05:00"
+    },
+    {
       "id": "nola-show-57510",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3010,6 +3010,15 @@
       "description": "Venue: Public Service Bar @ NOPSI Hotel | Starts: 2026-10-18T10:00:00-05:00"
     },
     {
+      "id": "nola-show-59330",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-18T11:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-18T11:00:00-05:00"
+    },
+    {
       "id": "nola-show-53668",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3197,15 +3206,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-18T18:30:00-05:00",
       "description": "Venue: Southport Hall | Starts: 2026-10-18T18:30:00-05:00"
-    },
-    {
-      "id": "nola-show-57895",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-18T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-18T19:00:00-05:00"
     },
     {
       "id": "nola-show-58406",
@@ -4935,15 +4935,6 @@
       "description": "Venue: Music Box Village | Starts: 2026-10-23T19:00:00-05:00"
     },
     {
-      "id": "nola-show-59281",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-23T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-23T19:00:00-05:00"
-    },
-    {
       "id": "nola-show-58008",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5631,6 +5622,15 @@
       "description": "Venue: Holy Diver | Starts: 2026-10-24T20:00:00-05:00"
     },
     {
+      "id": "nola-show-59331",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-24T20:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-24T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-54545",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5860,6 +5860,15 @@
       "description": "Venue: Jimmy's Music Club | Starts: 2026-10-25T10:00:00-05:00"
     },
     {
+      "id": "nola-show-59332",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-25T11:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-25T11:00:00-05:00"
+    },
+    {
       "id": "nola-show-59275",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6056,15 +6065,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-25T19:00:00-05:00",
       "description": "Venue: Chickie Wah Wah | Starts: 2026-10-25T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-57896",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-25T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-25T19:00:00-05:00"
     },
     {
       "id": "nola-show-58546",
@@ -6498,7 +6498,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-27T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58245",
+      "id": "nola-show-58244",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -7706,15 +7706,6 @@
       "description": "Venue: Fillmore New Orleans | Starts: 2026-10-30T19:00:00-05:00"
     },
     {
-      "id": "nola-show-58519",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-30T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-30T19:00:00-05:00"
-    },
-    {
       "id": "nola-show-57504",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7778,7 +7769,7 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-30T20:00:00-05:00"
     },
     {
-      "id": "nola-show-56706",
+      "id": "nola-show-59259",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Broadside",
@@ -7812,6 +7803,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-30T20:00:00-05:00",
       "description": "Venue: Mardi Gras World | Starts: 2026-10-30T20:00:00-05:00"
+    },
+    {
+      "id": "nola-show-59334",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-30T20:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-30T20:00:00-05:00"
     },
     {
       "id": "nola-show-58783",
@@ -8083,6 +8083,15 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-31T11:00:00-05:00"
     },
     {
+      "id": "nola-show-59335",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T11:00:00-05:00",
+      "description": "Venue: Buffa's | Starts: 2026-10-31T11:00:00-05:00"
+    },
+    {
       "id": "nola-show-56492",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8283,15 +8292,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T19:00:00-05:00",
       "description": "Venue: Music Box Village | Starts: 2026-10-31T19:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58520",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-31T19:00:00-05:00",
-      "description": "Venue: Buffa's | Starts: 2026-10-31T19:00:00-05:00"
     },
     {
       "id": "nola-show-57505",
@@ -8613,6 +8613,15 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-10-31T23:30:00-05:00"
     },
     {
+      "id": "nola-show-59337",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-01T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-01T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-56856",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8665,15 +8674,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-01T19:00:00-06:00",
       "description": "Venue: Broadside | Starts: 2026-11-01T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58259",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-01T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-01T19:00:00-06:00"
     },
     {
       "id": "nola-show-57097",
@@ -9514,15 +9514,6 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-11-06T19:00:00-06:00"
     },
     {
-      "id": "nola-show-59312",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-06T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-06T19:00:00-06:00"
-    },
-    {
       "id": "nola-show-51262",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9557,6 +9548,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-06T20:00:00-06:00",
       "description": "Venue: House of Blues | Starts: 2026-11-06T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-59338",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-06T20:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-06T20:00:00-06:00"
     },
     {
       "id": "nola-show-43236",
@@ -9985,6 +9985,15 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-11-08T09:00:00.645000-06:00"
     },
     {
+      "id": "nola-show-59339",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-08T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-08T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-58494",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10082,15 +10091,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-08T19:00:00-06:00",
       "description": "Venue: Siberia | Starts: 2026-11-08T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58260",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-08T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-08T19:00:00-06:00"
     },
     {
       "id": "nola-show-51165",
@@ -11044,7 +11044,7 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-14T14:30:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -11183,6 +11183,15 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-11-15T09:00:00.299000-06:00"
     },
     {
+      "id": "nola-show-59340",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-15T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-15T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-59256",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11253,15 +11262,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-15T19:00:00-06:00",
       "description": "Venue: House of Blues | Starts: 2026-11-15T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58261",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-15T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-15T19:00:00-06:00"
     },
     {
       "id": "nola-show-57503",
@@ -11399,7 +11399,7 @@
       "description": "Venue: Santos Bar | Starts: 2026-11-16T20:00:00-06:00"
     },
     {
-      "id": "nola-show-54058",
+      "id": "nola-show-56493",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Poor Boys",
@@ -12128,6 +12128,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-11-20T23:59:00-06:00"
     },
     {
+      "id": "nola-show-59341",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-21T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-21T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-59228",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12229,15 +12238,6 @@
       "description": "Venue: Superdome | Starts: 2026-11-21T19:00:00-06:00"
     },
     {
-      "id": "nola-show-59314",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-21T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-21T19:00:00-06:00"
-    },
-    {
       "id": "nola-show-57179",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12337,6 +12337,15 @@
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-21T23:00:00-06:00"
     },
     {
+      "id": "nola-show-59342",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-22T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-22T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-59257",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12371,15 +12380,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-22T18:00:00-06:00",
       "description": "Venue: d.b.a. | Starts: 2026-11-22T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58262",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-22T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-22T19:00:00-06:00"
     },
     {
       "id": "nola-show-57806",
@@ -13201,6 +13201,15 @@
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-28T23:00:00-06:00"
     },
     {
+      "id": "nola-show-59343",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Buffa's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-29T11:00:00-06:00",
+      "description": "Venue: Buffa's | Starts: 2026-11-29T11:00:00-06:00"
+    },
+    {
       "id": "nola-show-59258",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -13244,15 +13253,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-29T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-29T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58263",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-29T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-29T19:00:00-06:00"
     },
     {
       "id": "nola-show-58958",
@@ -13388,15 +13388,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-01T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-01T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58942",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-01T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-12-01T19:00:00-06:00"
     },
     {
       "id": "nola-show-59125",
@@ -14043,15 +14034,6 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-06T17:00:00-06:00"
     },
     {
-      "id": "nola-show-58264",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-06T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-12-06T19:00:00-06:00"
-    },
-    {
       "id": "nola-show-57736",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14354,7 +14336,7 @@
       "pubDate": "Thu, 03 Sep 2026 17:36:55 -0400"
     },
     {
-      "id": "nola-show-52517",
+      "id": "nola-show-52518",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -14640,15 +14622,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-13T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58265",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-13T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-12-13T19:00:00-06:00"
     },
     {
       "id": "nola-show-58956",
@@ -15209,15 +15182,6 @@
       "description": "Venue: Fillmore New Orleans | Starts: 2026-12-20T19:00:00-06:00"
     },
     {
-      "id": "nola-show-58266",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-20T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-12-20T19:00:00-06:00"
-    },
-    {
       "id": "nola-show-58957",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -15556,15 +15520,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-27T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-27T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58267",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-27T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-12-27T19:00:00-06:00"
     },
     {
       "id": "nola-show-59218",
