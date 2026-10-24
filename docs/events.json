@@ -1,6 +1,6 @@
 {
   "count": 1773,
-  "generated_at": "2026-10-24T16:34:49.432139+00:00",
+  "generated_at": "2026-10-24T18:05:18.930686+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -19,33 +19,6 @@
     }
   ],
   "events": [
-    {
-      "id": "nola-show-59273",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Tigermen Den",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-23T11:00:00-05:00",
-      "description": "Venue: The Tigermen Den | Starts: 2026-10-23T11:00:00-05:00"
-    },
-    {
-      "id": "nola-show-59642",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bamboula's",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-23T11:00:00-05:00",
-      "description": "Venue: Bamboula's | Starts: 2026-10-23T11:00:00-05:00"
-    },
-    {
-      "id": "nola-show-58411",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Carousel Bar at the Hotel Monteleone",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-23T12:30:00-05:00",
-      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-23T12:30:00-05:00"
-    },
     {
       "id": "nola-show-56849",
       "source": "nola_show",
@@ -81,6 +54,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T14:00:00.182000-05:00",
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-10-23T14:00:00.182000-05:00"
+    },
+    {
+      "id": "nola-show-59643",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bamboula's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T14:15:00-05:00",
+      "description": "Venue: Bamboula's | Starts: 2026-10-23T14:15:00-05:00"
     },
     {
       "id": "nola-show-59101",
@@ -126,6 +108,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-23T16:00:00-05:00",
       "description": "Venue: Bourbon O Bar | Starts: 2026-10-23T16:00:00-05:00"
+    },
+    {
+      "id": "nola-show-58412",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Carousel Bar at the Hotel Monteleone",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-23T16:00:00-05:00",
+      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-10-23T16:00:00-05:00"
     },
     {
       "id": "nola-show-58719",
@@ -3348,7 +3339,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-27T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58245",
+      "id": "nola-show-58244",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -7366,6 +7357,15 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-07T16:00:00-06:00"
     },
     {
+      "id": "nola-show-59998",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Odd Fellows Rest",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-07T16:00:00-06:00",
+      "description": "Venue: Odd Fellows Rest | Starts: 2026-11-07T16:00:00-06:00"
+    },
+    {
       "id": "nola-show-49879",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8824,7 +8824,7 @@
       "description": "Venue: Republic NOLA | Starts: 2026-11-13T22:00:00-06:00"
     },
     {
-      "id": "nola-show-59695",
+      "id": "nola-show-59694",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -8964,7 +8964,7 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-14T16:00:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -10264,7 +10264,7 @@
       "description": "Venue: Siberia | Starts: 2026-11-20T22:00:00-06:00"
     },
     {
-      "id": "nola-show-59697",
+      "id": "nola-show-59696",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -13039,7 +13039,7 @@
       "pubDate": "Thu, 03 Sep 2026 17:36:55 -0400"
     },
     {
-      "id": "nola-show-52517",
+      "id": "nola-show-52518",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
