@@ -1,6 +1,6 @@
 {
-  "count": 1644,
-  "generated_at": "2026-10-27T18:41:19.863360+00:00",
+  "count": 1649,
+  "generated_at": "2026-10-27T20:02:22.412319+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,54 +15,18 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1534
+      "count": 1539
     }
   ],
   "events": [
     {
-      "id": "nola-show-59276",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Tigermen Den",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-26T11:00:00-05:00",
-      "description": "Venue: The Tigermen Den | Starts: 2026-10-26T11:00:00-05:00"
-    },
-    {
-      "id": "nola-show-53459",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-26T12:00:00-05:00",
-      "description": "Venue: Bacchanal | Starts: 2026-10-26T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-59654",
+      "id": "nola-show-59655",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Bamboula's",
       "event_url": "https://nola.show/",
-      "start": "2026-10-26T12:00:00-05:00",
-      "description": "Venue: Bamboula's | Starts: 2026-10-26T12:00:00-05:00"
-    },
-    {
-      "id": "nola-show-49154",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Allways Lounge & Cabaret",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-26T14:00:00-05:00",
-      "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-26T14:00:00-05:00"
-    },
-    {
-      "id": "nola-show-54807",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-10-26T14:00:00-05:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-26T14:00:00-05:00"
+      "start": "2026-10-26T16:30:00-05:00",
+      "description": "Venue: Bamboula's | Starts: 2026-10-26T16:30:00-05:00"
     },
     {
       "id": "nola-show-57030",
@@ -74,6 +38,15 @@
       "description": "Venue: Preservation Hall | Starts: 2026-10-26T17:00:00-05:00"
     },
     {
+      "id": "nola-show-56845",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T18:00:00-05:00",
+      "description": "Venue: Bacchanal | Starts: 2026-10-26T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-53878",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -81,6 +54,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-26T18:00:00-05:00",
       "description": "Venue: d.b.a. | Starts: 2026-10-26T18:00:00-05:00"
+    },
+    {
+      "id": "nola-show-54808",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Spotted Cat Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T18:00:00-05:00",
+      "description": "Venue: Spotted Cat Music Club | Starts: 2026-10-26T18:00:00-05:00"
     },
     {
       "id": "nola-show-58242",
@@ -144,6 +126,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-26T19:00:00-05:00",
       "description": "Venue: Maple Leaf Bar | Starts: 2026-10-26T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-49155",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Allways Lounge & Cabaret",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-26T19:00:00-05:00",
+      "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-10-26T19:00:00-05:00"
     },
     {
       "id": "nola-show-59053",
@@ -596,7 +587,7 @@
       "description": "Venue: d.b.a. | Starts: 2026-10-27T18:00:00-05:00"
     },
     {
-      "id": "nola-show-58244",
+      "id": "nola-show-58245",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Apple Barrel",
@@ -1478,6 +1469,15 @@
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-10-28T18:00:00-05:00"
     },
     {
+      "id": "nola-show-60173",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Little House",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-28T18:00:00-05:00",
+      "description": "Venue: The Little House | Starts: 2026-10-28T18:00:00-05:00"
+    },
+    {
       "id": "nola-show-59707",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1566,6 +1566,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-28T19:00:00-05:00",
       "description": "Venue: Buffa's | Starts: 2026-10-28T19:00:00-05:00"
+    },
+    {
+      "id": "nola-show-60169",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "BMac's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-28T19:00:00-05:00",
+      "description": "Venue: BMac's | Starts: 2026-10-28T19:00:00-05:00"
     },
     {
       "id": "nola-show-58077",
@@ -2659,7 +2668,7 @@
       "description": "Venue: Dew Drop Inn | Starts: 2026-10-30T20:00:00-05:00"
     },
     {
-      "id": "nola-show-59259",
+      "id": "nola-show-56706",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Broadside",
@@ -3306,6 +3315,15 @@
       "description": "Venue: Blue Nile | Starts: 2026-10-31T19:30:00-05:00"
     },
     {
+      "id": "nola-show-60174",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Little House",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T19:30:00-05:00",
+      "description": "Venue: The Little House | Starts: 2026-10-31T19:30:00-05:00"
+    },
+    {
       "id": "nola-show-59184",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3517,6 +3535,24 @@
       "description": "Venue: Dos Jefes | Starts: 2026-10-31T21:00:00-05:00"
     },
     {
+      "id": "nola-show-60172",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Anna's",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T21:00:00-05:00",
+      "description": "Venue: Anna's | Starts: 2026-10-31T21:00:00-05:00"
+    },
+    {
+      "id": "nola-show-60171",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "St Roch Tavern",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T21:00:00-05:00",
+      "description": "Venue: St Roch Tavern | Starts: 2026-10-31T21:00:00-05:00"
+    },
+    {
       "id": "nola-show-59031",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3560,6 +3596,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-10-31T22:00:00-05:00",
       "description": "Venue: Republic NOLA | Starts: 2026-10-31T22:00:00-05:00"
+    },
+    {
+      "id": "nola-show-60170",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Poor Boys",
+      "event_url": "https://nola.show/",
+      "start": "2026-10-31T22:00:00-05:00",
+      "description": "Venue: Poor Boys | Starts: 2026-10-31T22:00:00-05:00"
     },
     {
       "id": "nola-show-53950",
@@ -6076,7 +6121,7 @@
       "description": "Venue: Siberia | Starts: 2026-11-09T21:00:00-06:00"
     },
     {
-      "id": "nola-show-59783",
+      "id": "nola-show-53605",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Gasa Gasa",
@@ -7044,7 +7089,7 @@
       "description": "Venue: Republic NOLA | Starts: 2026-11-13T22:00:00-06:00"
     },
     {
-      "id": "nola-show-59694",
+      "id": "nola-show-59695",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -7193,7 +7238,7 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-14T16:00:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -8628,7 +8673,7 @@
       "description": "Venue: Siberia | Starts: 2026-11-20T22:00:00-06:00"
     },
     {
-      "id": "nola-show-59696",
+      "id": "nola-show-59697",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -13173,7 +13218,7 @@
       "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
-      "id": "nola-show-54087",
+      "id": "nola-show-54088",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
