@@ -1,6 +1,6 @@
 {
-  "count": 1856,
-  "generated_at": "2026-11-06T19:57:01.333907+00:00",
+  "count": 1860,
+  "generated_at": "2026-11-06T20:51:05.834577+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,37 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1698
+      "count": 1702
     }
   ],
   "events": [
-    {
-      "id": "nola-show-54472",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-05T12:00:00-06:00",
-      "description": "Venue: Bacchanal | Starts: 2026-11-05T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60819",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bamboula's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-05T12:00:00-06:00",
-      "description": "Venue: Bamboula's | Starts: 2026-11-05T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58844",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-05T14:00:00-06:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-05T14:00:00-06:00"
-    },
     {
       "id": "nola-show-61025",
       "source": "nola_show",
@@ -72,6 +45,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-05T15:00:00-06:00",
       "description": "Venue: 21st Amendment Bar at La Louisiane | Starts: 2026-11-05T15:00:00-06:00"
+    },
+    {
+      "id": "nola-show-60820",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bamboula's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-05T16:30:00-06:00",
+      "description": "Venue: Bamboula's | Starts: 2026-11-05T16:30:00-06:00"
     },
     {
       "id": "nola-show-59394",
@@ -110,6 +92,15 @@
       "description": "Venue: Maple Leaf Bar | Starts: 2026-11-05T18:00:00-06:00"
     },
     {
+      "id": "nola-show-59234",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-05T18:00:00-06:00",
+      "description": "Venue: Bacchanal | Starts: 2026-11-05T18:00:00-06:00"
+    },
+    {
       "id": "nola-show-58658",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -117,6 +108,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-05T18:00:00-06:00",
       "description": "Venue: d.b.a. | Starts: 2026-11-05T18:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58845",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Spotted Cat Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-05T18:00:00-06:00",
+      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-05T18:00:00-06:00"
     },
     {
       "id": "nola-show-61177",
@@ -1608,6 +1608,15 @@
       "description": "Venue: Besthoff Sculpture Garden | Starts: 2026-11-06T20:00:00-06:00"
     },
     {
+      "id": "nola-show-61249",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "True South",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-06T20:00:00-06:00",
+      "description": "Venue: True South | Starts: 2026-11-06T20:00:00-06:00"
+    },
+    {
       "id": "87cd759c47662aa532c563552b3e12fd05e8c217",
       "source": "wwoz",
       "title": "The Leroy Marshall Band",
@@ -2800,6 +2809,15 @@
       "description": "Venue: Saturn Bar | Starts: 2026-11-07T22:00:00-06:00"
     },
     {
+      "id": "nola-show-61248",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Poor Boys",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-07T22:00:00-06:00",
+      "description": "Venue: Poor Boys | Starts: 2026-11-07T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-61013",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2919,6 +2937,15 @@
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4922752",
       "description": "Venue: Blue Nile\nStarts: 2026-11-07T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
       "pubDate": "Fri, 30 Oct 2026 12:27:00 -0400"
+    },
+    {
+      "id": "nola-show-61247",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Favela Chic",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-07T23:59:00-06:00",
+      "description": "Venue: Favela Chic | Starts: 2026-11-07T23:59:00-06:00"
     },
     {
       "id": "nola-show-61215",
@@ -5561,7 +5588,7 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-14T16:00:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -12158,6 +12185,15 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-12-05T21:00:00-06:00"
     },
     {
+      "id": "nola-show-61246",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Favela Chic",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-05T21:00:00-06:00",
+      "description": "Venue: Favela Chic | Starts: 2026-12-05T21:00:00-06:00"
+    },
+    {
       "id": "offbeat-event-4793646",
       "source": "offbeat",
       "title": "Billy Strings",
@@ -12666,7 +12702,7 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-12-10T18:00:00-06:00"
     },
     {
-      "id": "nola-show-52518",
+      "id": "nola-show-52517",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
