@@ -1,6 +1,6 @@
 {
-  "count": 1727,
-  "generated_at": "2026-11-11T20:11:33.214155+00:00",
+  "count": 1730,
+  "generated_at": "2026-11-11T21:53:40.283446+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,37 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1614
+      "count": 1617
     }
   ],
   "events": [
-    {
-      "id": "nola-show-54641",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-10T12:00:00-06:00",
-      "description": "Venue: Bacchanal | Starts: 2026-11-10T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60837",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bamboula's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-10T12:00:00-06:00",
-      "description": "Venue: Bamboula's | Starts: 2026-11-10T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58856",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-10T14:00:00-06:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-10T14:00:00-06:00"
-    },
     {
       "id": "nola-show-60271",
       "source": "nola_show",
@@ -54,6 +27,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-10T15:00:00-06:00",
       "description": "Venue: New Orleans Jazz National Historic Park | Starts: 2026-11-10T15:00:00-06:00"
+    },
+    {
+      "id": "nola-show-60838",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bamboula's",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-10T16:30:00-06:00",
+      "description": "Venue: Bamboula's | Starts: 2026-11-10T16:30:00-06:00"
     },
     {
       "id": "nola-show-59414",
@@ -74,13 +56,22 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-11-10T17:00:00-06:00"
     },
     {
-      "id": "nola-show-60660",
+      "id": "nola-show-59231",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "d.b.a.",
+      "venue": "Bacchanal",
       "event_url": "https://nola.show/",
       "start": "2026-11-10T18:00:00-06:00",
-      "description": "Venue: d.b.a. | Starts: 2026-11-10T18:00:00-06:00"
+      "description": "Venue: Bacchanal | Starts: 2026-11-10T18:00:00-06:00"
+    },
+    {
+      "id": "nola-show-58857",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Spotted Cat Music Club",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-10T18:00:00-06:00",
+      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-10T18:00:00-06:00"
     },
     {
       "id": "nola-show-55501",
@@ -2446,7 +2437,7 @@
       "description": "Venue: Saturn Bar | Starts: 2026-11-13T21:00:00-06:00"
     },
     {
-      "id": "nola-show-60768",
+      "id": "nola-show-59901",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "BJ's Lounge",
@@ -2787,7 +2778,7 @@
       "description": "Venue: Bourbon O Bar | Starts: 2026-11-14T16:00:00-06:00"
     },
     {
-      "id": "nola-show-50277",
+      "id": "nola-show-50278",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -9908,6 +9899,15 @@
       "description": "Venue: Vaughan's Lounge | Starts: 2026-12-04T20:00:00-06:00"
     },
     {
+      "id": "nola-show-61548",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Domino",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-04T20:00:00-06:00",
+      "description": "Venue: The Domino | Starts: 2026-12-04T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-61379",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10156,6 +10156,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-05T19:30:00-06:00",
       "description": "Venue: Saenger Theater | Starts: 2026-12-05T19:30:00-06:00"
+    },
+    {
+      "id": "nola-show-61545",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Banks St Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-05T19:30:00-06:00",
+      "description": "Venue: Banks St Bar | Starts: 2026-12-05T19:30:00-06:00"
     },
     {
       "id": "nola-show-60379",
@@ -12108,6 +12117,15 @@
       "description": "Venue: Hide/Seek | Starts: 2026-12-18T22:00:00-06:00"
     },
     {
+      "id": "nola-show-61546",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Fish Pot Studios",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-18T22:00:00-06:00",
+      "description": "Venue: Fish Pot Studios | Starts: 2026-12-18T22:00:00-06:00"
+    },
+    {
       "id": "nola-show-60950",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12266,6 +12284,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-19T22:00:00-06:00",
       "description": "Venue: Hide/Seek | Starts: 2026-12-19T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61547",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Fish Pot Studios",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-19T22:00:00-06:00",
+      "description": "Venue: Fish Pot Studios | Starts: 2026-12-19T22:00:00-06:00"
     },
     {
       "id": "nola-show-57477",
