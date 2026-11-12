@@ -1,11 +1,11 @@
 {
-  "count": 1730,
-  "generated_at": "2026-11-11T21:53:40.283446+00:00",
+  "count": 1733,
+  "generated_at": "2026-11-12T01:00:54.389752+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
       "status": "ok",
-      "count": 57
+      "count": 60
     },
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
@@ -407,6 +407,18 @@
       "description": "Venue: Kermit's Trem\u00e9 Mother-in-Law Lounge | Date: Wednesday, November 11 | Time: 3:00pm"
     },
     {
+      "id": "4b10e351df5aea1fb0fc3527b678ff1af918e14d",
+      "source": "wwoz",
+      "title": "The Blues Masters",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413781",
+      "date_text": "Wednesday, November 11",
+      "time_text": "4:00pm",
+      "start": "2026-11-11T16:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 4:00pm"
+    },
+    {
       "id": "7909b9051bc5ce13c4b317d0d157124a7085fe75",
       "source": "wwoz",
       "title": "Les Getrex",
@@ -552,18 +564,6 @@
       "time_text": "6:00pm",
       "start": "2026-11-11T18:00:00+00:00",
       "description": "Venue: Caf\u00e9 Degas | Date: Wednesday, November 11 | Time: 6:00pm"
-    },
-    {
-      "id": "b5dad9bee6e6ab10c29e9847f8c008c85545ca3c",
-      "source": "wwoz",
-      "title": "Jam-ilton",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1410996",
-      "date_text": "Wednesday, November 11",
-      "time_text": "6:00pm",
-      "start": "2026-11-11T18:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 6:00pm"
     },
     {
       "id": "73f15f61444f935d4cdac1708a23cdbd48758782",
@@ -737,6 +737,18 @@
       "description": "Venue: Preservation Hall | Date: Wednesday, November 11 | Time: 6:15pm"
     },
     {
+      "id": "473f86b5e235bbd1975646da86750ad41b354bb1",
+      "source": "wwoz",
+      "title": "Jam-ilton",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1410996",
+      "date_text": "Wednesday, November 11",
+      "time_text": "7:00pm",
+      "start": "2026-11-11T19:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 7:00pm"
+    },
+    {
       "id": "73b06bdc0b88d552759556ff94185dded2ec3df3",
       "source": "wwoz",
       "title": "Valerie Sassyfras",
@@ -890,6 +902,18 @@
       "description": "Venue: The Sandbar | Starts: 2026-11-11T19:00:00-06:00"
     },
     {
+      "id": "52f7cb5cea8296a8b5950de097bdec05f0990fb8",
+      "source": "wwoz",
+      "title": "Funkin\u2019 it up with Big Sam",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1413406",
+      "date_text": "Wednesday, November 11",
+      "time_text": "7:30pm",
+      "start": "2026-11-11T19:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Wednesday, November 11 | Time: 7:30pm"
+    },
+    {
       "id": "24557e7df3857afca59217cfe5c37ec8d5136b4b",
       "source": "wwoz",
       "title": "Preservation All-Stars ft. Aur\u00e9lien Barnes",
@@ -944,6 +968,30 @@
       "description": "Venue: Bayou Bar at the Pontchartrain | Date: Wednesday, November 11 | Time: 8:00pm"
     },
     {
+      "id": "09cabbab3c9c7f83aec3752cfb5b49d8f180690b",
+      "source": "wwoz",
+      "title": "Nina Hungerland",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413786",
+      "date_text": "Wednesday, November 11",
+      "time_text": "8:00pm",
+      "start": "2026-11-11T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Wednesday, November 11 | Time: 8:00pm"
+    },
+    {
+      "id": "f7016218ae84f2b2824d6e26522a4652f23e0f42",
+      "source": "wwoz",
+      "title": "James Martin Band",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1412986",
+      "date_text": "Wednesday, November 11",
+      "time_text": "8:00pm",
+      "start": "2026-11-11T20:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Wednesday, November 11 | Time: 8:00pm"
+    },
+    {
       "id": "50aeacb97bfb0be31adc8ec7b0e664aa210c9390",
       "source": "wwoz",
       "title": "Cory Branan",
@@ -958,7 +1006,7 @@
     {
       "id": "f4632cf7466ac39c8d96d3071bfd29203f1fae44",
       "source": "wwoz",
-      "title": "Drop Inn Jam Session ft. Brandon Tarrel",
+      "title": "Drop Inn Jam Session ft. Brandon Tarell",
       "venue": "Dew Drop Inn Hotel & Lounge",
       "venue_url": "https://www.wwoz.org/organizations/dew-drop-inn-hotel-lounge",
       "event_url": "https://www.wwoz.org/events/1412396",
@@ -1357,18 +1405,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-11T21:00:00-06:00",
       "description": "Venue: Nightbloom | Starts: 2026-11-11T21:00:00-06:00"
-    },
-    {
-      "id": "a6768c2fa0138b786c33a69b35086e52d7870824",
-      "source": "wwoz",
-      "title": "Typically Booked",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1411001",
-      "date_text": "Wednesday, November 11",
-      "time_text": "9:30pm",
-      "start": "2026-11-11T21:30:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Wednesday, November 11 | Time: 9:30pm"
     },
     {
       "id": "c32606ccd9159b8da586fe7b58f762a054be20b4",
