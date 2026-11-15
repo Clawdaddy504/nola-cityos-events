@@ -1,6 +1,6 @@
 {
-  "count": 1722,
-  "generated_at": "2026-11-15T07:13:12.388556+00:00",
+  "count": 1671,
+  "generated_at": "2026-11-15T16:37:08.838599+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -15,586 +15,10 @@
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1593
+      "count": 1542
     }
   ],
   "events": [
-    {
-      "id": "nola-show-57496",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz Museum",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T09:00:00.663000-06:00",
-      "description": "Venue: New Orleans Jazz Museum | Starts: 2026-11-13T09:00:00.663000-06:00"
-    },
-    {
-      "id": "nola-show-60846",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bamboula's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T11:00:00-06:00",
-      "description": "Venue: Bamboula's | Starts: 2026-11-13T11:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60647",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Tuff Break Losers' Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T12:00:00-06:00",
-      "description": "Venue: Tuff Break Losers' Lounge | Starts: 2026-11-13T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61068",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Carousel Bar at the Hotel Monteleone",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T12:30:00-06:00",
-      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-13T12:30:00-06:00"
-    },
-    {
-      "id": "nola-show-59246",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T13:00:00-06:00",
-      "description": "Venue: Bacchanal | Starts: 2026-11-13T13:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58863",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T14:00:00-06:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-13T14:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61099",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Gasa Gasa",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T14:00:00-06:00",
-      "description": "Venue: Gasa Gasa | Starts: 2026-11-13T14:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61030",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Goldring Woldenberg Riverfront Park",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T14:00:00-06:00",
-      "description": "Venue: Goldring Woldenberg Riverfront Park | Starts: 2026-11-13T14:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60741",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Negril",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T14:30:00-06:00",
-      "description": "Venue: Cafe Negril | Starts: 2026-11-13T14:30:00-06:00"
-    },
-    {
-      "id": "nola-show-60594",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maison",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T15:00:00-06:00",
-      "description": "Venue: Maison | Starts: 2026-11-13T15:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60113",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Mahogany Jazz Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T15:00:00-06:00",
-      "description": "Venue: Mahogany Jazz Hall | Starts: 2026-11-13T15:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60273",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "New Orleans Jazz National Historic Park",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T15:00:00-06:00",
-      "description": "Venue: New Orleans Jazz National Historic Park | Starts: 2026-11-13T15:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60322",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "21st Amendment Bar at La Louisiane",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T15:00:00-06:00",
-      "description": "Venue: 21st Amendment Bar at La Louisiane | Starts: 2026-11-13T15:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61510",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T16:00:00-06:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-11-13T16:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61551",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "House of Blues Voodoo Garden",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T16:00:00-06:00",
-      "description": "Venue: House of Blues Voodoo Garden | Starts: 2026-11-13T16:00:00-06:00"
-    },
-    {
-      "id": "nola-show-56894",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Allways Lounge & Cabaret",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T17:00:00-06:00",
-      "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-13T17:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61610",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T17:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-11-13T17:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59426",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Preservation Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T17:00:00-06:00",
-      "description": "Venue: Preservation Hall | Starts: 2026-11-13T17:00:00-06:00"
-    },
-    {
-      "id": "nola-show-54379",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "d.b.a.",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:00:00-06:00",
-      "description": "Venue: d.b.a. | Starts: 2026-11-13T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60520",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Broadside",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:00:00-06:00",
-      "description": "Venue: Broadside | Starts: 2026-11-13T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60686",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Apple Barrel",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:00:00-06:00",
-      "description": "Venue: Apple Barrel | Starts: 2026-11-13T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61683",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Little House",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:00:00-06:00",
-      "description": "Venue: The Little House | Starts: 2026-11-13T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60493",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Balcony Music Club (BMC)",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:00:00-06:00",
-      "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-11-13T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59687",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Chickie Wah Wah",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T18:30:00-06:00",
-      "description": "Venue: Chickie Wah Wah | Starts: 2026-11-13T18:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61467",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maple Leaf Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Maple Leaf Bar | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59077",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Siberia",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Siberia | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59822",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Snug Harbor Jazz Bistro",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60197",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Buffa's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Buffa's | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-50308",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Jazz & Blues Market",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: The Jazz & Blues Market | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60207",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "NOLA Brewing",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: NOLA Brewing | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-57509",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Southport Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Southport Hall | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58022",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Nola 'Nacular",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Nola 'Nacular | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60796",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "House of Blues Foundation Room",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: House of Blues Foundation Room | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61386",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Tigermen Den",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: The Tigermen Den | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60292",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Studio Saint Philip",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: Studio Saint Philip | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61400",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BMac's",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:00:00-06:00",
-      "description": "Venue: BMac's | Starts: 2026-11-13T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61446",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Three Muses",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T19:30:00-06:00",
-      "description": "Venue: Three Muses | Starts: 2026-11-13T19:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61498",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Blue Nile",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Blue Nile | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60568",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bayou Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Bayou Bar | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61216",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59680",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Good Measure @ The Barnett",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Good Measure @ The Barnett | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58272",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Holy Diver",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Holy Diver | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61418",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Domino",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: The Domino | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58528",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Jazz Playhouse at the Royal Sonesta",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61306",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Venue Vapaille",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:00:00-06:00",
-      "description": "Venue: Venue Vapaille | Starts: 2026-11-13T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-54443",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Rock N Bowl",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:30:00-06:00",
-      "description": "Venue: Rock N Bowl | Starts: 2026-11-13T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-59019",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "May Baily's Place @ Dauphine Orleans Hotel",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T20:30:00-06:00",
-      "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-11-13T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-59514",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Santos Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Santos Bar | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59865",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Le Bon Temps Roule",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61339",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Saturn Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Saturn Bar | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59901",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "BJ's Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: BJ's Lounge | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61421",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Carrollton Station",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Carrollton Station | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60081",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dos Jefes",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Dos Jefes | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60182",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Arora",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Arora | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60997",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Double Dealer",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: Double Dealer | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60241",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Porch at Howlin' Wolf",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T21:00:00-06:00",
-      "description": "Venue: The Porch at Howlin' Wolf | Starts: 2026-11-13T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58770",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Republic NOLA",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T22:00:00-06:00",
-      "description": "Venue: Republic NOLA | Starts: 2026-11-13T22:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58948",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Rabbit Hole",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T22:00:00-06:00",
-      "description": "Venue: The Rabbit Hole | Starts: 2026-11-13T22:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61122",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Istanbul",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T22:00:00-06:00",
-      "description": "Venue: Cafe Istanbul | Starts: 2026-11-13T22:00:00-06:00"
-    },
-    {
-      "id": "nola-show-54976",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Ohm Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T22:00:00-06:00",
-      "description": "Venue: Ohm Lounge | Starts: 2026-11-13T22:00:00-06:00"
-    },
-    {
-      "id": "nola-show-54971",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hide/Seek",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T22:00:00-06:00",
-      "description": "Venue: Hide/Seek | Starts: 2026-11-13T22:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61684",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bud Rips",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T23:00:00-06:00",
-      "description": "Venue: Bud Rips | Starts: 2026-11-13T23:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61409",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Saint",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T23:00:00-06:00",
-      "description": "Venue: The Saint | Starts: 2026-11-13T23:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61229",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Crypt",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-13T23:00:00-06:00",
-      "description": "Venue: The Crypt | Starts: 2026-11-13T23:00:00-06:00"
-    },
     {
       "id": "nola-show-60722",
       "source": "nola_show",
@@ -2366,6 +1790,28 @@
       "description": "Venue: Silky Satin Lounge | Starts: 2026-11-15T20:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922712",
+      "source": "offbeat",
+      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
+      "venue": "Blue Nile",
+      "start": "2026-11-15T20:30:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922712",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-15T20:30:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
+      "pubDate": "Fri, 30 Oct 2026 09:16:43 -0700"
+    },
+    {
       "id": "5e10b75a09826a6aca44d01d10cb219f8afa71c7",
       "source": "wwoz",
       "title": "Preservation Legacy Band ft. Gregg Stafford",
@@ -2510,6 +1956,28 @@
       "description": "Venue: The Domino | Starts: 2026-11-15T21:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922697",
+      "source": "offbeat",
+      "title": "Juice presents Sypher Sundays\n\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-15T21:00:00.000-06:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922697",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-15T21:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nNo Cover \u2022 One Drink Minimum Per Person to Support the Artists\n\nNational recording artist, Juice, brings originality to the stage. The music is for the people, and this time the people are involved. He presents a \"Sypher Sunday\" series that highlights New Orleans' local Hip Hop scene that is looking for a voice. Two sets of great music and storytelling.\n\nAges 21+ Valid I.D. Required Upon Entry.",
+      "pubDate": "Fri, 30 Oct 2026 11:15:10 -0500"
+    },
+    {
       "id": "6803079b678ef9e45aa2b03626f31d3c615186d6",
       "source": "wwoz",
       "title": "James McClaskey & the Rhythm Band",
@@ -2585,28 +2053,6 @@
       "description": "Venue: Arora | Starts: 2026-11-15T22:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922697",
-      "source": "offbeat",
-      "title": "Juice presents Sypher Sundays\n\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-15T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922697",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-15T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nNo Cover \u2022 One Drink Minimum Per Person to Support the Artists\n\nNational recording artist, Juice, brings originality to the stage. The music is for the people, and this time the people are involved. He presents a \"Sypher Sunday\" series that highlights New Orleans' local Hip Hop scene that is looking for a voice. Two sets of great music and storytelling.\n\nAges 21+ Valid I.D. Required Upon Entry.",
-      "pubDate": "Fri, 30 Oct 2026 12:15:10 -0400"
-    },
-    {
       "id": "a9f373fd73050149a316b11601cee8fb10c427f8",
       "source": "wwoz",
       "title": "Street Legends Brass Band",
@@ -2638,28 +2084,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-15T22:30:00-06:00",
       "description": "Venue: The Howlin' Wolf | Starts: 2026-11-15T22:30:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4922712",
-      "source": "offbeat",
-      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
-      "venue": "Blue Nile",
-      "start": "2026-11-15T23:30:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922712",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-15T23:30:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
-      "pubDate": "Fri, 30 Oct 2026 12:16:43 -0400"
     },
     {
       "id": "nola-show-55191",
@@ -2869,7 +2293,7 @@
       "description": "Venue: Santos Bar | Starts: 2026-11-16T20:00:00-06:00"
     },
     {
-      "id": "nola-show-56493",
+      "id": "nola-show-54058",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Poor Boys",
@@ -3355,6 +2779,15 @@
       "description": "Venue: New Orleans Jazz National Historic Park | Starts: 2026-11-18T15:00:00-06:00"
     },
     {
+      "id": "nola-show-61793",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-18T16:00:00-06:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-11-18T16:00:00-06:00"
+    },
+    {
       "id": "nola-show-59951",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3362,6 +2795,20 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-18T16:30:00-06:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-18T16:30:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4544320",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-11-18T16:30:00.000-08:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544320",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-11-18T16:30:00.000-08:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 14:37:33 -0700"
     },
     {
       "id": "nola-show-61422",
@@ -3580,20 +3027,6 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-18T19:30:00-06:00"
     },
     {
-      "id": "offbeat-event-4544320",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-11-18T19:30:00.000-05:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544320",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-11-18T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 17:37:33 -0400"
-    },
-    {
       "id": "nola-show-49129",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3619,15 +3052,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-18T20:00:00-06:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-11-18T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61520",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-18T20:00:00-06:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-11-18T20:00:00-06:00"
     },
     {
       "id": "nola-show-61076",
@@ -3729,6 +3153,28 @@
       "description": "Venue: Nightbloom | Starts: 2026-11-18T21:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922687",
+      "source": "offbeat",
+      "title": "Blue Nile presents Kota Dosa\n\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-18T21:00:00.000-06:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922687",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-18T21:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nKota Dosa is a creative music collective known for blending blues, funk, psychedelic rock, and jazz, with roots in New York, New Orleans, and Oregon. Led by brothers Jesse Jake and Cody Luke, the band features powerful vocals, guitar solos, and a notable horn section. They perform original music alongside influential covers and are recognized for their high-energy, genre-bending live shows.\u00a0\u00a0\n\nAGES 21+. FREE ADMISSION WITH VALID I.D.",
+      "pubDate": "Fri, 30 Oct 2026 11:11:45 -0500"
+    },
+    {
       "id": "nola-show-61674",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3745,28 +3191,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-18T22:00:00-06:00",
       "description": "Venue: Cafe Istanbul | Starts: 2026-11-18T22:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4922687",
-      "source": "offbeat",
-      "title": "Blue Nile presents Kota Dosa\n\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-18T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922687",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-18T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nKota Dosa is a creative music collective known for blending blues, funk, psychedelic rock, and jazz, with roots in New York, New Orleans, and Oregon. Led by brothers Jesse Jake and Cody Luke, the band features powerful vocals, guitar solos, and a notable horn section. They perform original music alongside influential covers and are recognized for their high-energy, genre-bending live shows.\u00a0\u00a0\n\nAGES 21+. FREE ADMISSION WITH VALID I.D.",
-      "pubDate": "Fri, 30 Oct 2026 12:11:45 -0400"
     },
     {
       "id": "nola-show-55344",
@@ -3812,6 +3236,38 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-19T15:00:00-06:00",
       "description": "Venue: 21st Amendment Bar at La Louisiane | Starts: 2026-11-19T15:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4897896",
+      "source": "offbeat",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
+      "start": "2026-11-19T15:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897896",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-11-19T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 14:36:42 -0700"
+    },
+    {
+      "id": "offbeat-event-4708613",
+      "source": "offbeat",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
+      "start": "2026-11-19T15:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708613",
+      "description": "Venue: Poor Boys\nStarts: 2026-11-19T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 08:55:14 -0700"
     },
     {
       "id": "nola-show-59454",
@@ -3929,38 +3385,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-19T18:00:00-06:00",
       "description": "Venue: Paulie's | Starts: 2026-11-19T18:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4897896",
-      "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
-      "start": "2026-11-19T18:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897896",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-11-19T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 17:36:42 -0400"
-    },
-    {
-      "id": "offbeat-event-4708613",
-      "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
-      "start": "2026-11-19T18:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708613",
-      "description": "Venue: Poor Boys\nStarts: 2026-11-19T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
       "id": "nola-show-60434",
@@ -4435,22 +3859,6 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-20T17:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4787046",
-      "source": "offbeat",
-      "title": "Fruit Bats\r\n\r\n\r\n\r\n",
-      "venue": "Tipitina's",
-      "start": "2026-11-20T17:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Rock, Pop, Roots, Cover"
-      ],
-      "moreinfo": "https://tipitinas.com",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4787046",
-      "description": "Venue: Tipitina's\nStarts: 2026-11-20T17:00:00.000-08:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://tipitinas.com\n\nSubscribe to OffBeat\u00a0to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.",
-      "pubDate": "Tue, 24 Mar 2026 09:58:14 -0700"
-    },
-    {
       "id": "nola-show-54502",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4512,28 +3920,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-20T18:00:00-06:00",
       "description": "Venue: Land of Dreams | Starts: 2026-11-20T18:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4922671",
-      "source": "offbeat",
-      "title": "Blue Nile presents The Rozes\n\n\n\n\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-20T18:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922671",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-20T18:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nCaribbean Funk\n\nAll Shows Ages 21+. FREE ADMISSION with Valid I.D. and Drink Purchases",
-      "pubDate": "Fri, 30 Oct 2026 09:06:28 -0700"
     },
     {
       "id": "nola-show-49180",
@@ -4671,26 +4057,20 @@
       "description": "Venue: Venue Vapaille | Starts: 2026-11-20T20:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4917945",
+      "id": "offbeat-event-4787046",
       "source": "offbeat",
-      "title": "Blue Nile presents Kermit Ruffins and the BBQ Swingers",
-      "venue": "Blue Nile",
-      "start": "2026-11-20T20:00:00.000-08:00",
+      "title": "Fruit Bats\r\n\r\n\r\n\r\n",
+      "venue": "Tipitina's",
+      "start": "2026-11-20T20:00:00.000-05:00",
       "end": null,
       "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
+        "Music - Rock, Pop, Roots, Cover"
       ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "https://www.bluenilelive.com/",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4917945",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-20T20:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
-      "pubDate": "Mon, 19 Oct 2026 10:21:58 -0700"
+      "moreinfo": "https://tipitinas.com",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4787046",
+      "description": "Venue: Tipitina's\nStarts: 2026-11-20T20:00:00.000-05:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://tipitinas.com\n\nSubscribe to OffBeat\u00a0to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews and more on New Orleans and Louisiana music, musicians, festivals and events.",
+      "pubDate": "Tue, 24 Mar 2026 12:58:14 -0400"
     },
     {
       "id": "nola-show-61321",
@@ -4811,6 +4191,28 @@
       "pubDate": "Fri, 08 May 2026 13:51:13 -0400"
     },
     {
+      "id": "offbeat-event-4922671",
+      "source": "offbeat",
+      "title": "Blue Nile presents The Rozes\n\n\n\n\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-20T21:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922671",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-20T21:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nCaribbean Funk\n\nAll Shows Ages 21+. FREE ADMISSION with Valid I.D. and Drink Purchases",
+      "pubDate": "Fri, 30 Oct 2026 12:06:28 -0400"
+    },
+    {
       "id": "nola-show-60046",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4863,6 +4265,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-20T23:00:00-06:00",
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-20T23:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4917945",
+      "source": "offbeat",
+      "title": "Blue Nile presents Kermit Ruffins and the BBQ Swingers",
+      "venue": "Blue Nile",
+      "start": "2026-11-20T23:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "https://www.bluenilelive.com/",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4917945",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-20T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
+      "pubDate": "Mon, 19 Oct 2026 13:21:58 -0400"
     },
     {
       "id": "nola-show-61773",
@@ -5036,15 +4460,6 @@
       "description": "Venue: The Rabbit Hole | Starts: 2026-11-21T16:00:00-06:00"
     },
     {
-      "id": "nola-show-61670",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-21T16:00:00-06:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-11-21T16:00:00-06:00"
-    },
-    {
       "id": "nola-show-61559",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5063,28 +4478,6 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-11-21T17:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4906030",
-      "source": "offbeat",
-      "title": "New Orleans sons, Norman and Rickey Caesar, are products of a long musical legacy, the undisputed keepers of the uptown funk. They make it do what it do.",
-      "venue": "Blue Nile",
-      "start": "2026-11-21T17:30:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4906030",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-21T17:30:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.\n\nDOORS 7PM.",
-      "pubDate": "Tue, 22 Sep 2026 06:52:01 -0700"
-    },
-    {
       "id": "nola-show-60702",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5101,22 +4494,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-21T18:00:00-06:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-11-21T18:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4708602",
-      "source": "offbeat",
-      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
-      "venue": "The Actor's Apothecary",
-      "start": "2026-11-21T18:00:00.000-08:00",
-      "end": "2026-11-21T20:00:00.000-08:00",
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.theactorsapothecary.com/events",
-      "ticket_url": "https://www.theactorsapothecary.com/events",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708602",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-11-21T18:00:00.000-08:00\nEnds: 2026-11-21T20:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 12:16:38 -0800"
     },
     {
       "id": "nola-show-49286",
@@ -5144,28 +4521,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-21T19:00:00-06:00",
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-11-21T19:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4922760",
-      "source": "offbeat",
-      "title": "AFROBEATS ON FRENCHMEN\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-21T19:00:00.000-09:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922760",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-21T19:00:00.000-09:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
-      "pubDate": "Fri, 30 Oct 2026 08:27:01 -0800"
     },
     {
       "id": "nola-show-57179",
@@ -5231,6 +4586,15 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-21T20:00:00-06:00"
     },
     {
+      "id": "nola-show-61524",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-21T20:00:00-06:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-11-21T20:00:00-06:00"
+    },
+    {
       "id": "nola-show-61308",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5256,6 +4620,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-21T20:30:00-06:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-11-21T20:30:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4906030",
+      "source": "offbeat",
+      "title": "New Orleans sons, Norman and Rickey Caesar, are products of a long musical legacy, the undisputed keepers of the uptown funk. They make it do what it do.",
+      "venue": "Blue Nile",
+      "start": "2026-11-21T20:30:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4906030",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-21T20:30:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.\n\nDOORS 7PM.",
+      "pubDate": "Tue, 22 Sep 2026 09:52:01 -0400"
     },
     {
       "id": "nola-show-61206",
@@ -5346,6 +4732,22 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-21T21:00:00-06:00",
       "description": "Venue: Double Dealer | Starts: 2026-11-21T21:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4708602",
+      "source": "offbeat",
+      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
+      "venue": "The Actor's Apothecary",
+      "start": "2026-11-21T21:00:00.000-05:00",
+      "end": "2026-11-21T23:00:00.000-05:00",
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.theactorsapothecary.com/events",
+      "ticket_url": "https://www.theactorsapothecary.com/events",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708602",
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-11-21T21:00:00.000-05:00\nEnds: 2026-11-21T23:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 15:16:38 -0500"
     },
     {
       "id": "nola-show-61355",
@@ -5445,6 +4847,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-21T23:00:00-06:00",
       "description": "Venue: The Jazz & Blues Market | Starts: 2026-11-21T23:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4922760",
+      "source": "offbeat",
+      "title": "AFROBEATS ON FRENCHMEN\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-21T23:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922760",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-21T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
+      "pubDate": "Fri, 30 Oct 2026 12:27:01 -0400"
     },
     {
       "id": "nola-show-61774",
@@ -5645,28 +5069,6 @@
       "description": "Venue: Apple Barrel | Starts: 2026-11-22T18:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922701",
-      "source": "offbeat",
-      "title": "Juice presents Sypher Sundays\n\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-22T18:00:00.000-09:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922701",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-22T18:00:00.000-09:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nNo Cover \u2022 One Drink Minimum Per Person to Support the Artists\n\nNational recording artist, Juice, brings originality to the stage. The music is for the people, and this time the people are involved. He presents a \"Sypher Sunday\" series that highlights New Orleans' local Hip Hop scene that is looking for a voice. Two sets of great music and storytelling.\n\nAges 21+ Valid I.D. Required Upon Entry.",
-      "pubDate": "Fri, 30 Oct 2026 08:15:11 -0800"
-    },
-    {
       "id": "nola-show-59785",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5692,6 +5094,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-22T19:00:00-06:00",
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-22T19:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4922701",
+      "source": "offbeat",
+      "title": "Juice presents Sypher Sundays\n\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-22T19:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922701",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-22T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nNo Cover \u2022 One Drink Minimum Per Person to Support the Artists\n\nNational recording artist, Juice, brings originality to the stage. The music is for the people, and this time the people are involved. He presents a \"Sypher Sunday\" series that highlights New Orleans' local Hip Hop scene that is looking for a voice. Two sets of great music and storytelling.\n\nAges 21+ Valid I.D. Required Upon Entry.",
+      "pubDate": "Fri, 30 Oct 2026 09:15:11 -0700"
     },
     {
       "id": "nola-show-61439",
@@ -6470,6 +5894,15 @@
       "description": "Venue: New Orleans Jazz National Historic Park | Starts: 2026-11-25T15:00:00-06:00"
     },
     {
+      "id": "nola-show-61794",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-25T16:00:00-06:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-11-25T16:00:00-06:00"
+    },
+    {
       "id": "nola-show-59954",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6623,6 +6056,28 @@
       "description": "Venue: Buffa's | Starts: 2026-11-25T19:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922678",
+      "source": "offbeat",
+      "title": "2026 GRAMMY NOMINEE New Breed Brass Band\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-25T19:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922678",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-25T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nNew Breed is the new sound of New Orleans, and its members have learned from the city's best including Troy \u201cTrombone Shorty\u201d Andrews and James \u201c12\u201d Andrews.\u00a0\n\nNew Breed takes the NOLA second-line brass band tradition to all-new places.\n\nAGES 21+   FREE ADMISSION WITH VALID I.D. & DRINK PURCHASES",
+      "pubDate": "Fri, 30 Oct 2026 09:10:12 -0700"
+    },
+    {
       "id": "nola-show-57560",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6767,28 +6222,6 @@
       "description": "Venue: Cafe Istanbul | Starts: 2026-11-25T22:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922678",
-      "source": "offbeat",
-      "title": "2026 GRAMMY NOMINEE New Breed Brass Band\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-25T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922678",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-25T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nNew Breed is the new sound of New Orleans, and its members have learned from the city's best including Troy \u201cTrombone Shorty\u201d Andrews and James \u201c12\u201d Andrews.\u00a0\n\nNew Breed takes the NOLA second-line brass band tradition to all-new places.\n\nAGES 21+   FREE ADMISSION WITH VALID I.D. & DRINK PURCHASES",
-      "pubDate": "Fri, 30 Oct 2026 12:10:12 -0400"
-    },
-    {
       "id": "nola-show-56672",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -6814,6 +6247,22 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-26T12:00:00-06:00",
       "description": "Venue: Bacchanal | Starts: 2026-11-26T12:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4708619",
+      "source": "offbeat",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
+      "start": "2026-11-26T15:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708619",
+      "description": "Venue: Poor Boys\nStarts: 2026-11-26T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 08:55:10 -0700"
     },
     {
       "id": "nola-show-61473",
@@ -6859,22 +6308,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-26T18:00:00-06:00",
       "description": "Venue: Apple Barrel | Starts: 2026-11-26T18:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4708619",
-      "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
-      "start": "2026-11-26T18:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708619",
-      "description": "Venue: Poor Boys\nStarts: 2026-11-26T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 11:55:10 -0400"
     },
     {
       "id": "nola-show-55737",
@@ -7264,6 +6697,28 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-27T20:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922764",
+      "source": "offbeat",
+      "title": "AFROBEATS ON FRENCHMEN\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-27T20:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922764",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-27T20:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
+      "pubDate": "Fri, 30 Oct 2026 09:27:02 -0700"
+    },
+    {
       "id": "nola-show-54448",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7435,28 +6890,6 @@
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-27T23:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922764",
-      "source": "offbeat",
-      "title": "AFROBEATS ON FRENCHMEN\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-27T23:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922764",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-27T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
-      "pubDate": "Fri, 30 Oct 2026 12:27:02 -0400"
-    },
-    {
       "id": "nola-show-60895",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7482,6 +6915,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T13:00:00-06:00",
       "description": "Venue: Bacchanal | Starts: 2026-11-28T13:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61797",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Maison",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-28T13:00:00-06:00",
+      "description": "Venue: Maison | Starts: 2026-11-28T13:00:00-06:00"
     },
     {
       "id": "nola-show-61572",
@@ -7581,15 +7023,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T16:00:00-06:00",
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-11-28T16:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61671",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-28T16:00:00-06:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-11-28T16:00:00-06:00"
     },
     {
       "id": "nola-show-54416",
@@ -7734,6 +7167,37 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T20:00:00-06:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-28T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61535",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bourbon O Bar",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-28T20:00:00-06:00",
+      "description": "Venue: Bourbon O Bar | Starts: 2026-11-28T20:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4922768",
+      "source": "offbeat",
+      "title": "AFROBEATS ON FRENCHMEN\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-28T20:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922768",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-28T20:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
+      "pubDate": "Fri, 30 Oct 2026 09:27:02 -0700"
     },
     {
       "id": "nola-show-52112",
@@ -7925,28 +7389,6 @@
       "description": "Venue: The Jazz & Blues Market | Starts: 2026-11-28T23:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922768",
-      "source": "offbeat",
-      "title": "AFROBEATS ON FRENCHMEN\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-28T23:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922768",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-28T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
-      "pubDate": "Fri, 30 Oct 2026 12:27:02 -0400"
-    },
-    {
       "id": "nola-show-60467",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8118,6 +7560,28 @@
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-29T19:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4922718",
+      "source": "offbeat",
+      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
+      "venue": "Blue Nile",
+      "start": "2026-11-29T19:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922718",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-29T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
+      "pubDate": "Fri, 30 Oct 2026 09:16:44 -0700"
+    },
+    {
       "id": "nola-show-58958",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8179,28 +7643,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-29T21:00:00-06:00",
       "description": "Venue: BJ's Lounge | Starts: 2026-11-29T21:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4922718",
-      "source": "offbeat",
-      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
-      "venue": "Blue Nile",
-      "start": "2026-11-29T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922718",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-29T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
-      "pubDate": "Fri, 30 Oct 2026 12:16:44 -0400"
     },
     {
       "id": "nola-show-52049",
@@ -8428,6 +7870,15 @@
       "description": "Venue: Dos Jefes | Starts: 2026-11-30T20:30:00-06:00"
     },
     {
+      "id": "nola-show-61776",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Siberia",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-30T21:00:00-06:00",
+      "description": "Venue: Siberia | Starts: 2026-11-30T21:00:00-06:00"
+    },
+    {
       "id": "nola-show-60658",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8599,6 +8050,20 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-12-02T14:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4544321",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-12-02T16:30:00.000-08:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544321",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-02T16:30:00.000-08:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 14:37:21 -0700"
+    },
+    {
       "id": "nola-show-58740",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -8703,20 +8168,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-02T19:30:00-06:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-02T19:30:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4544321",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-12-02T19:30:00.000-05:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544321",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-02T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 17:37:21 -0400"
     },
     {
       "id": "nola-show-50528",
@@ -9268,7 +8719,7 @@
       "description": "Venue: Saturn Bar | Starts: 2026-12-04T22:00:00-06:00"
     },
     {
-      "id": "nola-show-61765",
+      "id": "nola-show-61499",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -9437,6 +8888,23 @@
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-12-05T18:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4793646",
+      "source": "offbeat",
+      "title": "Billy Strings",
+      "venue": "Smoothie King Center",
+      "start": "2026-12-05T18:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Jazz & Blues"
+      ],
+      "moreinfo": "https://tickets-center.com/smoothie-king-center?accid=5708838409&nid=1&campaignid=22084268112&adgroupid=173860868540&cid=728002715654&akwd=smoothie+king+center&mt=e&network=g&dist=s&device=c&random=11902952227726013014&loc_physical_ms=9025219&loc_interest_ms=9060348&exid=&vx=0&gad_source=1&gad_campaignid=22084268112&gbraid=0AAAAAD8-mBa9oXKiEvUs7b_VlIWofl9nh&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7j3zl53Q06FqU2981uhWSx9aTiEpr6TdvCa3QboNW_af3zRSs8qqSIaAtrrEALw_wcB",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4793646",
+      "description": "Venue: Smoothie King Center\nStarts: 2026-12-05T18:00:00.000-08:00\nCategories: Music - Rock, Pop, Roots, Cover, Music - Jazz & Blues\nMore info: https://tickets-center.com/smoothie-king-center?accid=5708838409&nid=1&campaignid=22084268112&adgroupid=173860868540&cid=728002715654&akwd=smoothie+king+center&mt=e&network=g&dist=s&device=c&random=11902952227726013014&loc_physical_ms=9025219&loc_interest_ms=9060348&exid=&vx=0&gad_source=1&gad_campaignid=22084268112&gbraid=0AAAAAD8-mBa9oXKiEvUs7b_VlIWofl9nh&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7j3zl53Q06FqU2981uhWSx9aTiEpr6TdvCa3QboNW_af3zRSs8qqSIaAtrrEALw_wcB\n\nSubscribe to OffBeat.comto get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 36+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
+      "pubDate": "Tue, 31 Mar 2026 12:18:57 -0700"
+    },
+    {
       "id": "nola-show-61493",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9588,23 +9056,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-05T21:00:00-06:00",
       "description": "Venue: Favela Chic | Starts: 2026-12-05T21:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4793646",
-      "source": "offbeat",
-      "title": "Billy Strings",
-      "venue": "Smoothie King Center",
-      "start": "2026-12-05T21:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Jazz & Blues"
-      ],
-      "moreinfo": "https://tickets-center.com/smoothie-king-center?accid=5708838409&nid=1&campaignid=22084268112&adgroupid=173860868540&cid=728002715654&akwd=smoothie+king+center&mt=e&network=g&dist=s&device=c&random=11902952227726013014&loc_physical_ms=9025219&loc_interest_ms=9060348&exid=&vx=0&gad_source=1&gad_campaignid=22084268112&gbraid=0AAAAAD8-mBa9oXKiEvUs7b_VlIWofl9nh&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7j3zl53Q06FqU2981uhWSx9aTiEpr6TdvCa3QboNW_af3zRSs8qqSIaAtrrEALw_wcB",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4793646",
-      "description": "Venue: Smoothie King Center\nStarts: 2026-12-05T21:00:00.000-05:00\nCategories: Music - Rock, Pop, Roots, Cover, Music - Jazz & Blues\nMore info: https://tickets-center.com/smoothie-king-center?accid=5708838409&nid=1&campaignid=22084268112&adgroupid=173860868540&cid=728002715654&akwd=smoothie+king+center&mt=e&network=g&dist=s&device=c&random=11902952227726013014&loc_physical_ms=9025219&loc_interest_ms=9060348&exid=&vx=0&gad_source=1&gad_campaignid=22084268112&gbraid=0AAAAAD8-mBa9oXKiEvUs7b_VlIWofl9nh&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7j3zl53Q06FqU2981uhWSx9aTiEpr6TdvCa3QboNW_af3zRSs8qqSIaAtrrEALw_wcB\n\nSubscribe to OffBeat.comto get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 36+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
-      "pubDate": "Tue, 31 Mar 2026 15:18:57 -0400"
     },
     {
       "id": "nola-show-59299",
@@ -9967,6 +9418,15 @@
       "description": "Venue: 30/90 | Starts: 2026-12-08T18:00:00-06:00"
     },
     {
+      "id": "nola-show-61795",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Columns",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-08T18:00:00-06:00",
+      "description": "Venue: The Columns | Starts: 2026-12-08T18:00:00-06:00"
+    },
+    {
       "id": "nola-show-55502",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9983,15 +9443,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-08T18:00:00-06:00",
       "description": "Venue: Mayfield's 208 | Starts: 2026-12-08T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60373",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Columns",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-08T18:30:00-06:00",
-      "description": "Venue: The Columns | Starts: 2026-12-08T18:30:00-06:00"
     },
     {
       "id": "nola-show-52497",
@@ -10192,6 +9643,38 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-10T12:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4897921",
+      "source": "offbeat",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
+      "start": "2026-12-10T15:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897921",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-10T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 14:36:55 -0700"
+    },
+    {
+      "id": "offbeat-event-4708616",
+      "source": "offbeat",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
+      "start": "2026-12-10T15:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708616",
+      "description": "Venue: Poor Boys\nStarts: 2026-12-10T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 08:55:17 -0700"
+    },
+    {
       "id": "nola-show-50615",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10210,39 +9693,7 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-12-10T18:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4897921",
-      "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
-      "start": "2026-12-10T18:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897921",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-10T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 17:36:55 -0400"
-    },
-    {
-      "id": "offbeat-event-4708616",
-      "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
-      "start": "2026-12-10T18:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708616",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-10T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 11:55:17 -0400"
-    },
-    {
-      "id": "nola-show-52517",
+      "id": "nola-show-52518",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -10267,6 +9718,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-10T19:00:00-06:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-12-10T19:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4924045",
+      "source": "offbeat",
+      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
+      "venue": "Blue Nile",
+      "start": "2026-12-10T19:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924045",
+      "description": "Venue: Blue Nile\nStarts: 2026-12-10T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
+      "pubDate": "Tue, 03 Nov 2026 05:23:14 -0800"
     },
     {
       "id": "nola-show-59870",
@@ -10366,28 +9839,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-10T21:00:00-06:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-12-10T21:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4924045",
-      "source": "offbeat",
-      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
-      "venue": "Blue Nile",
-      "start": "2026-12-10T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924045",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-10T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
-      "pubDate": "Tue, 03 Nov 2026 08:23:14 -0500"
     },
     {
       "id": "nola-show-58167",
@@ -10552,7 +10003,7 @@
       "description": "Venue: Chickie Wah Wah | Starts: 2026-12-11T21:00:00-06:00"
     },
     {
-      "id": "nola-show-61500",
+      "id": "nola-show-61766",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -10624,6 +10075,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-12T14:00:00-06:00"
     },
     {
+      "id": "nola-show-61782",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-12T14:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-12T14:00:00-06:00"
+    },
+    {
       "id": "nola-show-56676",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10640,15 +10100,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-12T17:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-12T17:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61637",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-12T17:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-12-12T17:00:00-06:00"
     },
     {
       "id": "nola-show-59159",
@@ -11209,6 +10660,20 @@
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-12-16T14:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4544323",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-12-16T16:30:00.000-08:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544323",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-16T16:30:00.000-08:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 14:37:22 -0700"
+    },
+    {
       "id": "nola-show-60622",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11227,6 +10692,25 @@
       "description": "Venue: Mayfield's 208 | Starts: 2026-12-16T18:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4925472",
+      "source": "offbeat",
+      "title": "HARRY SHEARER & JUDITH OWEN\u2019S ANNUAL CHRISTMAS WITHOUT TEARS BENEFIT  @ THE ORPHEUM THEATER -WEDNESDAY, DECEMBER 16TH, 2026 - DEE DEE BRIDGEWATER / JON CLEARY + MORE                     \n ",
+      "venue": "Orpheum Theater",
+      "start": "2026-12-16T18:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "New Orleans & Louisiana Culture",
+        "Arts: Museums, Galleries, Film, Books",
+        "Theater, Stage & Dance",
+        "Events - Miscellaneous"
+      ],
+      "moreinfo": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
+      "ticket_url": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4925472",
+      "description": "Venue: Orpheum Theater\nStarts: 2026-12-16T18:00:00.000-08:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://www.ticketmaster.com/event/1B00653DA7CDE09E\nTickets: https://www.ticketmaster.com/event/1B00653DA7CDE09E\n\nNew Orleans, Louisiana.\u00a0\u00a0Get ready for the annual Holiday party of the\u00a0\u00a0year! For the 21st year in a row in an intimate evening full of music, laughter and special guests, critically-acclaimed Artist and consummate stage performer Judith Owen and her husband, actor and humorist Harry Shearer (The Simpsons, Spinal Tap, Derek Smalls), will once again spread their special brand of yuletide cheer for the 2026\u00a0Christmas Without Tears, at home in New Orleans!\u00a0Festivities will take place Wednesday, December 16th at 8pm at the Orpheum Theater, with all proceeds benefitting Innocence & Justice Louisiana (formerly\u00a0Innocence Project New Orleans).\u00a0\u00a0The evening will feature performances from artists including Dee Dee Bridgewater, Jon Cleary, Bryan Batt, Trendafilka, Helen Gillet, Trixe Minx, Phil DeGruy, Tonya Boyd-Cannon and The Gentlemen Callers  - DONT MISS IT!\n\nTICKETS AVAILABLE ONLY AT TICKETMASTER!!!!",
+      "pubDate": "Mon, 09 Nov 2026 07:05:14 -0800"
+    },
+    {
       "id": "nola-show-52876",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11243,20 +10727,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-16T19:30:00-06:00",
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-16T19:30:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4544323",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-12-16T19:30:00.000-05:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544323",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-16T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 17:37:22 -0400"
     },
     {
       "id": "nola-show-61398",
@@ -11286,25 +10756,6 @@
       "description": "Venue: Nightbloom | Starts: 2026-12-16T21:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4925472",
-      "source": "offbeat",
-      "title": "HARRY SHEARER & JUDITH OWEN\u2019S ANNUAL CHRISTMAS WITHOUT TEARS BENEFIT  @ THE ORPHEUM THEATER -WEDNESDAY, DECEMBER 16TH, 2026 - DEE DEE BRIDGEWATER / JON CLEARY + MORE                     \n ",
-      "venue": "Orpheum Theater",
-      "start": "2026-12-16T21:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "New Orleans & Louisiana Culture",
-        "Arts: Museums, Galleries, Film, Books",
-        "Theater, Stage & Dance",
-        "Events - Miscellaneous"
-      ],
-      "moreinfo": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
-      "ticket_url": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4925472",
-      "description": "Venue: Orpheum Theater\nStarts: 2026-12-16T21:00:00.000-05:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://www.ticketmaster.com/event/1B00653DA7CDE09E\nTickets: https://www.ticketmaster.com/event/1B00653DA7CDE09E\n\nNew Orleans, Louisiana.\u00a0\u00a0Get ready for the annual Holiday party of the\u00a0\u00a0year! For the 21st year in a row in an intimate evening full of music, laughter and special guests, critically-acclaimed Artist and consummate stage performer Judith Owen and her husband, actor and humorist Harry Shearer (The Simpsons, Spinal Tap, Derek Smalls), will once again spread their special brand of yuletide cheer for the 2026\u00a0Christmas Without Tears, at home in New Orleans!\u00a0Festivities will take place Wednesday, December 16th at 8pm at the Orpheum Theater, with all proceeds benefitting Innocence & Justice Louisiana (formerly\u00a0Innocence Project New Orleans).\u00a0\u00a0The evening will feature performances from artists including Dee Dee Bridgewater, Jon Cleary, Bryan Batt, Trendafilka, Helen Gillet, Trixe Minx, Phil DeGruy, Tonya Boyd-Cannon and The Gentlemen Callers  - DONT MISS IT!\n\nTICKETS AVAILABLE ONLY AT TICKETMASTER!!!!",
-      "pubDate": "Mon, 09 Nov 2026 10:05:14 -0500"
-    },
-    {
       "id": "nola-show-57160",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11330,20 +10781,11 @@
       "pubDate": "Sat, 14 Mar 2026 08:55:11 -0700"
     },
     {
-      "id": "nola-show-61630",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-17T18:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-12-17T18:00:00-06:00"
-    },
-    {
       "id": "offbeat-event-4897905",
       "source": "offbeat",
       "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
       "venue": "The Howlin' Wolf",
-      "start": "2026-12-17T18:00:00.000-05:00",
+      "start": "2026-12-17T15:00:00.000-08:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -11351,8 +10793,17 @@
       "moreinfo": "",
       "ticket_url": "www.thehowlinwolf.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4897905",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-17T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 17:36:47 -0400"
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-17T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 14:36:47 -0700"
+    },
+    {
+      "id": "nola-show-61630",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-17T18:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-17T18:00:00-06:00"
     },
     {
       "id": "nola-show-51198",
@@ -11380,6 +10831,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-17T19:00:00-06:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-12-17T19:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4924049",
+      "source": "offbeat",
+      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
+      "venue": "Blue Nile",
+      "start": "2026-12-17T19:00:00.000-08:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924049",
+      "description": "Venue: Blue Nile\nStarts: 2026-12-17T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
+      "pubDate": "Tue, 03 Nov 2026 05:23:15 -0800"
     },
     {
       "id": "nola-show-54952",
@@ -11472,28 +10945,6 @@
       "description": "Venue: Twelve Mile Limit | Starts: 2026-12-17T21:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4924049",
-      "source": "offbeat",
-      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
-      "venue": "Blue Nile",
-      "start": "2026-12-17T22:00:00.000-05:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924049",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-17T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
-      "pubDate": "Tue, 03 Nov 2026 08:23:15 -0500"
-    },
-    {
       "id": "nola-show-58168",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11510,6 +10961,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-17T23:00:00-06:00",
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-12-17T23:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61781",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-18T14:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-18T14:00:00-06:00"
     },
     {
       "id": "nola-show-58925",
@@ -11610,15 +11070,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-18T20:00:00-06:00",
       "description": "Venue: House of Blues | Starts: 2026-12-18T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61629",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-18T20:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-12-18T20:00:00-06:00"
     },
     {
       "id": "nola-show-61666",
@@ -11738,6 +11189,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-19T13:00:00-06:00"
     },
     {
+      "id": "nola-show-61780",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-19T14:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-19T14:00:00-06:00"
+    },
+    {
       "id": "nola-show-60950",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -11745,15 +11205,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-19T15:00:00-06:00",
       "description": "Venue: New Orleans Jazz Museum | Starts: 2026-12-19T15:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61693",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-19T17:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-12-19T17:00:00-06:00"
     },
     {
       "id": "nola-show-59160",
@@ -11781,6 +11232,22 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-19T18:00:00-06:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-12-19T18:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4708605",
+      "source": "offbeat",
+      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
+      "venue": "The Actor's Apothecary",
+      "start": "2026-12-19T18:00:00.000-08:00",
+      "end": "2026-12-19T20:00:00.000-08:00",
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.theactorsapothecary.com/events",
+      "ticket_url": "https://www.theactorsapothecary.com/events",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708605",
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T18:00:00.000-08:00\nEnds: 2026-12-19T20:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 12:16:41 -0800"
     },
     {
       "id": "nola-show-53173",
@@ -11889,22 +11356,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-19T21:00:00-06:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-12-19T21:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4708605",
-      "source": "offbeat",
-      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
-      "venue": "The Actor's Apothecary",
-      "start": "2026-12-19T21:00:00.000-05:00",
-      "end": "2026-12-19T23:00:00.000-05:00",
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.theactorsapothecary.com/events",
-      "ticket_url": "https://www.theactorsapothecary.com/events",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708605",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T21:00:00.000-05:00\nEnds: 2026-12-19T23:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 15:16:41 -0500"
     },
     {
       "id": "nola-show-57228",
@@ -12445,6 +11896,15 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-26T13:00:00-06:00"
     },
     {
+      "id": "nola-show-61779",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-26T14:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-26T14:00:00-06:00"
+    },
+    {
       "id": "nola-show-59161",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12560,6 +12020,15 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-27T19:00:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-27T19:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61799",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Jazz Playhouse at the Royal Sonesta",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-27T19:30:00-06:00",
+      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-27T19:30:00-06:00"
     },
     {
       "id": "nola-show-59218",
@@ -12715,6 +12184,15 @@
       "description": "Venue: Cafe Negril | Starts: 2026-12-29T19:00:00-06:00"
     },
     {
+      "id": "nola-show-61800",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "The Jazz Playhouse at the Royal Sonesta",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-29T19:30:00-06:00",
+      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-29T19:30:00-06:00"
+    },
+    {
       "id": "nola-show-61616",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12751,6 +12229,29 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-30T12:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4544322",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-12-30T16:30:00.000-08:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544322",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-30T16:30:00.000-08:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 14:37:20 -0700"
+    },
+    {
+      "id": "nola-show-61777",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-30T18:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-30T18:00:00-06:00"
+    },
+    {
       "id": "nola-show-59733",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -12767,20 +12268,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-30T18:30:00-06:00",
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-30T18:30:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4544322",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-12-30T19:30:00.000-05:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544322",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-30T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 17:37:20 -0400"
     },
     {
       "id": "nola-show-59306",
@@ -12844,20 +12331,11 @@
       "description": "Venue: Bacchanal | Starts: 2026-12-31T12:00:00-06:00"
     },
     {
-      "id": "nola-show-61615",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "30/90",
-      "event_url": "https://nola.show/",
-      "start": "2026-12-31T16:00:00-06:00",
-      "description": "Venue: 30/90 | Starts: 2026-12-31T16:00:00-06:00"
-    },
-    {
       "id": "offbeat-event-4708607",
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-12-31T18:00:00.000-05:00",
+      "start": "2026-12-31T15:00:00.000-08:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -12865,8 +12343,17 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708607",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-31T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
+      "description": "Venue: Poor Boys\nStarts: 2026-12-31T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 08:55:14 -0700"
+    },
+    {
+      "id": "nola-show-61615",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "30/90",
+      "event_url": "https://nola.show/",
+      "start": "2026-12-31T16:00:00-06:00",
+      "description": "Venue: 30/90 | Starts: 2026-12-31T16:00:00-06:00"
     },
     {
       "id": "offbeat-event-4897920",
@@ -13280,7 +12767,7 @@
       "source": "offbeat",
       "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
       "venue": "The Howlin' Wolf",
-      "start": "2027-01-07T15:00:00.000-08:00",
+      "start": "2027-01-07T18:00:00.000-05:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -13288,8 +12775,8 @@
       "moreinfo": "",
       "ticket_url": "www.thehowlinwolf.com",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4897919",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2027-01-07T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 14:36:54 -0700"
+      "description": "Venue: The Howlin' Wolf\nStarts: 2027-01-07T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 17:36:54 -0400"
     },
     {
       "id": "nola-show-54574",
@@ -13452,6 +12939,15 @@
       "event_url": "https://nola.show/",
       "start": "2027-01-09T21:00:00-06:00",
       "description": "Venue: The Howlin' Wolf | Starts: 2027-01-09T21:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61786",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Twelve Mile Limit",
+      "event_url": "https://nola.show/",
+      "start": "2027-01-09T21:00:00-06:00",
+      "description": "Venue: Twelve Mile Limit | Starts: 2027-01-09T21:00:00-06:00"
     },
     {
       "id": "nola-show-59156",
@@ -14705,6 +14201,15 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-02-12T19:00:00-06:00"
     },
     {
+      "id": "nola-show-61792",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Bacchanal",
+      "event_url": "https://nola.show/",
+      "start": "2027-02-12T19:00:00-06:00",
+      "description": "Venue: Bacchanal | Starts: 2027-02-12T19:00:00-06:00"
+    },
+    {
       "id": "nola-show-61732",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -14766,6 +14271,24 @@
       "event_url": "https://nola.show/",
       "start": "2027-02-13T20:00:00-06:00",
       "description": "Venue: Saenger Theater | Starts: 2027-02-13T20:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61802",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Ohm Lounge",
+      "event_url": "https://nola.show/",
+      "start": "2027-02-13T22:00:00-06:00",
+      "description": "Venue: Ohm Lounge | Starts: 2027-02-13T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61796",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Hide/Seek",
+      "event_url": "https://nola.show/",
+      "start": "2027-02-13T22:00:00-06:00",
+      "description": "Venue: Hide/Seek | Starts: 2027-02-13T22:00:00-06:00"
     },
     {
       "id": "nola-show-58789",
@@ -16046,6 +15569,15 @@
       "description": "Venue: d.b.a. | Starts: 2027-04-30T02:00:00-05:00"
     },
     {
+      "id": "nola-show-61789",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Allways Lounge & Cabaret",
+      "event_url": "https://nola.show/",
+      "start": "2027-04-30T20:00:00-05:00",
+      "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-04-30T20:00:00-05:00"
+    },
+    {
       "id": "nola-show-59190",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -16071,6 +15603,15 @@
       "event_url": "https://nola.show/",
       "start": "2027-04-30T22:00:00-05:00",
       "description": "Venue: d.b.a. | Starts: 2027-04-30T22:00:00-05:00"
+    },
+    {
+      "id": "nola-show-61791",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Allways Lounge & Cabaret",
+      "event_url": "https://nola.show/",
+      "start": "2027-05-01T18:00:00-05:00",
+      "description": "Venue: Allways Lounge & Cabaret | Starts: 2027-05-01T18:00:00-05:00"
     },
     {
       "id": "nola-show-61350",
