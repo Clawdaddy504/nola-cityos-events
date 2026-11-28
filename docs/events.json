@@ -1,6 +1,6 @@
 {
-  "count": 1529,
-  "generated_at": "2026-11-27T23:44:34.882471+00:00",
+  "count": 1513,
+  "generated_at": "2026-11-28T08:28:29.631641+00:00",
   "source_health": [
     {
       "source": "https://clawdaddy504.github.io/wwoz-livewire-rss/events.json",
@@ -10,177 +10,15 @@
     {
       "source": "https://clawdaddy504.github.io/offbeat-calendar-rss/events.json",
       "status": "ok",
-      "count": 33
+      "count": 32
     },
     {
       "source": "https://nola.show/events.json",
       "status": "ok",
-      "count": 1398
+      "count": 1383
     }
   ],
   "events": [
-    {
-      "id": "nola-show-55872",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bacchanal",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T12:00:00-06:00",
-      "description": "Venue: Bacchanal | Starts: 2026-11-26T12:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61473",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Cafe Negril",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T16:00:00-06:00",
-      "description": "Venue: Cafe Negril | Starts: 2026-11-26T16:00:00-06:00"
-    },
-    {
-      "id": "nola-show-59487",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Preservation Hall",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T17:00:00-06:00",
-      "description": "Venue: Preservation Hall | Starts: 2026-11-26T17:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61087",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Carousel Bar at the Hotel Monteleone",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T17:30:00-06:00",
-      "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-26T17:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61036",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Spotted Cat Music Club",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T18:00:00-06:00",
-      "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-26T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-60712",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Apple Barrel",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T18:00:00-06:00",
-      "description": "Venue: Apple Barrel | Starts: 2026-11-26T18:00:00-06:00"
-    },
-    {
-      "id": "nola-show-55737",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Three Maries Jazz Club @ Omni Royal Orleans",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T19:00:00-06:00",
-      "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-11-26T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61163",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Salon Salon",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T19:00:00-06:00",
-      "description": "Venue: Salon Salon | Starts: 2026-11-26T19:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61679",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Jazz Playhouse at the Royal Sonesta",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T19:30:00-06:00",
-      "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-26T19:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61115",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hi-Ho Lounge",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:00:00-06:00",
-      "description": "Venue: Hi-Ho Lounge | Starts: 2026-11-26T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61532",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Bourbon O Bar",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:00:00-06:00",
-      "description": "Venue: Bourbon O Bar | Starts: 2026-11-26T20:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61437",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Three Muses",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:30:00-06:00",
-      "description": "Venue: Three Muses | Starts: 2026-11-26T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61734",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Maison",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:30:00-06:00",
-      "description": "Venue: Maison | Starts: 2026-11-26T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-61275",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Dos Jefes",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:30:00-06:00",
-      "description": "Venue: Dos Jefes | Starts: 2026-11-26T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-59024",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "May Baily's Place @ Dauphine Orleans Hotel",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T20:30:00-06:00",
-      "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-11-26T20:30:00-06:00"
-    },
-    {
-      "id": "nola-show-62695",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "The Rabbit Hole",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T21:00:00-06:00",
-      "description": "Venue: The Rabbit Hole | Starts: 2026-11-26T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-58991",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Twelve Mile Limit",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T21:00:00-06:00",
-      "description": "Venue: Twelve Mile Limit | Starts: 2026-11-26T21:00:00-06:00"
-    },
-    {
-      "id": "nola-show-61750",
-      "source": "nola_show",
-      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
-      "venue": "Hide/Seek",
-      "event_url": "https://nola.show/",
-      "start": "2026-11-26T21:00:00-06:00",
-      "description": "Venue: Hide/Seek | Starts: 2026-11-26T21:00:00-06:00"
-    },
     {
       "id": "nola-show-61428",
       "source": "nola_show",
@@ -189,6 +27,24 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-26T22:00:00-06:00",
       "description": "Venue: Saturn Bar | Starts: 2026-11-26T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-60713",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Apple Barrel",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-26T22:00:00-06:00",
+      "description": "Venue: Apple Barrel | Starts: 2026-11-26T22:00:00-06:00"
+    },
+    {
+      "id": "nola-show-61301",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "Cafe Negril",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-26T22:00:00-06:00",
+      "description": "Venue: Cafe Negril | Starts: 2026-11-26T22:00:00-06:00"
     },
     {
       "id": "nola-show-57471",
@@ -209,30 +65,6 @@
       "description": "Venue: Blue Nile | Starts: 2026-11-26T23:00:00-06:00"
     },
     {
-      "id": "e3135f38e30d08ce9bcca7cecbcf32c90423efbc",
-      "source": "wwoz",
-      "title": "The New Orleans Rug Cutters",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1411336",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00am",
-      "start": "2026-11-27T11:00:00+00:00",
-      "description": "Venue: Bamboula's | Date: Friday, November 27 | Time: 11:00am"
-    },
-    {
-      "id": "cc2b3405d9ca70e79cbe518ad5cb2e69f60a8761",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1415246",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00am",
-      "start": "2026-11-27T11:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 11:00am"
-    },
-    {
       "id": "nola-show-60891",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -240,18 +72,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T11:00:00-06:00",
       "description": "Venue: Bamboula's | Starts: 2026-11-27T11:00:00-06:00"
-    },
-    {
-      "id": "6b3073b40eb84c87564c8e12f93316cd917c9ae8",
-      "source": "wwoz",
-      "title": "Willie Mae\u2019s Black Friday Classic Block Party ft. Brass-A-Holics + More!",
-      "venue": "Baronne Street (OUTDOORS), 800 Block",
-      "venue_url": "https://www.wwoz.org/organizations/baronne-street-outdoors-800-block",
-      "event_url": "https://www.wwoz.org/events/1414881",
-      "date_text": "Friday, November 27",
-      "time_text": "12:00pm",
-      "start": "2026-11-27T12:00:00+00:00",
-      "description": "Venue: Baronne Street (OUTDOORS), 800 Block | Date: Friday, November 27 | Time: 12:00pm"
     },
     {
       "id": "nola-show-49788",
@@ -263,18 +83,6 @@
       "description": "Venue: Superdome | Starts: 2026-11-27T12:00:00-06:00"
     },
     {
-      "id": "9492e0ea1019148a7ec9cd7ab7681fd5c8e2100b",
-      "source": "wwoz",
-      "title": "Royal Caravan Brass Band",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1413071",
-      "date_text": "Friday, November 27",
-      "time_text": "12:30pm",
-      "start": "2026-11-27T12:30:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 12:30pm"
-    },
-    {
       "id": "nola-show-61089",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -284,42 +92,6 @@
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-27T12:30:00-06:00"
     },
     {
-      "id": "f5abcdf5276c8ed751dfdcd47bf5d2e155d1790f",
-      "source": "wwoz",
-      "title": "David Sigler",
-      "venue": "Bacchanal (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
-      "event_url": "https://www.wwoz.org/events/1403511",
-      "date_text": "Friday, November 27",
-      "time_text": "1:00pm",
-      "start": "2026-11-27T13:00:00+00:00",
-      "description": "Venue: Bacchanal (OUTDOORS) | Date: Friday, November 27 | Time: 1:00pm"
-    },
-    {
-      "id": "5b2955f127ed3667f674e598af59e9513e5a28b3",
-      "source": "wwoz",
-      "title": "Richard \"Piano\" Scott",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1405656",
-      "date_text": "Friday, November 27",
-      "time_text": "1:00pm",
-      "start": "2026-11-27T13:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 1:00pm"
-    },
-    {
-      "id": "49e365cbe222c9ae112c843f40ef2f40c6b391c3",
-      "source": "wwoz",
-      "title": "Victoria Amato & Jim Lockwood",
-      "venue": "Pat O'Brien's",
-      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
-      "event_url": "https://www.wwoz.org/events/1410746",
-      "date_text": "Friday, November 27",
-      "time_text": "1:00pm",
-      "start": "2026-11-27T13:00:00+00:00",
-      "description": "Venue: Pat O'Brien's | Date: Friday, November 27 | Time: 1:00pm"
-    },
-    {
       "id": "nola-show-59248",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -327,42 +99,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T13:00:00-06:00",
       "description": "Venue: Bacchanal | Starts: 2026-11-27T13:00:00-06:00"
-    },
-    {
-      "id": "8accf2808dcb4bdb6bde7eebbeef7cbc759711a6",
-      "source": "wwoz",
-      "title": "The Red Clovers",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1412626",
-      "date_text": "Friday, November 27",
-      "time_text": "2:00pm",
-      "start": "2026-11-27T14:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Friday, November 27 | Time: 2:00pm"
-    },
-    {
-      "id": "b9a5f30e55fe2488b254480f636f04d2248825a7",
-      "source": "wwoz",
-      "title": "Paradise Jazz Band",
-      "venue": "Spotted Cat",
-      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
-      "event_url": "https://www.wwoz.org/events/1409391",
-      "date_text": "Friday, November 27",
-      "time_text": "2:00pm",
-      "start": "2026-11-27T14:00:00+00:00",
-      "description": "Venue: Spotted Cat | Date: Friday, November 27 | Time: 2:00pm"
-    },
-    {
-      "id": "0cc3590aed7f0ae15a9bf2dc49dbc9caec7e7fa4",
-      "source": "wwoz",
-      "title": "Steamboat Stompers",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1415286",
-      "date_text": "Friday, November 27",
-      "time_text": "2:00pm",
-      "start": "2026-11-27T14:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 2:00pm"
     },
     {
       "id": "nola-show-61575",
@@ -383,18 +119,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-11-27T14:00:00-06:00"
     },
     {
-      "id": "bc677f25b3e191fc15ca99c4fca4ba2f46c0d5c8",
-      "source": "wwoz",
-      "title": "Blackdog",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1411186",
-      "date_text": "Friday, November 27",
-      "time_text": "2:30pm",
-      "start": "2026-11-27T14:30:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Friday, November 27 | Time: 2:30pm"
-    },
-    {
       "id": "nola-show-60400",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -402,54 +126,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T14:30:00-06:00",
       "description": "Venue: Cafe Negril | Starts: 2026-11-27T14:30:00-06:00"
-    },
-    {
-      "id": "512cd6085a5d6521ac4322ea0929bfdf28f735e0",
-      "source": "wwoz",
-      "title": "Sam Friend Band",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1405836",
-      "date_text": "Friday, November 27",
-      "time_text": "3:00pm",
-      "start": "2026-11-27T15:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 3:00pm"
-    },
-    {
-      "id": "681784005909247e3fe3bacc35bc0e6c92f56319",
-      "source": "wwoz",
-      "title": "Kid Chocolate & the Free P.O.C Trio",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1405351",
-      "date_text": "Friday, November 27",
-      "time_text": "3:00pm",
-      "start": "2026-11-27T15:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 3:00pm"
-    },
-    {
-      "id": "ce74bfd8e14e809d28760f4f5d7ba120b62661b6",
-      "source": "wwoz",
-      "title": "Eight Dice Cloth",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1411886",
-      "date_text": "Friday, November 27",
-      "time_text": "3:00pm",
-      "start": "2026-11-27T15:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Friday, November 27 | Time: 3:00pm"
-    },
-    {
-      "id": "192bc5bf5e9c07a6488dbe3931f81bf8ce06becb",
-      "source": "wwoz",
-      "title": "Zo\u00eb de Priester Duo",
-      "venue": "New Orleans Jazz National Historical Park",
-      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
-      "event_url": "https://www.wwoz.org/events/1406246",
-      "date_text": "Friday, November 27",
-      "time_text": "3:00pm",
-      "start": "2026-11-27T15:00:00+00:00",
-      "description": "Venue: New Orleans Jazz National Historical Park | Date: Friday, November 27 | Time: 3:00pm"
     },
     {
       "id": "nola-show-61748",
@@ -479,54 +155,6 @@
       "description": "Venue: New Orleans Jazz National Historic Park | Starts: 2026-11-27T15:00:00-06:00"
     },
     {
-      "id": "8946171de83e74302d28aa1b1bee93153881ae11",
-      "source": "wwoz",
-      "title": "Honest Man Happy Hour with Domenic Fusca",
-      "venue": "Banks Street Bar",
-      "venue_url": "https://www.wwoz.org/organizations/banks-street-bar",
-      "event_url": "https://www.wwoz.org/events/1415031",
-      "date_text": "Friday, November 27",
-      "time_text": "4:00pm",
-      "start": "2026-11-27T16:00:00+00:00",
-      "description": "Venue: Banks Street Bar | Date: Friday, November 27 | Time: 4:00pm"
-    },
-    {
-      "id": "2af5f3b30e8741e8268c41210bd87d4e8c4f916e",
-      "source": "wwoz",
-      "title": "April Spain",
-      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
-      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
-      "event_url": "https://www.wwoz.org/events/1413916",
-      "date_text": "Friday, November 27",
-      "time_text": "4:00pm",
-      "start": "2026-11-27T16:00:00+00:00",
-      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, November 27 | Time: 4:00pm"
-    },
-    {
-      "id": "6e8e7d8eb69cc15fa470b616a4a88b1d8606f7f9",
-      "source": "wwoz",
-      "title": "Richard Scott Trio",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1413086",
-      "date_text": "Friday, November 27",
-      "time_text": "4:00pm",
-      "start": "2026-11-27T16:00:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 4:00pm"
-    },
-    {
-      "id": "b80d2872e48e34e767aaf50022b25f44e940b0b9",
-      "source": "wwoz",
-      "title": "Jass Hysteria",
-      "venue": "Favela Chic",
-      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
-      "event_url": "https://www.wwoz.org/events/1406956",
-      "date_text": "Friday, November 27",
-      "time_text": "4:00pm",
-      "start": "2026-11-27T16:00:00+00:00",
-      "description": "Venue: Favela Chic | Date: Friday, November 27 | Time: 4:00pm"
-    },
-    {
       "id": "nola-show-61533",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -536,66 +164,6 @@
       "description": "Venue: Bourbon O Bar | Starts: 2026-11-27T16:00:00-06:00"
     },
     {
-      "id": "1a41a52c9496e250059b12cac81af9529a645613",
-      "source": "wwoz",
-      "title": "KreweDeBauchery",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1412631",
-      "date_text": "Friday, November 27",
-      "time_text": "5:00pm",
-      "start": "2026-11-27T17:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Friday, November 27 | Time: 5:00pm"
-    },
-    {
-      "id": "a4e8756189cd47350409a85a15645e1d370ccc0e",
-      "source": "wwoz",
-      "title": "Redline",
-      "venue": "Blue Crab Restaurant & Oyster Bar, The",
-      "venue_url": "https://www.wwoz.org/organizations/blue-crab-restaurant-oyster-bar",
-      "event_url": "https://www.wwoz.org/events/1413241",
-      "date_text": "Friday, November 27",
-      "time_text": "5:00pm",
-      "start": "2026-11-27T17:00:00+00:00",
-      "description": "Venue: Blue Crab Restaurant & Oyster Bar, The | Date: Friday, November 27 | Time: 5:00pm"
-    },
-    {
-      "id": "9a61a7e01885763d001d28b0f5589bc7aa187b8f",
-      "source": "wwoz",
-      "title": "Shotgun Jazz Band",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1411916",
-      "date_text": "Friday, November 27",
-      "time_text": "5:00pm",
-      "start": "2026-11-27T17:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Friday, November 27 | Time: 5:00pm"
-    },
-    {
-      "id": "b9512a962c0e5d6b2cae8f6029896d2f0c598b9d",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Mark Braud",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1404191",
-      "date_text": "Friday, November 27",
-      "time_text": "5:00pm",
-      "start": "2026-11-27T17:00:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Friday, November 27 | Time: 5:00pm"
-    },
-    {
-      "id": "e4dd372d1caba903170a9706c2f5a1b7d65bd045",
-      "source": "wwoz",
-      "title": "Bayou Manouche",
-      "venue": "Seawitch Restaurant & Oyster Bar (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/seawitch-restaurant-oyster-bar-outdoors",
-      "event_url": "https://www.wwoz.org/events/1407096",
-      "date_text": "Friday, November 27",
-      "time_text": "5:00pm",
-      "start": "2026-11-27T17:00:00+00:00",
-      "description": "Venue: Seawitch Restaurant & Oyster Bar (OUTDOORS) | Date: Friday, November 27 | Time: 5:00pm"
-    },
-    {
       "id": "nola-show-59491",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -603,138 +171,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T17:00:00-06:00",
       "description": "Venue: Preservation Hall | Starts: 2026-11-27T17:00:00-06:00"
-    },
-    {
-      "id": "2cd21a777416fdc2254875cdee6f925a312a7c48",
-      "source": "wwoz",
-      "title": "Mojo Jazz Trio",
-      "venue": "Louie's Roadhouse at Creole Gardens",
-      "venue_url": "https://www.wwoz.org/organizations/louies-roadhouse-creole-gardens",
-      "event_url": "https://www.wwoz.org/events/1414936",
-      "date_text": "Friday, November 27",
-      "time_text": "5:30pm",
-      "start": "2026-11-27T17:30:00+00:00",
-      "description": "Venue: Louie's Roadhouse at Creole Gardens | Date: Friday, November 27 | Time: 5:30pm"
-    },
-    {
-      "id": "3be8274bcb1b1dec2a092cf9eb3f9d995a6a12c8",
-      "source": "wwoz",
-      "title": "Danny Ray & the Electric Barrelhouse",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1411746",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: BMC | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "dc61cb30d439706857358488b57e4e1cfc200bdf",
-      "source": "wwoz",
-      "title": "Jamey St. Pierre & The Honeycreepers",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1411091",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "a61f35153a31b9bb6e532b9aa0f02838ebe31eed",
-      "source": "wwoz",
-      "title": "The Ricky Knight Jazz Quartet",
-      "venue": "Crescent City Brewhouse",
-      "venue_url": "https://www.wwoz.org/organizations/crescent-city-brewhouse",
-      "event_url": "https://www.wwoz.org/events/1408571",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Crescent City Brewhouse | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "103f2c3e086e5559a109017957343a665ae7a951",
-      "source": "wwoz",
-      "title": "Michael Watson & the Alchemy",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1409121",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: d.b.a. | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "7fb659cd4afa7bd9c05f20929bfd055a7a51a6d4",
-      "source": "wwoz",
-      "title": "Sazarac Jazz Band",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1405841",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "bef35d32e727b75905c39addfe34b79c8ad5eeb8",
-      "source": "wwoz",
-      "title": "Raphael Bas",
-      "venue": "Lobby Lounge at JW Marriott",
-      "venue_url": "https://www.wwoz.org/organizations/lobby-lounge-jw-marriott",
-      "event_url": "https://www.wwoz.org/events/1361861",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Lobby Lounge at JW Marriott | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "3fbe5ebfcb1edcd658f0fa8146df2667b74d1269",
-      "source": "wwoz",
-      "title": "Lisa Bittick-Lowe, Matt Hayden & Ben Michaels",
-      "venue": "Pat O'Brien's",
-      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
-      "event_url": "https://www.wwoz.org/events/1410751",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Pat O'Brien's | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "81e0157d9cadfe79dca4b6f01831505c0faf1307",
-      "source": "wwoz",
-      "title": "The Living Room: A Songwriter Showcase ft. Paul Faith",
-      "venue": "Skeeta Hawk Brewing",
-      "venue_url": "https://www.wwoz.org/organizations/skeeta-hawk-brewing",
-      "event_url": "https://www.wwoz.org/events/1402681",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Skeeta Hawk Brewing | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "c3a02096e77ba91af270578f4d7581dc62bbb185",
-      "source": "wwoz",
-      "title": "New Orleans Cottonmouth Kings",
-      "venue": "Spotted Cat",
-      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
-      "event_url": "https://www.wwoz.org/events/1409396",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Spotted Cat | Date: Friday, November 27 | Time: 6:00pm"
-    },
-    {
-      "id": "5959920f24074e0251e60d2f2bb6aac90bdacfdd",
-      "source": "wwoz",
-      "title": "Dukes of Dixieland",
-      "venue": "Steamboat Natchez",
-      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
-      "event_url": "https://www.wwoz.org/events/1415321",
-      "date_text": "Friday, November 27",
-      "time_text": "6:00pm",
-      "start": "2026-11-27T18:00:00+00:00",
-      "description": "Venue: Steamboat Natchez | Date: Friday, November 27 | Time: 6:00pm"
     },
     {
       "id": "nola-show-54503",
@@ -771,138 +207,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T18:00:00-06:00",
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-11-27T18:00:00-06:00"
-    },
-    {
-      "id": "e65e188ef056ffaaac29ea3302dbcce4d47d7103",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Mark Braud",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1404196",
-      "date_text": "Friday, November 27",
-      "time_text": "6:15pm",
-      "start": "2026-11-27T18:15:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Friday, November 27 | Time: 6:15pm"
-    },
-    {
-      "id": "038b489a294f66e0083f43dd718c0ff7be3ccbaa",
-      "source": "wwoz",
-      "title": "Les Getrex",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1405991",
-      "date_text": "Friday, November 27",
-      "time_text": "6:30pm",
-      "start": "2026-11-27T18:30:00+00:00",
-      "description": "Venue: Bamboula's | Date: Friday, November 27 | Time: 6:30pm"
-    },
-    {
-      "id": "8e2e2ad87f22f8037b247ba70563e63c5a3ab524",
-      "source": "wwoz",
-      "title": "Free Agents Brass Band",
-      "venue": "Blue Crawfish, The",
-      "venue_url": "https://www.wwoz.org/organizations/blue-crawfish",
-      "event_url": "https://www.wwoz.org/events/1388531",
-      "date_text": "Friday, November 27",
-      "time_text": "6:30pm",
-      "start": "2026-11-27T18:30:00+00:00",
-      "description": "Venue: Blue Crawfish, The | Date: Friday, November 27 | Time: 6:30pm"
-    },
-    {
-      "id": "66c63b8ac8f8a05b27e13c185216186902f109b2",
-      "source": "wwoz",
-      "title": "Willie Green III",
-      "venue": "Bacchanal (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
-      "event_url": "https://www.wwoz.org/events/1403546",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Bacchanal (OUTDOORS) | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "7ecb95f8a7a6a954ef33f907b6efdb6857584ae9",
-      "source": "wwoz",
-      "title": "J.A.M. Brass Band",
-      "venue": "Favela Chic",
-      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
-      "event_url": "https://www.wwoz.org/events/1408856",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Favela Chic | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "880b4d2051494b75910beec2493057c4142d3e14",
-      "source": "wwoz",
-      "title": "Neighborhood Indigo Watch Party with Bugga, Xhriiisplain & More!",
-      "venue": "Hi Ho Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/hi-ho-lounge",
-      "event_url": "https://www.wwoz.org/events/1410541",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Hi Ho Lounge | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "c6421ebc718b3d049cf5c55c8c88e4cac0dd9c55",
-      "source": "wwoz",
-      "title": "Leroy Jones & Paul Longstreth",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1405216",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "aa8ef02552fbc11114111eec9345f41ee92f71ba",
-      "source": "wwoz",
-      "title": "Jai Alai Reunion & Re-Release Party with Hogtown Creek Bluegrass Band",
-      "venue": "NOLA 'Nacular Art Gallery",
-      "venue_url": "https://www.wwoz.org/organizations/nola-nacular-art-gallery",
-      "event_url": "https://www.wwoz.org/events/1402306",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: NOLA 'Nacular Art Gallery | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "c065387d849069a20fa42ecd554bd378c418e79e",
-      "source": "wwoz",
-      "title": "Mullitt",
-      "venue": "NOLA Brewing",
-      "venue_url": "https://www.wwoz.org/organizations/nola-brewing",
-      "event_url": "https://www.wwoz.org/events/1410586",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: NOLA Brewing | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "142d3aa64b627d805e8b56d183202ab6acfcbc7e",
-      "source": "wwoz",
-      "title": "John Renshaw",
-      "venue": "Pirogue's Whiskey Bayou (OUTDOORS)",
-      "venue_url": "https://www.wwoz.org/organizations/pirogues-whiskey-bayou-outdoors",
-      "event_url": "https://www.wwoz.org/events/1391251",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Pirogue's Whiskey Bayou (OUTDOORS) | Date: Friday, November 27 | Time: 7:00pm"
-    },
-    {
-      "id": "8dd781ec4c55dc13e35a9b35049f15b798269004",
-      "source": "wwoz",
-      "title": "Oscar Rossignoli Record Release Party",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1410176",
-      "date_text": "Friday, November 27",
-      "time_text": "7:00pm",
-      "start": "2026-11-27T19:00:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Friday, November 27 | Time: 7:00pm"
     },
     {
       "id": "nola-show-51740",
@@ -950,30 +254,6 @@
       "description": "Venue: Nola 'Nacular | Starts: 2026-11-27T19:00:00-06:00"
     },
     {
-      "id": "33f2d93c68ff7c34f08bab7ab6ad3f515b5f8b82",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Mark Braud",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1404201",
-      "date_text": "Friday, November 27",
-      "time_text": "7:30pm",
-      "start": "2026-11-27T19:30:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Friday, November 27 | Time: 7:30pm"
-    },
-    {
-      "id": "497f05b83d8812ad5888dfe38d8813088bc543f5",
-      "source": "wwoz",
-      "title": "Bad Penny Pleasuremakers",
-      "venue": "Three Muses",
-      "venue_url": "https://www.wwoz.org/organizations/three-muses",
-      "event_url": "https://www.wwoz.org/events/1412446",
-      "date_text": "Friday, November 27",
-      "time_text": "7:30pm",
-      "start": "2026-11-27T19:30:00+00:00",
-      "description": "Venue: Three Muses | Date: Friday, November 27 | Time: 7:30pm"
-    },
-    {
       "id": "nola-show-61436",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -981,150 +261,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T19:30:00-06:00",
       "description": "Venue: Three Muses | Starts: 2026-11-27T19:30:00-06:00"
-    },
-    {
-      "id": "b60217097ad87f1332ed4f0d6b0102dc10ad477d",
-      "source": "wwoz",
-      "title": "OTRA",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1399776",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "c3aa3797f3b597c3bcad7b105a779fdcb153f9cc",
-      "source": "wwoz",
-      "title": "Bayou Blues Burlesque ft. Live Music by The Delta Revues",
-      "venue": "AllWays Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1415016",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: AllWays Lounge | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "4bd7bbe01a6bdb4400b9395ea03c5123619a7945",
-      "source": "wwoz",
-      "title": "The New Orleans High Society (Live Jazz & Burlesque)",
-      "venue": "AllWays Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1415011",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: AllWays Lounge | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "8f728273e5e2815b74b2eb6bd2fb90348e8001de",
-      "source": "wwoz",
-      "title": "Psydonia + Closur + All In The Family",
-      "venue": "Banks Street Bar",
-      "venue_url": "https://www.wwoz.org/organizations/banks-street-bar",
-      "event_url": "https://www.wwoz.org/events/1415041",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Banks Street Bar | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "0d0323f9d7d127b0a4f6e8946d743408ec2f0dda",
-      "source": "wwoz",
-      "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson, Joe Ashlar & Gerald Watkins",
-      "venue": "Bayou Bar at the Pontchartrain",
-      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
-      "event_url": "https://www.wwoz.org/events/1407281",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "4866b89df97c0239f9ebdcb9a337ec3bef2f83da",
-      "source": "wwoz",
-      "title": "Kid Merv",
-      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
-      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
-      "event_url": "https://www.wwoz.org/events/1413921",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "96272a67c22fb8f936ba57507434654ebdbb5f34",
-      "source": "wwoz",
-      "title": "Washboard Chaz",
-      "venue": "Buffa's",
-      "venue_url": "https://www.wwoz.org/organizations/buffas",
-      "event_url": "https://www.wwoz.org/events/1407971",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Buffa's | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "214b9194f16dc9cfe7444250ac8b712a5d1b24c6",
-      "source": "wwoz",
-      "title": "Jeremy Davenport",
-      "venue": "Davenport Lounge at The Ritz-Carlton",
-      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
-      "event_url": "https://www.wwoz.org/events/1410366",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "c5eda149253f4d2fed6d5d7b636e35845d072ced",
-      "source": "wwoz",
-      "title": "Rik Slave\u2019s DarkLounge Ministries",
-      "venue": "Holy Diver",
-      "venue_url": "https://www.wwoz.org/organizations/holy-diver",
-      "event_url": "https://www.wwoz.org/events/1411541",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Holy Diver | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "b96f52677bf7bfb68e09f3c358d692a72c46f670",
-      "source": "wwoz",
-      "title": "Trixie Minx\u2019s Burlesque Ballroom ft. Romy Kaye & the Mercy Buckets",
-      "venue": "Jazz Playhouse",
-      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
-      "event_url": "https://www.wwoz.org/events/1413531",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Jazz Playhouse | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "52904288761def57fd6c2bcd631246976a711257",
-      "source": "wwoz",
-      "title": "Bra's Band Brass Band",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1411891",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Friday, November 27 | Time: 8:00pm"
-    },
-    {
-      "id": "13e9e854f61ba5621c2dceedbcdeb3969320555c",
-      "source": "wwoz",
-      "title": "PJ Morton: Annual Black Friday Show",
-      "venue": "Orpheum Theater",
-      "venue_url": "https://www.wwoz.org/organizations/orpheum-theater",
-      "event_url": "https://www.wwoz.org/events/1357606",
-      "date_text": "Friday, November 27",
-      "time_text": "8:00pm",
-      "start": "2026-11-27T20:00:00+00:00",
-      "description": "Venue: Orpheum Theater | Date: Friday, November 27 | Time: 8:00pm"
     },
     {
       "id": "nola-show-49796",
@@ -1208,42 +344,6 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-27T20:00:00-06:00"
     },
     {
-      "id": "15efa01f1ecad09941e1956cf48a51bbe795e335",
-      "source": "wwoz",
-      "title": "The Leroy Marshall Band",
-      "venue": "Maison Bourbon Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1400541",
-      "date_text": "Friday, November 27",
-      "time_text": "8:15pm",
-      "start": "2026-11-27T20:15:00+00:00",
-      "description": "Venue: Maison Bourbon Jazz Club | Date: Friday, November 27 | Time: 8:15pm"
-    },
-    {
-      "id": "ef98438499e32a6d8e350ddcf30a6f69848f46bb",
-      "source": "wwoz",
-      "title": "Silver Lining Serenaders",
-      "venue": "May Baily's Place",
-      "venue_url": "https://www.wwoz.org/organizations/may-bailys-place",
-      "event_url": "https://www.wwoz.org/events/1408741",
-      "date_text": "Friday, November 27",
-      "time_text": "8:30pm",
-      "start": "2026-11-27T20:30:00+00:00",
-      "description": "Venue: May Baily's Place | Date: Friday, November 27 | Time: 8:30pm"
-    },
-    {
-      "id": "d6965e5504895e5768f9bf9d67e207b9e44830e9",
-      "source": "wwoz",
-      "title": "Bucktown Allstars",
-      "venue": "Mid-City Lanes Rock 'n' Bowl",
-      "venue_url": "https://www.wwoz.org/organizations/mid-city-lanes-rock-n-bowl",
-      "event_url": "https://www.wwoz.org/events/1402541",
-      "date_text": "Friday, November 27",
-      "time_text": "8:30pm",
-      "start": "2026-11-27T20:30:00+00:00",
-      "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Friday, November 27 | Time: 8:30pm"
-    },
-    {
       "id": "nola-show-54448",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1260,234 +360,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-27T20:30:00-06:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-11-27T20:30:00-06:00"
-    },
-    {
-      "id": "05f59386783b6313f5f78092fd794685aa1f0821",
-      "source": "wwoz",
-      "title": "Preservation All-Stars ft. Mark Braud",
-      "venue": "Preservation Hall",
-      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
-      "event_url": "https://www.wwoz.org/events/1404206",
-      "date_text": "Friday, November 27",
-      "time_text": "8:45pm",
-      "start": "2026-11-27T20:45:00+00:00",
-      "description": "Venue: Preservation Hall | Date: Friday, November 27 | Time: 8:45pm"
-    },
-    {
-      "id": "d09fbe1f4af3448d1c47cb7196e2a696701da795",
-      "source": "wwoz",
-      "title": "Hobo Gadget Junk Band",
-      "venue": "Bar Redux",
-      "venue_url": "https://www.wwoz.org/organizations/bar-redux",
-      "event_url": "https://www.wwoz.org/events/1414416",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Bar Redux | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "6bd6091b791331b2be7599483644d6a0043654f7",
-      "source": "wwoz",
-      "title": "Horace Trahan & the Ossun Express",
-      "venue": "BJ's Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
-      "event_url": "https://www.wwoz.org/events/1408321",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: BJ's Lounge | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "a747d7e12302145b8a9e53a9684a71fcf27a9ee6",
-      "source": "wwoz",
-      "title": "Keep it Rolling Brass Band",
-      "venue": "BMC",
-      "venue_url": "https://www.wwoz.org/organizations/bmc",
-      "event_url": "https://www.wwoz.org/events/1411751",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: BMC | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "545c2073e99a4b35df8402a5fe400f6233ae7932",
-      "source": "wwoz",
-      "title": "Big In The 90's",
-      "venue": "Broadside, The",
-      "venue_url": "https://www.wwoz.org/organizations/broadside",
-      "event_url": "https://www.wwoz.org/events/1406446",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Broadside, The | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "2a221e8c1cd0e421a873d14c5c0b9ee8841141fb",
-      "source": "wwoz",
-      "title": "Nayo Jones Experience",
-      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
-      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
-      "event_url": "https://www.wwoz.org/events/1413091",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "a8f22664cada6e528f13889de62d97ac29ce7dcc",
-      "source": "wwoz",
-      "title": "Kristin Diable + Cally Cole & The Cosmos",
-      "venue": "Chickie Wah Wah",
-      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
-      "event_url": "https://www.wwoz.org/events/1388766",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Chickie Wah Wah | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "5ebd5c7b343a22db585f530ad984d55819d83f32",
-      "source": "wwoz",
-      "title": "Ratchet Jazz: The Classic Edition ft. Shamarr Allen + More!",
-      "venue": "Dew Drop Inn Hotel & Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/dew-drop-inn-hotel-lounge",
-      "event_url": "https://www.wwoz.org/events/1415096",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Dew Drop Inn Hotel & Lounge | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "0eb634415e2e404188904927132693376296258f",
-      "source": "wwoz",
-      "title": "\u00a1Vivaz!",
-      "venue": "Dos Jefes",
-      "venue_url": "https://www.wwoz.org/organizations/dos-jefes",
-      "event_url": "https://www.wwoz.org/events/1406646",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Dos Jefes | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "6cdf221c2d620120524ed2acb7e1455f0dc32827",
-      "source": "wwoz",
-      "title": "Pell's Disco Party",
-      "venue": "Double Dealer at the Orpheum Theater",
-      "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
-      "event_url": "https://www.wwoz.org/events/1404656",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Double Dealer at the Orpheum Theater | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "9c68b94bd234e165ada718051832cdec213497a2",
-      "source": "wwoz",
-      "title": "Fritzel's All Star Band with Kevin Ray Clark",
-      "venue": "Fritzel's Jazz Club",
-      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
-      "event_url": "https://www.wwoz.org/events/1405756",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Fritzel's Jazz Club | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "594da69567626806fdc9078d57afa1a30aab2783",
-      "source": "wwoz",
-      "title": "Cortland Burke & His Close Company + Gal Holiday and the Honky Tonk Revue",
-      "venue": "Gasa Gasa",
-      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
-      "event_url": "https://www.wwoz.org/events/1409891",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Gasa Gasa | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "b62ba71e1e6500f1e55802105be5d11dc97db375",
-      "source": "wwoz",
-      "title": "Justin Garner",
-      "venue": "Good Measure at The Barnett",
-      "venue_url": "https://www.wwoz.org/organizations/good-measure-barnett",
-      "event_url": "https://www.wwoz.org/events/1402101",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Good Measure at The Barnett | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "0927b07fc6d8794cb04d02a2384cd34331b6e00f",
-      "source": "wwoz",
-      "title": "(FRIDAY SHOW) Turkey Jam ft. The New Orleans Suspects with George Porter Jr, River Eckert & More!",
-      "venue": "Maple Leaf",
-      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
-      "event_url": "https://www.wwoz.org/events/1414666",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Maple Leaf | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "211eb8fd2eeadfe63e5a5435c436b25f51d020a4",
-      "source": "wwoz",
-      "title": "Outta Nowhere",
-      "venue": "Old Point Bar",
-      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
-      "event_url": "https://www.wwoz.org/events/1407616",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Old Point Bar | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "e7cf805029e17f3e5826d7230ae0834044274477",
-      "source": "wwoz",
-      "title": "RAVE ft. Space Disco & Local Riffs",
-      "venue": "Santos Bar",
-      "venue_url": "https://www.wwoz.org/organizations/santos-bar",
-      "event_url": "https://www.wwoz.org/events/1411476",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Santos Bar | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "89dc1d4fa351c76416a9b2949b1eac7f1290e0c3",
-      "source": "wwoz",
-      "title": "Big Bill + Vinny's Mirror + Chalant",
-      "venue": "Siberia",
-      "venue_url": "https://www.wwoz.org/organizations/siberia",
-      "event_url": "https://www.wwoz.org/events/1391761",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Siberia | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "40ff565c45d5c01e42e2c41c3d1b75ac6556bcea",
-      "source": "wwoz",
-      "title": "Oscar Rossignoli Record Release Party",
-      "venue": "Snug Harbor",
-      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
-      "event_url": "https://www.wwoz.org/events/1410171",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Snug Harbor | Date: Friday, November 27 | Time: 9:00pm"
-    },
-    {
-      "id": "ebbdf593d4e6ba668cf25381a3cdaffc29d52ae0",
-      "source": "wwoz",
-      "title": "Love In The Club: 2000's Hip-Hop & R&B Dance Party ft. DJ New Era",
-      "venue": "Tipitina's",
-      "venue_url": "https://www.wwoz.org/organizations/tipitinas",
-      "event_url": "https://www.wwoz.org/events/1412926",
-      "date_text": "Friday, November 27",
-      "time_text": "9:00pm",
-      "start": "2026-11-27T21:00:00+00:00",
-      "description": "Venue: Tipitina's | Date: Friday, November 27 | Time: 9:00pm"
     },
     {
       "id": "nola-show-55152",
@@ -1607,138 +479,6 @@
       "description": "Venue: House of Blues Foundation Room | Starts: 2026-11-27T21:00:00-06:00"
     },
     {
-      "id": "087861c2a8a3362c5a1cffb3824c160dd2a56b69",
-      "source": "wwoz",
-      "title": "Trixie Minx\u2019s Burlesque Ballroom ft. Romy Kaye & the Mercy Buckets",
-      "venue": "Jazz Playhouse",
-      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
-      "event_url": "https://www.wwoz.org/events/1413566",
-      "date_text": "Friday, November 27",
-      "time_text": "9:30pm",
-      "start": "2026-11-27T21:30:00+00:00",
-      "description": "Venue: Jazz Playhouse | Date: Friday, November 27 | Time: 9:30pm"
-    },
-    {
-      "id": "cb339565079bd2111f390175d4f4638302e257bc",
-      "source": "wwoz",
-      "title": "Mahogany Hall Jazz Band ft. Mike Fulton with Midnight Burlesque",
-      "venue": "Mahogany Jazz Hall",
-      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
-      "event_url": "https://www.wwoz.org/events/1405326",
-      "date_text": "Friday, November 27",
-      "time_text": "9:30pm",
-      "start": "2026-11-27T21:30:00+00:00",
-      "description": "Venue: Mahogany Jazz Hall | Date: Friday, November 27 | Time: 9:30pm"
-    },
-    {
-      "id": "184d37cbe96fc4ea6507b8c9d256da3956a85a0f",
-      "source": "wwoz",
-      "title": "Caitie B.'s Funky Black Friday",
-      "venue": "Bamboula's",
-      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
-      "event_url": "https://www.wwoz.org/events/1415141",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Bamboula's | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "8dad31209f7c54777761dbca3a7364d289786f3b",
-      "source": "wwoz",
-      "title": "Oh Yeah! ft. Peter Harris, Ed Perkins, Wes \"Warmdaddy\" Anderson, Joe Ashlar & Gerald Watkins",
-      "venue": "Bayou Bar at the Pontchartrain",
-      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
-      "event_url": "https://www.wwoz.org/events/1407256",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "ae16c9dd19519e4f890c06b2b04f7829ba67ebd8",
-      "source": "wwoz",
-      "title": "Afrobeat NOLA",
-      "venue": "Blue Nile",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
-      "event_url": "https://www.wwoz.org/events/1408131",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Blue Nile | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "0b3caad008c002a420f5fd7f7574c505c3e79d97",
-      "source": "wwoz",
-      "title": "DJ WestBankRed",
-      "venue": "Blue Nile - Balcony Room",
-      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
-      "event_url": "https://www.wwoz.org/events/1408106",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Blue Nile - Balcony Room | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "44e4b450c4f632b8b4b7d4fb7651686c9a40cc57",
-      "source": "wwoz",
-      "title": "Higher Heights Reggae Band",
-      "venue": "Caf\u00e9 Negril",
-      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
-      "event_url": "https://www.wwoz.org/events/1411106",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Caf\u00e9 Negril | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "9ca5cf11016c0ab24804e4836f061cd2ee7f96c2",
-      "source": "wwoz",
-      "title": "Ado Soul & the Tribe",
-      "venue": "d.b.a.",
-      "venue_url": "https://www.wwoz.org/organizations/dba",
-      "event_url": "https://www.wwoz.org/events/1409116",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: d.b.a. | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "c5bf398e0bc2ef8ae316f9060b52355560d416b7",
-      "source": "wwoz",
-      "title": "Shorty & The Giants",
-      "venue": "Favela Chic",
-      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
-      "event_url": "https://www.wwoz.org/events/1408886",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Favela Chic | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "29e5c613dbc0e4dbb545195a66bf56b9325e5ac2",
-      "source": "wwoz",
-      "title": "James Hall (Solo)",
-      "venue": "Holy Diver",
-      "venue_url": "https://www.wwoz.org/organizations/holy-diver",
-      "event_url": "https://www.wwoz.org/events/1415846",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Holy Diver | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
-      "id": "5fafb0d1c48ac3e1e6bb6d7200d35ce9427336f0",
-      "source": "wwoz",
-      "title": "Ashton Hines & The Big Easy Brawlers",
-      "venue": "Spotted Cat",
-      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
-      "event_url": "https://www.wwoz.org/events/1409541",
-      "date_text": "Friday, November 27",
-      "time_text": "10:00pm",
-      "start": "2026-11-27T22:00:00+00:00",
-      "description": "Venue: Spotted Cat | Date: Friday, November 27 | Time: 10:00pm"
-    },
-    {
       "id": "nola-show-61738",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1793,76 +533,6 @@
       "description": "Venue: Hide/Seek | Starts: 2026-11-27T22:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922764",
-      "source": "offbeat",
-      "title": "AFROBEATS ON FRENCHMEN\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-27T22:00:00.000-06:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922764",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-27T22:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
-      "pubDate": "Fri, 30 Oct 2026 11:27:02 -0500"
-    },
-    {
-      "id": "71d1b0e1acd1f570e2d537cd38b37d05ce1c331d",
-      "source": "wwoz",
-      "title": "The Soulcial Club",
-      "venue": "30/90",
-      "venue_url": "https://www.wwoz.org/organizations/30-90",
-      "event_url": "https://www.wwoz.org/events/1412641",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00pm",
-      "start": "2026-11-27T23:00:00+00:00",
-      "description": "Venue: 30/90 | Date: Friday, November 27 | Time: 11:00pm"
-    },
-    {
-      "id": "4eac926a4c5d63fbca8a7b1117e1852acb9a40a1",
-      "source": "wwoz",
-      "title": "Le Vampyre Cabaret presents: Vamp Lounge",
-      "venue": "AllWays Lounge",
-      "venue_url": "https://www.wwoz.org/organizations/allways-lounge",
-      "event_url": "https://www.wwoz.org/events/1415021",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00pm",
-      "start": "2026-11-27T23:00:00+00:00",
-      "description": "Venue: AllWays Lounge | Date: Friday, November 27 | Time: 11:00pm"
-    },
-    {
-      "id": "42c8180a5adf14108e9416076f692a6f755d8135",
-      "source": "wwoz",
-      "title": "Bearded Chieftains",
-      "venue": "Le Bon Temps Roul\u00e9",
-      "venue_url": "https://www.wwoz.org/organizations/le-bon-temps-roule",
-      "event_url": "https://www.wwoz.org/events/1389601",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00pm",
-      "start": "2026-11-27T23:00:00+00:00",
-      "description": "Venue: Le Bon Temps Roul\u00e9 | Date: Friday, November 27 | Time: 11:00pm"
-    },
-    {
-      "id": "1661bed4ea0493430db5e0ff8bec33aa3fadba26",
-      "source": "wwoz",
-      "title": "DJ KVng Fred",
-      "venue": "Maison, The",
-      "venue_url": "https://www.wwoz.org/organizations/maison",
-      "event_url": "https://www.wwoz.org/events/1411901",
-      "date_text": "Friday, November 27",
-      "time_text": "11:00pm",
-      "start": "2026-11-27T23:00:00+00:00",
-      "description": "Venue: Maison, The | Date: Friday, November 27 | Time: 11:00pm"
-    },
-    {
       "id": "nola-show-56673",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1872,16 +542,40 @@
       "description": "Venue: Le Bon Temps Roule | Starts: 2026-11-27T23:00:00-06:00"
     },
     {
-      "id": "1eba64a85c7e417a8415e556efbf5fd87a17bd75",
+      "id": "3959edeb4e7468faa6d7bfeeaa955e7c19bc14bf",
       "source": "wwoz",
-      "title": "Night Sesh",
-      "venue": "Gasa Gasa",
-      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
-      "event_url": "https://www.wwoz.org/events/1409901",
-      "date_text": "Friday, November 27",
-      "time_text": "11:45pm",
-      "start": "2026-11-27T23:45:00+00:00",
-      "description": "Venue: Gasa Gasa | Date: Friday, November 27 | Time: 11:45pm"
+      "title": "The Satin Strings",
+      "venue": "Chemin \u00e0 la Mer at Four Seasons Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/chemin-la-mer-four-seasons-hotel",
+      "event_url": "https://www.wwoz.org/events/1403871",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00am",
+      "start": "2026-11-28T10:00:00+00:00",
+      "description": "Venue: Chemin \u00e0 la Mer at Four Seasons Hotel | Date: Saturday, November 28 | Time: 10:00am"
+    },
+    {
+      "id": "8547f358fc0820c947db22ec0397e4ccad07397e",
+      "source": "wwoz",
+      "title": "Drum Circle with Tim Brown, II",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1406251",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:30am",
+      "start": "2026-11-28T10:30:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Saturday, November 28 | Time: 10:30am"
+    },
+    {
+      "id": "aa70e64fbf8c236524ee1bcfed6f2b3f6c5627b7",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1415251",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:00am",
+      "start": "2026-11-28T11:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Saturday, November 28 | Time: 11:00am"
     },
     {
       "id": "nola-show-60895",
@@ -1893,6 +587,18 @@
       "description": "Venue: Bamboula's | Starts: 2026-11-28T11:00:00-06:00"
     },
     {
+      "id": "c44af5f478c52fd18862d20ae123d69c2802ea08",
+      "source": "wwoz",
+      "title": "Ian Cunningham",
+      "venue": "Paulie's",
+      "venue_url": "https://www.wwoz.org/organizations/paulies",
+      "event_url": "https://www.wwoz.org/events/1411411",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:30am",
+      "start": "2026-11-28T11:30:00+00:00",
+      "description": "Venue: Paulie's | Date: Saturday, November 28 | Time: 11:30am"
+    },
+    {
       "id": "nola-show-60785",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1902,6 +608,30 @@
       "description": "Venue: Paulie's | Starts: 2026-11-28T11:30:00-06:00"
     },
     {
+      "id": "6388431fde5796df11223ee1d8d7244b75a8a9d7",
+      "source": "wwoz",
+      "title": "Monster Crawfish",
+      "venue": "Blue Crab Restaurant & Oyster Bar, The",
+      "venue_url": "https://www.wwoz.org/organizations/blue-crab-restaurant-oyster-bar",
+      "event_url": "https://www.wwoz.org/events/1413261",
+      "date_text": "Saturday, November 28",
+      "time_text": "12:00pm",
+      "start": "2026-11-28T12:00:00+00:00",
+      "description": "Venue: Blue Crab Restaurant & Oyster Bar, The | Date: Saturday, November 28 | Time: 12:00pm"
+    },
+    {
+      "id": "af315fa6384bc26a7e1e7c370b3eb579f8a16679",
+      "source": "wwoz",
+      "title": "Christian Coleman",
+      "venue": "Community Farmers Market - Marigny (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/community-farmers-market-marigny-outdoors",
+      "event_url": "https://www.wwoz.org/events/1414031",
+      "date_text": "Saturday, November 28",
+      "time_text": "12:00pm",
+      "start": "2026-11-28T12:00:00+00:00",
+      "description": "Venue: Community Farmers Market - Marigny (OUTDOORS) | Date: Saturday, November 28 | Time: 12:00pm"
+    },
+    {
       "id": "nola-show-62161",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1909,6 +639,66 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T12:00:00-06:00",
       "description": "Venue: Music Box Village | Starts: 2026-11-28T12:00:00-06:00"
+    },
+    {
+      "id": "3173a429c129aa87e5f4ab2b8360221db3edef9b",
+      "source": "wwoz",
+      "title": "Miles Berry",
+      "venue": "Bacchanal (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
+      "event_url": "https://www.wwoz.org/events/1403566",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:00pm",
+      "start": "2026-11-28T13:00:00+00:00",
+      "description": "Venue: Bacchanal (OUTDOORS) | Date: Saturday, November 28 | Time: 1:00pm"
+    },
+    {
+      "id": "677029a1af19464d14be94820d9b211f4676d6f1",
+      "source": "wwoz",
+      "title": "Steve DeTroy Band",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1405876",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:00pm",
+      "start": "2026-11-28T13:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Saturday, November 28 | Time: 1:00pm"
+    },
+    {
+      "id": "5e435b75d22a10a4b55c1ad39d798ab5622072d9",
+      "source": "wwoz",
+      "title": "NOLA Axe Men",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1411951",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:00pm",
+      "start": "2026-11-28T13:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, November 28 | Time: 1:00pm"
+    },
+    {
+      "id": "fbb5e905edaffdc803420a84881c3c33eb898478",
+      "source": "wwoz",
+      "title": "Music Box Block Party ft. Blue House Music + Sari Jordan",
+      "venue": "Music Box Village (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/music-box-village-outdoors",
+      "event_url": "https://www.wwoz.org/events/1415856",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:00pm",
+      "start": "2026-11-28T13:00:00+00:00",
+      "description": "Venue: Music Box Village (OUTDOORS) | Date: Saturday, November 28 | Time: 1:00pm"
+    },
+    {
+      "id": "9d151289d76540a7f7c0f31fac37dfa5eeb537ff",
+      "source": "wwoz",
+      "title": "Jim Lockwood & Ben Michaels",
+      "venue": "Pat O'Brien's",
+      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
+      "event_url": "https://www.wwoz.org/events/1410756",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:00pm",
+      "start": "2026-11-28T13:00:00+00:00",
+      "description": "Venue: Pat O'Brien's | Date: Saturday, November 28 | Time: 1:00pm"
     },
     {
       "id": "nola-show-59229",
@@ -1927,6 +717,66 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T13:00:00-06:00",
       "description": "Venue: Maison | Starts: 2026-11-28T13:00:00-06:00"
+    },
+    {
+      "id": "1a16a46de48170162ae9b78bf4ba2d3e487fe923",
+      "source": "wwoz",
+      "title": "The Rumpshakers",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1410956",
+      "date_text": "Saturday, November 28",
+      "time_text": "1:30pm",
+      "start": "2026-11-28T13:30:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Saturday, November 28 | Time: 1:30pm"
+    },
+    {
+      "id": "924dde985f8aace4453cab68f0ef57c10b8180ad",
+      "source": "wwoz",
+      "title": "Organami",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412646",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:00pm",
+      "start": "2026-11-28T14:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Saturday, November 28 | Time: 2:00pm"
+    },
+    {
+      "id": "429e6a25866a0c1d32abde59325986b742bdc00d",
+      "source": "wwoz",
+      "title": "Big Joe Kennedy Trio",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1413176",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:00pm",
+      "start": "2026-11-28T14:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Saturday, November 28 | Time: 2:00pm"
+    },
+    {
+      "id": "ec16e1a25b8b5267533a3131c0a4577ca67c1b76",
+      "source": "wwoz",
+      "title": "Popcorn",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1409551",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:00pm",
+      "start": "2026-11-28T14:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Saturday, November 28 | Time: 2:00pm"
+    },
+    {
+      "id": "717f14ccf29e29ecf415249c281742d6e3df2226",
+      "source": "wwoz",
+      "title": "Steamboat Stompers",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1415281",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:00pm",
+      "start": "2026-11-28T14:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Saturday, November 28 | Time: 2:00pm"
     },
     {
       "id": "nola-show-62101",
@@ -1974,6 +824,30 @@
       "description": "Venue: Carousel Bar at the Hotel Monteleone | Starts: 2026-11-28T14:00:00-06:00"
     },
     {
+      "id": "e06f6193a80b6b824c7944750c32d6570e1bd735",
+      "source": "wwoz",
+      "title": "Young Lion Showcase",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1409066",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:30pm",
+      "start": "2026-11-28T14:30:00+00:00",
+      "description": "Venue: d.b.a. | Date: Saturday, November 28 | Time: 2:30pm"
+    },
+    {
+      "id": "519e40dc906da8be88f741858ec564be39f38dbd",
+      "source": "wwoz",
+      "title": "Wendell Brunious & The Preservation Legacy Band",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1404406",
+      "date_text": "Saturday, November 28",
+      "time_text": "2:30pm",
+      "start": "2026-11-28T14:30:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 2:30pm"
+    },
+    {
       "id": "nola-show-58736",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -1990,6 +864,42 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T14:30:00-06:00",
       "description": "Venue: Preservation Hall | Starts: 2026-11-28T14:30:00-06:00"
+    },
+    {
+      "id": "0d63395813e878fd2de57910e6a2d620f5959b17",
+      "source": "wwoz",
+      "title": "The Andre Lovett Band",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1411756",
+      "date_text": "Saturday, November 28",
+      "time_text": "3:00pm",
+      "start": "2026-11-28T15:00:00+00:00",
+      "description": "Venue: BMC | Date: Saturday, November 28 | Time: 3:00pm"
+    },
+    {
+      "id": "02e0be8e205ecdea326f83b6e54d4d1a59170b26",
+      "source": "wwoz",
+      "title": "Stephen Walker N'em",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1405371",
+      "date_text": "Saturday, November 28",
+      "time_text": "3:00pm",
+      "start": "2026-11-28T15:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Saturday, November 28 | Time: 3:00pm"
+    },
+    {
+      "id": "67ed5a7c89c018902a93f51f210f48f83c9e69a0",
+      "source": "wwoz",
+      "title": "Grayson Brockamp & the New Orleans Wildlife Band",
+      "venue": "New Orleans Jazz National Historical Park",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-national-historical-park",
+      "event_url": "https://www.wwoz.org/events/1406256",
+      "date_text": "Saturday, November 28",
+      "time_text": "3:00pm",
+      "start": "2026-11-28T15:00:00+00:00",
+      "description": "Venue: New Orleans Jazz National Historical Park | Date: Saturday, November 28 | Time: 3:00pm"
     },
     {
       "id": "nola-show-61173",
@@ -2028,6 +938,78 @@
       "description": "Venue: Balcony Music Club (BMC) | Starts: 2026-11-28T15:00:00-06:00"
     },
     {
+      "id": "485608757919b1da4ce1c8c1b059321778e77746",
+      "source": "wwoz",
+      "title": "The Leroy Marshall Band",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1400561",
+      "date_text": "Saturday, November 28",
+      "time_text": "3:15pm",
+      "start": "2026-11-28T15:15:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Saturday, November 28 | Time: 3:15pm"
+    },
+    {
+      "id": "c4d81bae9deb9e40aa82de7f043ed708f720b0ee",
+      "source": "wwoz",
+      "title": "Wendell Brunious & The Preservation Legacy Band",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1404411",
+      "date_text": "Saturday, November 28",
+      "time_text": "3:45pm",
+      "start": "2026-11-28T15:45:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 3:45pm"
+    },
+    {
+      "id": "4b87b18e540aa1808fa050f710dd5f88011494c3",
+      "source": "wwoz",
+      "title": "Giselle Anguizola",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413926",
+      "date_text": "Saturday, November 28",
+      "time_text": "4:00pm",
+      "start": "2026-11-28T16:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, November 28 | Time: 4:00pm"
+    },
+    {
+      "id": "f95931a17a0735c664b5141753e60d78e24c2e6f",
+      "source": "wwoz",
+      "title": "Dead Men Don't Play Jazz",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1407001",
+      "date_text": "Saturday, November 28",
+      "time_text": "4:00pm",
+      "start": "2026-11-28T16:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, November 28 | Time: 4:00pm"
+    },
+    {
+      "id": "6a9690654574034c3859752b24cc89a56ee78fed",
+      "source": "wwoz",
+      "title": "Smoking Time Jazz Band",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1412021",
+      "date_text": "Saturday, November 28",
+      "time_text": "4:00pm",
+      "start": "2026-11-28T16:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, November 28 | Time: 4:00pm"
+    },
+    {
+      "id": "f90d3a9c21f73f877f2f3986929332ea0829cb00",
+      "source": "wwoz",
+      "title": "Tonya Boyd Cannon",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1410181",
+      "date_text": "Saturday, November 28",
+      "time_text": "4:00pm",
+      "start": "2026-11-28T16:00:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Saturday, November 28 | Time: 4:00pm"
+    },
+    {
       "id": "nola-show-59839",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2044,6 +1026,66 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T16:00:00-06:00",
       "description": "Venue: Bourbon O Bar | Starts: 2026-11-28T16:00:00-06:00"
+    },
+    {
+      "id": "fc1e920439d0a9216532787f44d0b8f969fa0d21",
+      "source": "wwoz",
+      "title": "Jamey St. Pierre",
+      "venue": "Roberts' Bar",
+      "venue_url": "https://www.wwoz.org/organizations/roberts-bar",
+      "event_url": "https://www.wwoz.org/events/1415771",
+      "date_text": "Saturday, November 28",
+      "time_text": "4:30pm",
+      "start": "2026-11-28T16:30:00+00:00",
+      "description": "Venue: Roberts' Bar | Date: Saturday, November 28 | Time: 4:30pm"
+    },
+    {
+      "id": "d1dfa74373dc13e557994e81ed7dea5b22863698",
+      "source": "wwoz",
+      "title": "The Sleazeball Orchestra",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412651",
+      "date_text": "Saturday, November 28",
+      "time_text": "5:00pm",
+      "start": "2026-11-28T17:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Saturday, November 28 | Time: 5:00pm"
+    },
+    {
+      "id": "b360298c475b8eb334c027b1f0d2331bb77c7689",
+      "source": "wwoz",
+      "title": "Bourbon Matinee Jazz Band with Chuck Brackman",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1405881",
+      "date_text": "Saturday, November 28",
+      "time_text": "5:00pm",
+      "start": "2026-11-28T17:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Saturday, November 28 | Time: 5:00pm"
+    },
+    {
+      "id": "adbfce058135e5cf96e26d819a5227bf6c56f6d3",
+      "source": "wwoz",
+      "title": "Patrick Cooper",
+      "venue": "Kerry Irish Pub",
+      "venue_url": "https://www.wwoz.org/organizations/kerry-irish-pub",
+      "event_url": "https://www.wwoz.org/events/1406116",
+      "date_text": "Saturday, November 28",
+      "time_text": "5:00pm",
+      "start": "2026-11-28T17:00:00+00:00",
+      "description": "Venue: Kerry Irish Pub | Date: Saturday, November 28 | Time: 5:00pm"
+    },
+    {
+      "id": "93f8f6e508e1ee5b3c3d57aa0fb30371dbfc7943",
+      "source": "wwoz",
+      "title": "The Preservation All-Stars ft. Shannon Powell",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1403151",
+      "date_text": "Saturday, November 28",
+      "time_text": "5:00pm",
+      "start": "2026-11-28T17:00:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 5:00pm"
     },
     {
       "id": "nola-show-54416",
@@ -2064,6 +1106,90 @@
       "description": "Venue: Buffa's | Starts: 2026-11-28T17:03:00-06:00"
     },
     {
+      "id": "def176a074e60de0f8aacd5a2736331813886203",
+      "source": "wwoz",
+      "title": "Al \"Lil Fats\" Jackson Trio",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1413116",
+      "date_text": "Saturday, November 28",
+      "time_text": "5:30pm",
+      "start": "2026-11-28T17:30:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Saturday, November 28 | Time: 5:30pm"
+    },
+    {
+      "id": "a2d5c56b32fca537f0d25a178b51ebc88a035543",
+      "source": "wwoz",
+      "title": "Maurice Cade & The E.S.S. Band",
+      "venue": "BMC",
+      "venue_url": "https://www.wwoz.org/organizations/bmc",
+      "event_url": "https://www.wwoz.org/events/1411761",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: BMC | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
+      "id": "e94a929ac4dae1a2eff31328068febc51d068e67",
+      "source": "wwoz",
+      "title": "Bon Bon Vivant",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1411121",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
+      "id": "785d9386c42b8e0c07ff26ba0afd7cd6d268a161",
+      "source": "wwoz",
+      "title": "Kermit Ruffins & The BBQ Swingers",
+      "venue": "Kermit's Trem\u00e9 Mother-in-Law Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/kermits-treme-mother-law-lounge",
+      "event_url": "https://www.wwoz.org/events/1407456",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: Kermit's Trem\u00e9 Mother-in-Law Lounge | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
+      "id": "b04e778e979bf0153d9e07614b4dcb33da86c7c6",
+      "source": "wwoz",
+      "title": "Lisa Bittick-Lowe, Natalie Mae & Matt Hayden",
+      "venue": "Pat O'Brien's",
+      "venue_url": "https://www.wwoz.org/organizations/pat-obriens",
+      "event_url": "https://www.wwoz.org/events/1410761",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: Pat O'Brien's | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
+      "id": "e3f79b9d63c11024aa75b0f85fde8478bf859ae0",
+      "source": "wwoz",
+      "title": "Shake 'Em Up Jazz Band",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1409556",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
+      "id": "37c247751884069b491d182cc74bad38a3ee2b2b",
+      "source": "wwoz",
+      "title": "Dukes of Dixieland",
+      "venue": "Steamboat Natchez",
+      "venue_url": "https://www.wwoz.org/organizations/steamboat-natchez",
+      "event_url": "https://www.wwoz.org/events/1415326",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:00pm",
+      "start": "2026-11-28T18:00:00+00:00",
+      "description": "Venue: Steamboat Natchez | Date: Saturday, November 28 | Time: 6:00pm"
+    },
+    {
       "id": "nola-show-60716",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2080,6 +1206,171 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T18:00:00-06:00",
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-11-28T18:00:00-06:00"
+    },
+    {
+      "id": "nola-show-62738",
+      "source": "nola_show",
+      "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
+      "venue": "537 Deslonde St",
+      "event_url": "https://nola.show/",
+      "start": "2026-11-28T18:00:00-06:00",
+      "description": "Venue: 537 Deslonde St | Starts: 2026-11-28T18:00:00-06:00"
+    },
+    {
+      "id": "7a05256bbac42671ffdc08a42645da2904c8d508",
+      "source": "wwoz",
+      "title": "The Preservation All-Stars ft. Shannon Powell",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1403156",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:15pm",
+      "start": "2026-11-28T18:15:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 6:15pm"
+    },
+    {
+      "id": "69ff5cb1847eff425a72717214332ac16b4b6a96",
+      "source": "wwoz",
+      "title": "Johnny Mastro Blues",
+      "venue": "Bamboula's",
+      "venue_url": "https://www.wwoz.org/organizations/bamboulas",
+      "event_url": "https://www.wwoz.org/events/1412726",
+      "date_text": "Saturday, November 28",
+      "time_text": "6:30pm",
+      "start": "2026-11-28T18:30:00+00:00",
+      "description": "Venue: Bamboula's | Date: Saturday, November 28 | Time: 6:30pm"
+    },
+    {
+      "id": "e082e724101ae253a201c78b0bfb1b9b57237d6c",
+      "source": "wwoz",
+      "title": "Pete Olynciw",
+      "venue": "Bacchanal (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/bacchanal-outdoors",
+      "event_url": "https://www.wwoz.org/events/1403386",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Bacchanal (OUTDOORS) | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "24150f3e07127bc549737d172e48116761c649d2",
+      "source": "wwoz",
+      "title": "Juice",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1414376",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Blue Nile | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "0b2473f20a909deab69d75d46e3a795a6bfd2385",
+      "source": "wwoz",
+      "title": "Bishop & the Blues Masters",
+      "venue": "B Mac's (OUTDOORS)",
+      "venue_url": "https://www.wwoz.org/organizations/b-macs-outdoors",
+      "event_url": "https://www.wwoz.org/events/1415186",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: B Mac's (OUTDOORS) | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "8284fbf0108493b99425379baab9f7401b5b6508",
+      "source": "wwoz",
+      "title": "The Yurumein ft. Yusa & World of Rhythms, Grupo Yurumeina, & More!",
+      "venue": "CANOA",
+      "venue_url": "https://www.wwoz.org/organizations/canoa",
+      "event_url": "https://www.wwoz.org/events/1414371",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: CANOA | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "a643228a39052a60b728c90f4cc26b6a354d2fb8",
+      "source": "wwoz",
+      "title": "Shorty & The Giants",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1408881",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "4f3fa30c97387efd25e5d869dac91e61dd31f6b3",
+      "source": "wwoz",
+      "title": "Andrew Baham Trio",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1405391",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "6adbbf4f8e5772536aa1c598c8f22948284cc04a",
+      "source": "wwoz",
+      "title": "Marc Paradis Trio",
+      "venue": "NOLA Brewing",
+      "venue_url": "https://www.wwoz.org/organizations/nola-brewing",
+      "event_url": "https://www.wwoz.org/events/1410591",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: NOLA Brewing | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "cb4da19914675d5abcf10bbfe8ca49459fcbd3f6",
+      "source": "wwoz",
+      "title": "Mike Doussan & Friends",
+      "venue": "Roberts' Bar",
+      "venue_url": "https://www.wwoz.org/organizations/roberts-bar",
+      "event_url": "https://www.wwoz.org/events/1414256",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Roberts' Bar | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "a7f82a83d403c7e802b0f321876faf9e89c7fa4c",
+      "source": "wwoz",
+      "title": "Jason Marsalis presents Ellis Marsalis Songbook with Christien Bold",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1410196",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "435ccea1f5d0a51cff67d9843772af5e62772208",
+      "source": "wwoz",
+      "title": "Mark Barrett & The First Calls",
+      "venue": "Tropical Isle Bourbon",
+      "venue_url": "https://www.wwoz.org/organizations/tropical-isle-bourbon",
+      "event_url": "https://www.wwoz.org/events/1406096",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Tropical Isle Bourbon | Date: Saturday, November 28 | Time: 7:00pm"
+    },
+    {
+      "id": "85ddd9984fed60e4583c786fce8ee488e31cea6c",
+      "source": "wwoz",
+      "title": "The Van Ella Bordella: A Storyville Burlesque Musical",
+      "venue": "Twilight Room at The Allways Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/twilight-room-allways-lounge",
+      "event_url": "https://www.wwoz.org/events/1402906",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:00pm",
+      "start": "2026-11-28T19:00:00+00:00",
+      "description": "Venue: Twilight Room at The Allways Lounge | Date: Saturday, November 28 | Time: 7:00pm"
     },
     {
       "id": "nola-show-62226",
@@ -2127,26 +1418,28 @@
       "description": "Venue: CANOA | Starts: 2026-11-28T19:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4928079",
-      "source": "offbeat",
-      "title": "Blue Nile presents Juice",
-      "venue": "Blue Nile",
-      "start": "2026-11-28T19:00:00.000-06:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4928079",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-28T19:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nHailing from the 7th Ward neighborhood in New Orleans, Julian \u201cJuice\u201d Gosin is an artist, producer, trumpeter, MC, and educator. Best known for being a longtime member of award-winning and globally renowned brass band The Soul Rebels, Julian has worked with and been featured alongside Metallica, Nas, Lenny Kravitz, Wu-Tang Clan, Katy Perry, Maroon 5, and Maceo Parker. He has also recorded music with artists like Big Freedia, Trombone Shorty, G-Eazy, Phony ppl, and Dave East. \n\nHis recent debut album, Be Intentional, launched his solo career. The self-produced and written album has elements of hip hop, pop, RnB, and dance music and features Trombone Shorty, Nicolas Payton, and Nigel Hall. \n\nAll Shows Ages 21+  FREE ADMISSION WITH VALID I.D.",
-      "pubDate": "Wed, 18 Nov 2026 07:54:34 -0600"
+      "id": "ef8decee02598eab6e1f7f39d3ed25d6d5c58893",
+      "source": "wwoz",
+      "title": "The Preservation All-Stars ft. Shannon Powell",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1403161",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:30pm",
+      "start": "2026-11-28T19:30:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 7:30pm"
+    },
+    {
+      "id": "359f10f05d4763ec637488d50b2137ecb50e034f",
+      "source": "wwoz",
+      "title": "Johanna Rose",
+      "venue": "Three Muses",
+      "venue_url": "https://www.wwoz.org/organizations/three-muses",
+      "event_url": "https://www.wwoz.org/events/1412476",
+      "date_text": "Saturday, November 28",
+      "time_text": "7:30pm",
+      "start": "2026-11-28T19:30:00+00:00",
+      "description": "Venue: Three Muses | Date: Saturday, November 28 | Time: 7:30pm"
     },
     {
       "id": "nola-show-61435",
@@ -2156,6 +1449,162 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T19:30:00-06:00",
       "description": "Venue: Three Muses | Starts: 2026-11-28T19:30:00-06:00"
+    },
+    {
+      "id": "626cc402d541b4c342a7aefaf3ac4f33b910c614",
+      "source": "wwoz",
+      "title": "Kayla Jasmine",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412656",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "6e98ee34083d808ec56ebb50c5a63f859af43094",
+      "source": "wwoz",
+      "title": "Jordan Anderson",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1407321",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "c12f092cc1065394e245239dd47591ba9cb6775f",
+      "source": "wwoz",
+      "title": "The Blues Masters",
+      "venue": "Bourbon O Bar at The Bourbon Orleans Hotel",
+      "venue_url": "https://www.wwoz.org/organizations/bourbon-o-bar-bourbon-orleans-hotel",
+      "event_url": "https://www.wwoz.org/events/1413931",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Bourbon O Bar at The Bourbon Orleans Hotel | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "2172f6c15d0602d1b7f19d4530f9260c25ecc39f",
+      "source": "wwoz",
+      "title": "The Soul Rebels",
+      "venue": "Broadside (Outdoor Stage)",
+      "venue_url": "https://www.wwoz.org/organizations/broadside-outdoor-stage",
+      "event_url": "https://www.wwoz.org/events/1406461",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Broadside (Outdoor Stage) | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "4fa8146f8401e05c08a95eed589310a9d2d06b79",
+      "source": "wwoz",
+      "title": "Millie Grace Band",
+      "venue": "Buffa's",
+      "venue_url": "https://www.wwoz.org/organizations/buffas",
+      "event_url": "https://www.wwoz.org/events/1407976",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Buffa's | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "9ef90e6ed61ea33e2b525e4a62aa8a8c3fbcf60a",
+      "source": "wwoz",
+      "title": "Zoom + The Lenny Zennith Band",
+      "venue": "Carrollton Station",
+      "venue_url": "https://www.wwoz.org/organizations/carrollton-station",
+      "event_url": "https://www.wwoz.org/events/1411656",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Carrollton Station | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "bdbecc5355003f89f7a12567ef6e211dc5fc6d0b",
+      "source": "wwoz",
+      "title": "Jeremy Davenport",
+      "venue": "Davenport Lounge at The Ritz-Carlton",
+      "venue_url": "https://www.wwoz.org/organizations/davenport-lounge-ritz-carlton",
+      "event_url": "https://www.wwoz.org/events/1410331",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Davenport Lounge at The Ritz-Carlton | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "7d87aa8fb2ad278ba5e1e5d78bd8655380e57da6",
+      "source": "wwoz",
+      "title": "Kings of Brass",
+      "venue": "Good Measure at The Barnett",
+      "venue_url": "https://www.wwoz.org/organizations/good-measure-barnett",
+      "event_url": "https://www.wwoz.org/events/1402106",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Good Measure at The Barnett | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "c42727495aac19f755b8eb457da7922fafc652fb",
+      "source": "wwoz",
+      "title": "The Nayo Jones Experience",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1413661",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "b4324fb0927dc5e833ce64b95a2834cdf4336183",
+      "source": "wwoz",
+      "title": "Boogie T",
+      "venue": "Joy Theater",
+      "venue_url": "https://www.wwoz.org/organizations/joy-theater",
+      "event_url": "https://www.wwoz.org/events/1390016",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Joy Theater | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "282de33585bfc51750e185bd8ae484253ec46116",
+      "source": "wwoz",
+      "title": "The Kazzettes",
+      "venue": "Maison, The",
+      "venue_url": "https://www.wwoz.org/organizations/maison",
+      "event_url": "https://www.wwoz.org/events/1411966",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Maison, The | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "ac116c1457bd0efd65b10dc5da697df14a51f4f8",
+      "source": "wwoz",
+      "title": "Danny Rubio & the Catahoula Music Company",
+      "venue": "Maison Bourbon Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/maison-bourbon-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1404601",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Maison Bourbon Jazz Club | Date: Saturday, November 28 | Time: 8:00pm"
+    },
+    {
+      "id": "5f74b81446d67c9aa8331a6ab9f8ea55ed8653fc",
+      "source": "wwoz",
+      "title": "Soul Brass Band",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1414671",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:00pm",
+      "start": "2026-11-28T20:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Saturday, November 28 | Time: 8:00pm"
     },
     {
       "id": "nola-show-50843",
@@ -2221,6 +1670,64 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-11-28T20:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4928079",
+      "source": "offbeat",
+      "title": "Blue Nile presents Juice",
+      "venue": "Blue Nile",
+      "start": "2026-11-28T20:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4928079",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-28T20:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nHailing from the 7th Ward neighborhood in New Orleans, Julian \u201cJuice\u201d Gosin is an artist, producer, trumpeter, MC, and educator. Best known for being a longtime member of award-winning and globally renowned brass band The Soul Rebels, Julian has worked with and been featured alongside Metallica, Nas, Lenny Kravitz, Wu-Tang Clan, Katy Perry, Maroon 5, and Maceo Parker. He has also recorded music with artists like Big Freedia, Trombone Shorty, G-Eazy, Phony ppl, and Dave East. \n\nHis recent debut album, Be Intentional, launched his solo career. The self-produced and written album has elements of hip hop, pop, RnB, and dance music and features Trombone Shorty, Nicolas Payton, and Nigel Hall. \n\nAll Shows Ages 21+  FREE ADMISSION WITH VALID I.D.",
+      "pubDate": "Wed, 18 Nov 2026 08:54:34 -0500"
+    },
+    {
+      "id": "5a2a32fc637c5ee41cc4f55b0a80c612c47e3410",
+      "source": "wwoz",
+      "title": "The Current Five",
+      "venue": "May Baily's Place",
+      "venue_url": "https://www.wwoz.org/organizations/may-bailys-place",
+      "event_url": "https://www.wwoz.org/events/1408751",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:30pm",
+      "start": "2026-11-28T20:30:00+00:00",
+      "description": "Venue: May Baily's Place | Date: Saturday, November 28 | Time: 8:30pm"
+    },
+    {
+      "id": "0379b05caf2db32bb5e863d28533848903770c62",
+      "source": "wwoz",
+      "title": "Rock, Ride & Rescue Annual Fundraiser ft. Bag of Donuts",
+      "venue": "Mid-City Lanes Rock 'n' Bowl",
+      "venue_url": "https://www.wwoz.org/organizations/mid-city-lanes-rock-n-bowl",
+      "event_url": "https://www.wwoz.org/events/1402546",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:30pm",
+      "start": "2026-11-28T20:30:00+00:00",
+      "description": "Venue: Mid-City Lanes Rock 'n' Bowl | Date: Saturday, November 28 | Time: 8:30pm"
+    },
+    {
+      "id": "621a04c14c098cc419380f63ff1a5a244930a913",
+      "source": "wwoz",
+      "title": "The Dirty Dozen Brass Band + The Zahria Sims Collective",
+      "venue": "Tipitina's",
+      "venue_url": "https://www.wwoz.org/organizations/tipitinas",
+      "event_url": "https://www.wwoz.org/events/1377316",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:30pm",
+      "start": "2026-11-28T20:30:00+00:00",
+      "description": "Venue: Tipitina's | Date: Saturday, November 28 | Time: 8:30pm"
+    },
+    {
       "id": "nola-show-52112",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2246,6 +1753,174 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T20:30:00-06:00",
       "description": "Venue: May Baily's Place @ Dauphine Orleans Hotel | Starts: 2026-11-28T20:30:00-06:00"
+    },
+    {
+      "id": "448a83b13a35c40a714d47f8e9494b6b5881ebb2",
+      "source": "wwoz",
+      "title": "The Preservation All-Stars ft. Shannon Powell",
+      "venue": "Preservation Hall",
+      "venue_url": "https://www.wwoz.org/organizations/preservation-hall",
+      "event_url": "https://www.wwoz.org/events/1403166",
+      "date_text": "Saturday, November 28",
+      "time_text": "8:45pm",
+      "start": "2026-11-28T20:45:00+00:00",
+      "description": "Venue: Preservation Hall | Date: Saturday, November 28 | Time: 8:45pm"
+    },
+    {
+      "id": "e683b103b43c689aa5c3dc76695c2c823c1131b8",
+      "source": "wwoz",
+      "title": "Groovy Decay with DJ Johnny Vista",
+      "venue": "Bar Redux",
+      "venue_url": "https://www.wwoz.org/organizations/bar-redux",
+      "event_url": "https://www.wwoz.org/events/1414406",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Bar Redux | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "4f4ce47f196fcb5f71f9d46795c349587f25c518",
+      "source": "wwoz",
+      "title": "Lena Prima & Her Band",
+      "venue": "Carousel Bar & Lounge at Hotel Monteleone",
+      "venue_url": "https://www.wwoz.org/organizations/carousel-bar-lounge-hotel-monteleone",
+      "event_url": "https://www.wwoz.org/events/1413046",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Carousel Bar & Lounge at Hotel Monteleone | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "d9097de03e4a3ffb439cc4745c51e58102d06aaa",
+      "source": "wwoz",
+      "title": "Ned Henry & Friends",
+      "venue": "Chickie Wah Wah",
+      "venue_url": "https://www.wwoz.org/organizations/chickie-wah-wah",
+      "event_url": "https://www.wwoz.org/events/1393726",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Chickie Wah Wah | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "7e23a4114e11ed3c91ab2b910cbc24ecef69930b",
+      "source": "wwoz",
+      "title": "Yoshitaka Z2 Trio",
+      "venue": "Dos Jefes",
+      "venue_url": "https://www.wwoz.org/organizations/dos-jefes",
+      "event_url": "https://www.wwoz.org/events/1406641",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Dos Jefes | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "a2b83289502020612c0c3205c7e88cb91ebb9037",
+      "source": "wwoz",
+      "title": "Shawan Rice",
+      "venue": "Double Dealer at the Orpheum Theater",
+      "venue_url": "https://www.wwoz.org/organizations/double-dealer-orpheum-theater",
+      "event_url": "https://www.wwoz.org/events/1404661",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Double Dealer at the Orpheum Theater | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "57c1eb87f8ffdee11bdeb9eef717e9f284d48384",
+      "source": "wwoz",
+      "title": "Fritzel's All Star Band with Jeff Kreis",
+      "venue": "Fritzel's Jazz Club",
+      "venue_url": "https://www.wwoz.org/organizations/fritzels-jazz-club",
+      "event_url": "https://www.wwoz.org/events/1405711",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Fritzel's Jazz Club | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "0e20a74e07ab7293a343e33ae902cb51ceeef32c",
+      "source": "wwoz",
+      "title": "The Hunks of Coal + Shark Attack!!",
+      "venue": "Gasa Gasa",
+      "venue_url": "https://www.wwoz.org/organizations/gasa-gasa",
+      "event_url": "https://www.wwoz.org/events/1409911",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Gasa Gasa | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "f1492f4adec0869cce528491227fbffaaf218076",
+      "source": "wwoz",
+      "title": "Project Pat",
+      "venue": "House of Blues",
+      "venue_url": "https://www.wwoz.org/organizations/house-blues",
+      "event_url": "https://www.wwoz.org/events/1414886",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: House of Blues | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "fe9111fbf100fafb1d72865b45543c67606e5a2f",
+      "source": "wwoz",
+      "title": "Leon The God + St. Gabriel + Mac Infinity",
+      "venue": "Howlin' Wolf - The Den",
+      "venue_url": "https://www.wwoz.org/organizations/howlin-wolf-den",
+      "event_url": "https://www.wwoz.org/events/1407756",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Howlin' Wolf - The Den | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "4549c7f428c0250b444b7e62c3ddca0f9cad4954",
+      "source": "wwoz",
+      "title": "\"Heatwave!\" All-Vinly Soul + R&B Dance Party with DJ Ann",
+      "venue": "Okay Bar",
+      "venue_url": "https://www.wwoz.org/organizations/okay-bar",
+      "event_url": "https://www.wwoz.org/events/1406411",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Okay Bar | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "4ce94807af7c1fd0cddca8f442ff04a0239d3441",
+      "source": "wwoz",
+      "title": "Levee Dogs",
+      "venue": "Old Point Bar",
+      "venue_url": "https://www.wwoz.org/organizations/old-point-bar",
+      "event_url": "https://www.wwoz.org/events/1407611",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Old Point Bar | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "86989b4084ac8b23f53c1f3ecbb314c1d50e60fe",
+      "source": "wwoz",
+      "title": "NO [CTRL] Presents: HOUSE RULES",
+      "venue": "Siberia",
+      "venue_url": "https://www.wwoz.org/organizations/siberia",
+      "event_url": "https://www.wwoz.org/events/1412341",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Siberia | Date: Saturday, November 28 | Time: 9:00pm"
+    },
+    {
+      "id": "9e36ac5c92f99d597cead7f94f30133059753ed7",
+      "source": "wwoz",
+      "title": "Jason Marsalis presents Ellis Marsalis Songbook with Christien Bold",
+      "venue": "Snug Harbor",
+      "venue_url": "https://www.wwoz.org/organizations/snug-harbor",
+      "event_url": "https://www.wwoz.org/events/1410191",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:00pm",
+      "start": "2026-11-28T21:00:00+00:00",
+      "description": "Venue: Snug Harbor | Date: Saturday, November 28 | Time: 9:00pm"
     },
     {
       "id": "nola-show-56897",
@@ -2311,6 +1986,42 @@
       "description": "Venue: Jimmy's Music Club | Starts: 2026-11-28T21:00:00-06:00"
     },
     {
+      "id": "120b69e5f1a64b6725f4d7b241d252e5bccf1e16",
+      "source": "wwoz",
+      "title": "BrasiNola",
+      "venue": "BJ's Lounge",
+      "venue_url": "https://www.wwoz.org/organizations/bjs-lounge",
+      "event_url": "https://www.wwoz.org/events/1408326",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:30pm",
+      "start": "2026-11-28T21:30:00+00:00",
+      "description": "Venue: BJ's Lounge | Date: Saturday, November 28 | Time: 9:30pm"
+    },
+    {
+      "id": "b84c6fbc192744461bc5aaeb39d8bb96f9692b16",
+      "source": "wwoz",
+      "title": "The Nayo Jones Experience",
+      "venue": "Jazz Playhouse",
+      "venue_url": "https://www.wwoz.org/organizations/jazz-playhouse",
+      "event_url": "https://www.wwoz.org/events/1413616",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:30pm",
+      "start": "2026-11-28T21:30:00+00:00",
+      "description": "Venue: Jazz Playhouse | Date: Saturday, November 28 | Time: 9:30pm"
+    },
+    {
+      "id": "94e10beebe791d108499455cd44ce13afceaef1a",
+      "source": "wwoz",
+      "title": "Mahogany Hall Jazz Band ft. Kid Chocolate with Midnight Burlesque",
+      "venue": "Mahogany Jazz Hall",
+      "venue_url": "https://www.wwoz.org/organizations/mahogany-jazz-hall",
+      "event_url": "https://www.wwoz.org/events/1405341",
+      "date_text": "Saturday, November 28",
+      "time_text": "9:30pm",
+      "start": "2026-11-28T21:30:00+00:00",
+      "description": "Venue: Mahogany Jazz Hall | Date: Saturday, November 28 | Time: 9:30pm"
+    },
+    {
       "id": "nola-show-60775",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2327,6 +2038,90 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T21:30:00-06:00",
       "description": "Venue: Club Switch | Starts: 2026-11-28T21:30:00-06:00"
+    },
+    {
+      "id": "7b3b0c84b8a948172f4b71de7359e4b70c15e7f6",
+      "source": "wwoz",
+      "title": "Jordan Anderson",
+      "venue": "Bayou Bar at the Pontchartrain",
+      "venue_url": "https://www.wwoz.org/organizations/bayou-bar-pontchartrain",
+      "event_url": "https://www.wwoz.org/events/1407301",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Bayou Bar at the Pontchartrain | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "a518115b4e779a777494bac96a721c3b301d5036",
+      "source": "wwoz",
+      "title": "Afrobeat NOLA",
+      "venue": "Blue Nile",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile",
+      "event_url": "https://www.wwoz.org/events/1408136",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Blue Nile | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "8581fb94eb38149ab55f4af02f16a09a9b984228",
+      "source": "wwoz",
+      "title": "The Next Level Band",
+      "venue": "Blue Nile - Balcony Room",
+      "venue_url": "https://www.wwoz.org/organizations/blue-nile-balcony-room",
+      "event_url": "https://www.wwoz.org/events/1408096",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Blue Nile - Balcony Room | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "a418d6a3bc430bf902a8de15a70449ba0395dcae",
+      "source": "wwoz",
+      "title": "Higher Heights",
+      "venue": "Caf\u00e9 Negril",
+      "venue_url": "https://www.wwoz.org/organizations/cafe-negril",
+      "event_url": "https://www.wwoz.org/events/1411101",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Caf\u00e9 Negril | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "46b5445746bacf4d30f27ea5d0f9976775fd180a",
+      "source": "wwoz",
+      "title": "Zena Moses & the Rue Fiya Allstars",
+      "venue": "d.b.a.",
+      "venue_url": "https://www.wwoz.org/organizations/dba",
+      "event_url": "https://www.wwoz.org/events/1409126",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: d.b.a. | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "b06f3576498bf0ebccbf011aea7ab318c3c1a5b0",
+      "source": "wwoz",
+      "title": "Thee Tim Brown Arrangement",
+      "venue": "Favela Chic",
+      "venue_url": "https://www.wwoz.org/organizations/favela-chic",
+      "event_url": "https://www.wwoz.org/events/1408816",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Favela Chic | Date: Saturday, November 28 | Time: 10:00pm"
+    },
+    {
+      "id": "fe75906363456c4ee3922f0869f0dcb44df30eb5",
+      "source": "wwoz",
+      "title": "Dominick Grillo & The Frenchmen Street All-Stars",
+      "venue": "Spotted Cat",
+      "venue_url": "https://www.wwoz.org/organizations/spotted-cat",
+      "event_url": "https://www.wwoz.org/events/1409501",
+      "date_text": "Saturday, November 28",
+      "time_text": "10:00pm",
+      "start": "2026-11-28T22:00:00+00:00",
+      "description": "Venue: Spotted Cat | Date: Saturday, November 28 | Time: 10:00pm"
     },
     {
       "id": "nola-show-61429",
@@ -2374,28 +2169,6 @@
       "description": "Venue: Hide/Seek | Starts: 2026-11-28T22:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4922768",
-      "source": "offbeat",
-      "title": "AFROBEATS ON FRENCHMEN\n",
-      "venue": "Blue Nile",
-      "start": "2026-11-28T22:00:00.000-06:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922768",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-28T22:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
-      "pubDate": "Fri, 30 Oct 2026 11:27:02 -0500"
-    },
-    {
       "id": "nola-show-62171",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -2403,6 +2176,54 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T22:30:00-06:00",
       "description": "Venue: The Crypt | Starts: 2026-11-28T22:30:00-06:00"
+    },
+    {
+      "id": "3dbf6eda4b8ea2c9bfa7043a88267cc0fbbe3378",
+      "source": "wwoz",
+      "title": "T.Cherrelle & Lou's Bayou",
+      "venue": "30/90",
+      "venue_url": "https://www.wwoz.org/organizations/30-90",
+      "event_url": "https://www.wwoz.org/events/1412661",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:00pm",
+      "start": "2026-11-28T23:00:00+00:00",
+      "description": "Venue: 30/90 | Date: Saturday, November 28 | Time: 11:00pm"
+    },
+    {
+      "id": "e10b9df43c4f3d59ce45f818a4276e9f69a0aed2",
+      "source": "wwoz",
+      "title": "Jelly Biscuit & the Flaky Layers",
+      "venue": "Le Bon Temps Roul\u00e9",
+      "venue_url": "https://www.wwoz.org/organizations/le-bon-temps-roule",
+      "event_url": "https://www.wwoz.org/events/1393241",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:00pm",
+      "start": "2026-11-28T23:00:00+00:00",
+      "description": "Venue: Le Bon Temps Roul\u00e9 | Date: Saturday, November 28 | Time: 11:00pm"
+    },
+    {
+      "id": "4edb663d35f4f75203ae42ea36324f512b186fc7",
+      "source": "wwoz",
+      "title": "Isaac Eady & Friends",
+      "venue": "Maple Leaf",
+      "venue_url": "https://www.wwoz.org/organizations/maple-leaf",
+      "event_url": "https://www.wwoz.org/events/1414676",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:00pm",
+      "start": "2026-11-28T23:00:00+00:00",
+      "description": "Venue: Maple Leaf | Date: Saturday, November 28 | Time: 11:00pm"
+    },
+    {
+      "id": "c4c3bbb905ee504b967a09b29f81587261af0a20",
+      "source": "wwoz",
+      "title": "S\u00e1bado Gigante Hosted by Don Sevilla with VDJ Emotion & DJ Danny",
+      "venue": "New Orleans Jazz & Blues Market",
+      "venue_url": "https://www.wwoz.org/organizations/new-orleans-jazz-blues-market",
+      "event_url": "https://www.wwoz.org/events/1414776",
+      "date_text": "Saturday, November 28",
+      "time_text": "11:00pm",
+      "start": "2026-11-28T23:00:00+00:00",
+      "description": "Venue: New Orleans Jazz & Blues Market | Date: Saturday, November 28 | Time: 11:00pm"
     },
     {
       "id": "nola-show-57472",
@@ -2421,6 +2242,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-11-28T23:00:00-06:00",
       "description": "Venue: The Jazz & Blues Market | Starts: 2026-11-28T23:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4922768",
+      "source": "offbeat",
+      "title": "AFROBEATS ON FRENCHMEN\n",
+      "venue": "Blue Nile",
+      "start": "2026-11-28T23:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4922768",
+      "description": "Venue: Blue Nile\nStarts: 2026-11-28T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\n\nBlue Nile presents Afrobeat NOLA with DJ Ojay & Kodjo the Mojo\n\nAGES 21+. FREE ADMISSION WITH VALID I.D. & Drink Purchases.",
+      "pubDate": "Fri, 30 Oct 2026 12:27:02 -0400"
     },
     {
       "id": "nola-show-60467",
@@ -2697,7 +2540,7 @@
       "source": "offbeat",
       "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
       "venue": "Blue Nile",
-      "start": "2026-11-29T21:00:00.000-06:00",
+      "start": "2026-11-29T22:00:00.000-05:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -2711,8 +2554,8 @@
       "moreinfo": "https://www.bluenilelive.com",
       "ticket_url": "",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4922718",
-      "description": "Venue: Blue Nile\nStarts: 2026-11-29T21:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
-      "pubDate": "Fri, 30 Oct 2026 11:16:44 -0500"
+      "description": "Venue: Blue Nile\nStarts: 2026-11-29T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
+      "pubDate": "Fri, 30 Oct 2026 12:16:44 -0400"
     },
     {
       "id": "nola-show-52049",
@@ -3327,20 +3170,6 @@
       "description": "Venue: Allways Lounge & Cabaret | Starts: 2026-12-02T18:30:00-06:00"
     },
     {
-      "id": "offbeat-event-4544321",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-12-02T18:30:00.000-06:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544321",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-02T18:30:00.000-06:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 16:37:21 -0500"
-    },
-    {
       "id": "nola-show-44290",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3395,6 +3224,20 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-02T19:30:00-06:00"
     },
     {
+      "id": "offbeat-event-4544321",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-12-02T19:30:00.000-05:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544321",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-02T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 17:37:21 -0400"
+    },
+    {
       "id": "nola-show-50528",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3411,22 +3254,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-02T20:00:00-06:00",
       "description": "Venue: Tipitina's | Starts: 2026-12-02T20:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4708615",
-      "source": "offbeat",
-      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
-      "venue": "The Actor's Apothecary",
-      "start": "2026-12-02T20:00:00.000-06:00",
-      "end": "2026-12-02T22:00:00.000-06:00",
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.theactorsapothecary.com/events",
-      "ticket_url": "https://www.theactorsapothecary.com/events",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708615",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-02T20:00:00.000-06:00\nEnds: 2026-12-02T22:00:00.000-06:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 14:16:48 -0600"
     },
     {
       "id": "nola-show-61829",
@@ -3465,6 +3292,22 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-12-02T21:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4708615",
+      "source": "offbeat",
+      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
+      "venue": "The Actor's Apothecary",
+      "start": "2026-12-02T21:00:00.000-05:00",
+      "end": "2026-12-02T23:00:00.000-05:00",
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.theactorsapothecary.com/events",
+      "ticket_url": "https://www.theactorsapothecary.com/events",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708615",
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-02T21:00:00.000-05:00\nEnds: 2026-12-02T23:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 15:16:48 -0500"
+    },
+    {
       "id": "nola-show-62726",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3492,22 +3335,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-12-03T14:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4708604",
-      "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
-      "start": "2026-12-03T15:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708604",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-03T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 08:55:14 -0700"
-    },
-    {
       "id": "nola-show-61856",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -3515,22 +3342,6 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-03T17:00:00-06:00",
       "description": "Venue: Preservation Hall | Starts: 2026-12-03T17:00:00-06:00"
-    },
-    {
-      "id": "offbeat-event-4897895",
-      "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
-      "start": "2026-12-03T17:00:00.000-06:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897895",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-03T17:00:00.000-06:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 16:36:42 -0500"
     },
     {
       "id": "nola-show-61650",
@@ -3576,6 +3387,38 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-03T18:00:00-06:00",
       "description": "Venue: Mahogany Jazz Hall | Starts: 2026-12-03T18:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4897895",
+      "source": "offbeat",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
+      "start": "2026-12-03T18:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897895",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-03T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 17:36:42 -0400"
+    },
+    {
+      "id": "offbeat-event-4708604",
+      "source": "offbeat",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
+      "start": "2026-12-03T18:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708604",
+      "description": "Venue: Poor Boys\nStarts: 2026-12-03T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
     },
     {
       "id": "nola-show-62443",
@@ -3987,22 +3830,6 @@
       "description": "Venue: NOLA Brewing | Starts: 2026-12-04T19:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4811787",
-      "source": "offbeat",
-      "title": "Boyfriend",
-      "venue": "Siberia",
-      "start": "2026-12-04T19:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Rock, Pop, Roots, Cover"
-      ],
-      "moreinfo": "https://www.siberianola.com/",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4811787",
-      "description": "Venue: Siberia\nStarts: 2026-12-04T19:00:00.000-08:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://www.siberianola.com/\n\nSubscribe to OffBeat.com to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
-      "pubDate": "Tue, 21 Apr 2026 14:06:37 -0700"
-    },
-    {
       "id": "nola-show-54068",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4129,6 +3956,22 @@
       "description": "Venue: Dos Jefes | Starts: 2026-12-04T21:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4811787",
+      "source": "offbeat",
+      "title": "Boyfriend",
+      "venue": "Siberia",
+      "start": "2026-12-04T21:00:00.000-06:00",
+      "end": null,
+      "categories": [
+        "Music - Rock, Pop, Roots, Cover"
+      ],
+      "moreinfo": "https://www.siberianola.com/",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4811787",
+      "description": "Venue: Siberia\nStarts: 2026-12-04T21:00:00.000-06:00\nCategories: Music - Rock, Pop, Roots, Cover\nMore info: https://www.siberianola.com/\n\nSubscribe to OffBeat.com to get the most comprehensive info on New Orleans and Louisiana music. A subscription allows you to access our 37+ years of stories, reviews, interviews, music and cultural history and more on New Orleans and Louisiana music, musicians, festivals and events.",
+      "pubDate": "Tue, 21 Apr 2026 16:06:37 -0500"
+    },
+    {
       "id": "nola-show-57926",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4138,7 +3981,7 @@
       "description": "Venue: Saturn Bar | Starts: 2026-12-04T22:00:00-06:00"
     },
     {
-      "id": "nola-show-61499",
+      "id": "nola-show-61765",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -4192,28 +4035,6 @@
       "description": "Venue: Hide/Seek | Starts: 2026-12-04T22:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4930478",
-      "source": "offbeat",
-      "title": "Blue Nile presents Kermit Ruffins and the BBQ Swingers",
-      "venue": "Blue Nile",
-      "start": "2026-12-04T22:00:00.000-06:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "https://www.bluenilelive.com/",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4930478",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-04T22:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
-      "pubDate": "Fri, 20 Nov 2026 11:28:44 -0600"
-    },
-    {
       "id": "nola-show-62703",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4248,6 +4069,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-04T23:00:00-06:00",
       "description": "Venue: Gasa Gasa | Starts: 2026-12-04T23:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4930478",
+      "source": "offbeat",
+      "title": "Blue Nile presents Kermit Ruffins and the BBQ Swingers",
+      "venue": "Blue Nile",
+      "start": "2026-12-04T23:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "https://www.bluenilelive.com/",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4930478",
+      "description": "Venue: Blue Nile\nStarts: 2026-12-04T23:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.bluenilelive.com/\n\n\"WE PARTYIN'!\" \n\nAdvance Tickets & Reserved Seating bluenilelive.com\n\nKermit Ruffins needs only two words to hype a New Orleans barroom for one of his weekly shows, and this, his personal slogan, sums up what this Big Easy ambassador is all about.\n\nFrom playing himself in the HBO Series Treme, to barbecuing outside his bar, Kermit\u2019s Treme Mother-inLaw Lounge, to sitting in with Jon Batiste and Stay Human on The Late Show with Stephen Colbert, the trumpeter/vocalist keeps himself busy when he isn\u2019t on stage doing what he does best\u2014entertaining and sharing his love of life with the world. He personifies the laid-back vibe of New Orleans.\n\nAll sales are final and refunds are only allowed in limited circumstances such as canceled events. If your event is canceled, postponed, rescheduled, or moved, we will attempt to contact you to update you on the status of the event, and inform you of any refund, credit, or exchange procedures.\n\nAll shows are for ages 21 and up. Valid ID required upon entry.",
+      "pubDate": "Fri, 20 Nov 2026 12:28:44 -0500"
     },
     {
       "id": "nola-show-60073",
@@ -4861,28 +4704,6 @@
       "description": "Venue: Apple Barrel | Starts: 2026-12-06T18:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4932045",
-      "source": "offbeat",
-      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
-      "venue": "Blue Nile",
-      "start": "2026-12-06T19:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com",
-      "ticket_url": "",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4932045",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-06T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
-      "pubDate": "Fri, 27 Nov 2026 07:08:18 -0800"
-    },
-    {
       "id": "nola-show-57736",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -4935,6 +4756,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-06T21:00:00-06:00",
       "description": "Venue: Holy Diver | Starts: 2026-12-06T21:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4932045",
+      "source": "offbeat",
+      "title": "New Orleans Funk/Hip-Hop Stage Brass Band",
+      "venue": "Blue Nile",
+      "start": "2026-12-06T21:00:00.000-06:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com",
+      "ticket_url": "",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4932045",
+      "description": "Venue: Blue Nile\nStarts: 2026-12-06T21:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com\n\nAGES 21+   FREE ADMISSION WITH VALID I.D.\u00a0& DRINK PURCHASES.",
+      "pubDate": "Fri, 27 Nov 2026 09:08:18 -0600"
     },
     {
       "id": "nola-show-60159",
@@ -5707,28 +5550,6 @@
       "description": "Venue: Salon Salon | Starts: 2026-12-10T19:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4924045",
-      "source": "offbeat",
-      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
-      "venue": "Blue Nile",
-      "start": "2026-12-10T19:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Music - Cajun, Zydeco",
-        "Music - R&B, Funk, Brass Band, MG Indian",
-        "Music - Rock, Pop, Roots, Cover",
-        "Music - Classical",
-        "Music - Jazz & Blues",
-        "Music - Acoustic, Songwriter, Ethnic",
-        "Music - Other"
-      ],
-      "moreinfo": "https://www.bluenilelive.com/",
-      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924045",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-10T19:00:00.000-08:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
-      "pubDate": "Tue, 03 Nov 2026 05:23:14 -0800"
-    },
-    {
       "id": "nola-show-59870",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -5835,6 +5656,28 @@
       "event_url": "https://nola.show/",
       "start": "2026-12-10T21:00:00-06:00",
       "description": "Venue: Twelve Mile Limit | Starts: 2026-12-10T21:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4924045",
+      "source": "offbeat",
+      "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
+      "venue": "Blue Nile",
+      "start": "2026-12-10T22:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Music - Cajun, Zydeco",
+        "Music - R&B, Funk, Brass Band, MG Indian",
+        "Music - Rock, Pop, Roots, Cover",
+        "Music - Classical",
+        "Music - Jazz & Blues",
+        "Music - Acoustic, Songwriter, Ethnic",
+        "Music - Other"
+      ],
+      "moreinfo": "https://www.bluenilelive.com/",
+      "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4924045",
+      "description": "Venue: Blue Nile\nStarts: 2026-12-10T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
+      "pubDate": "Tue, 03 Nov 2026 08:23:14 -0500"
     },
     {
       "id": "nola-show-62453",
@@ -6080,7 +5923,7 @@
       "description": "Venue: Gasa Gasa | Starts: 2026-12-11T21:00:00-06:00"
     },
     {
-      "id": "nola-show-61500",
+      "id": "nola-show-61766",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Blue Nile",
@@ -7105,25 +6948,6 @@
       "description": "Venue: Mayfield's 208 | Starts: 2026-12-16T18:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4925472",
-      "source": "offbeat",
-      "title": "HARRY SHEARER & JUDITH OWEN\u2019S ANNUAL CHRISTMAS WITHOUT TEARS BENEFIT  @ THE ORPHEUM THEATER -WEDNESDAY, DECEMBER 16TH, 2026 - DEE DEE BRIDGEWATER / JON CLEARY + MORE                     \n ",
-      "venue": "Orpheum Theater",
-      "start": "2026-12-16T18:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "New Orleans & Louisiana Culture",
-        "Arts: Museums, Galleries, Film, Books",
-        "Theater, Stage & Dance",
-        "Events - Miscellaneous"
-      ],
-      "moreinfo": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
-      "ticket_url": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4925472",
-      "description": "Venue: Orpheum Theater\nStarts: 2026-12-16T18:00:00.000-08:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://www.ticketmaster.com/event/1B00653DA7CDE09E\nTickets: https://www.ticketmaster.com/event/1B00653DA7CDE09E\n\nNew Orleans, Louisiana.\u00a0\u00a0Get ready for the annual Holiday party of the\u00a0\u00a0year! For the 21st year in a row in an intimate evening full of music, laughter and special guests, critically-acclaimed Artist and consummate stage performer Judith Owen and her husband, actor and humorist Harry Shearer (The Simpsons, Spinal Tap, Derek Smalls), will once again spread their special brand of yuletide cheer for the 2026\u00a0Christmas Without Tears, at home in New Orleans!\u00a0Festivities will take place Wednesday, December 16th at 8pm at the Orpheum Theater, with all proceeds benefitting Innocence & Justice Louisiana (formerly\u00a0Innocence Project New Orleans).\u00a0\u00a0The evening will feature performances from artists including Dee Dee Bridgewater, Jon Cleary, Bryan Batt, Trendafilka, Helen Gillet, Trixe Minx, Phil DeGruy, Tonya Boyd-Cannon and The Gentlemen Callers  - DONT MISS IT!\n\nTICKETS AVAILABLE ONLY AT TICKETMASTER!!!!",
-      "pubDate": "Mon, 09 Nov 2026 07:05:14 -0800"
-    },
-    {
       "id": "nola-show-52876",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7192,6 +7016,25 @@
       "description": "Venue: Nightbloom | Starts: 2026-12-16T21:00:00-06:00"
     },
     {
+      "id": "offbeat-event-4925472",
+      "source": "offbeat",
+      "title": "HARRY SHEARER & JUDITH OWEN\u2019S ANNUAL CHRISTMAS WITHOUT TEARS BENEFIT  @ THE ORPHEUM THEATER -WEDNESDAY, DECEMBER 16TH, 2026 - DEE DEE BRIDGEWATER / JON CLEARY + MORE                     \n ",
+      "venue": "Orpheum Theater",
+      "start": "2026-12-16T21:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "New Orleans & Louisiana Culture",
+        "Arts: Museums, Galleries, Film, Books",
+        "Theater, Stage & Dance",
+        "Events - Miscellaneous"
+      ],
+      "moreinfo": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
+      "ticket_url": "https://www.ticketmaster.com/event/1B00653DA7CDE09E",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4925472",
+      "description": "Venue: Orpheum Theater\nStarts: 2026-12-16T21:00:00.000-05:00\nCategories: New Orleans & Louisiana Culture, Arts: Museums, Galleries, Film, Books, Theater, Stage & Dance, Events - Miscellaneous\nMore info: https://www.ticketmaster.com/event/1B00653DA7CDE09E\nTickets: https://www.ticketmaster.com/event/1B00653DA7CDE09E\n\nNew Orleans, Louisiana.\u00a0\u00a0Get ready for the annual Holiday party of the\u00a0\u00a0year! For the 21st year in a row in an intimate evening full of music, laughter and special guests, critically-acclaimed Artist and consummate stage performer Judith Owen and her husband, actor and humorist Harry Shearer (The Simpsons, Spinal Tap, Derek Smalls), will once again spread their special brand of yuletide cheer for the 2026\u00a0Christmas Without Tears, at home in New Orleans!\u00a0Festivities will take place Wednesday, December 16th at 8pm at the Orpheum Theater, with all proceeds benefitting Innocence & Justice Louisiana (formerly\u00a0Innocence Project New Orleans).\u00a0\u00a0The evening will feature performances from artists including Dee Dee Bridgewater, Jon Cleary, Bryan Batt, Trendafilka, Helen Gillet, Trixe Minx, Phil DeGruy, Tonya Boyd-Cannon and The Gentlemen Callers  - DONT MISS IT!\n\nTICKETS AVAILABLE ONLY AT TICKETMASTER!!!!",
+      "pubDate": "Mon, 09 Nov 2026 10:05:14 -0500"
+    },
+    {
       "id": "nola-show-57160",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7210,20 +7053,20 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2026-12-17T14:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4708617",
+      "id": "offbeat-event-4897905",
       "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
       "start": "2026-12-17T15:00:00.000-08:00",
       "end": null,
       "categories": [
         "Comedy"
       ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708617",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-17T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 08:55:11 -0700"
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897905",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-17T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 14:36:47 -0700"
     },
     {
       "id": "nola-show-61920",
@@ -7235,20 +7078,20 @@
       "description": "Venue: Preservation Hall | Starts: 2026-12-17T17:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4897905",
+      "id": "offbeat-event-4708617",
       "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
       "start": "2026-12-17T17:00:00.000-06:00",
       "end": null,
       "categories": [
         "Comedy"
       ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897905",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-17T17:00:00.000-06:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 16:36:47 -0500"
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708617",
+      "description": "Venue: Poor Boys\nStarts: 2026-12-17T17:00:00.000-06:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 10:55:11 -0500"
     },
     {
       "id": "nola-show-61630",
@@ -7462,7 +7305,7 @@
       "source": "offbeat",
       "title": "Grammy Award-Winning Irvin Mayfield's Music Church\n",
       "venue": "Blue Nile",
-      "start": "2026-12-17T21:00:00.000-06:00",
+      "start": "2026-12-17T22:00:00.000-05:00",
       "end": null,
       "categories": [
         "Music - Cajun, Zydeco",
@@ -7476,8 +7319,8 @@
       "moreinfo": "https://www.bluenilelive.com/",
       "ticket_url": "https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4924049",
-      "description": "Venue: Blue Nile\nStarts: 2026-12-17T21:00:00.000-06:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
-      "pubDate": "Tue, 03 Nov 2026 07:23:15 -0600"
+      "description": "Venue: Blue Nile\nStarts: 2026-12-17T22:00:00.000-05:00\nCategories: Music - Cajun, Zydeco, Music - R&B, Funk, Brass Band, MG Indian, Music - Rock, Pop, Roots, Cover, Music - Classical, Music - Jazz & Blues, Music - Acoustic, Songwriter, Ethnic, Music - Other\nMore info: https://www.bluenilelive.com/\nTickets: https://www.showpass.com/2x-grammy-award-winning-irvin-mayfields-music-church-with-special-guests-9pm-show-3/\n\nIrvin Mayfield is a Billboard and two-time Grammy Award- winning artist, composer, and producer. His 30+ record discography and published written works keynote three decades of world-tours, recorded performances, and collaborations with distinguished artists such as Stevie Wonder, Bob Weir, Frank Ocean, Aaron Neville, Wynton Marsalis, and Trombone Shorty.\n\nA humanist born, raised, and presently residing in New Orleans, LA, Mayfield espouses a daily practice of constant reimagination in his community. His upcoming recording and live performance projects engage global thought leadership edging on the frontiers of art, media, technology and beauty.\n\n9PM\n\nSpecial Guests announced weekly.\n\nReserved Seating $25",
+      "pubDate": "Tue, 03 Nov 2026 08:23:15 -0500"
     },
     {
       "id": "nola-show-62455",
@@ -7886,22 +7729,6 @@
       "description": "Venue: Three Maries Jazz Club @ Omni Royal Orleans | Starts: 2026-12-19T18:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4708605",
-      "source": "offbeat",
-      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
-      "venue": "The Actor's Apothecary",
-      "start": "2026-12-19T18:00:00.000-08:00",
-      "end": "2026-12-19T20:00:00.000-08:00",
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.theactorsapothecary.com/events",
-      "ticket_url": "https://www.theactorsapothecary.com/events",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708605",
-      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T18:00:00.000-08:00\nEnds: 2026-12-19T20:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
-      "pubDate": "Fri, 16 Jan 2026 12:16:41 -0800"
-    },
-    {
       "id": "nola-show-53173",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -7965,7 +7792,23 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-19T20:00:00-06:00"
     },
     {
-      "id": "nola-show-62693",
+      "id": "offbeat-event-4708605",
+      "source": "offbeat",
+      "title": "Two Friends Improv Theater\u2019s mission is to support the New Orleans community through performance and education.",
+      "venue": "The Actor's Apothecary",
+      "start": "2026-12-19T20:00:00.000-06:00",
+      "end": "2026-12-19T22:00:00.000-06:00",
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.theactorsapothecary.com/events",
+      "ticket_url": "https://www.theactorsapothecary.com/events",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708605",
+      "description": "Venue: The Actor's Apothecary\nStarts: 2026-12-19T20:00:00.000-06:00\nEnds: 2026-12-19T22:00:00.000-06:00\nCategories: Comedy\nMore info: https://www.theactorsapothecary.com/events\nTickets: https://www.theactorsapothecary.com/events\n\nTwo Friends Improv Team is one of the best teams in New Orleans. Catch one of their hilarious shows twice a month.\u00a0\n\n\n\n\nThe First Wednesday of every month\u00a0\n\n\n\n\n&\u00a0\n\n\n\n\nThe Third Saturday of every month\n\n\n\n\n$10 at the door",
+      "pubDate": "Fri, 16 Jan 2026 14:16:41 -0600"
+    },
+    {
+      "id": "nola-show-62694",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Gasa Gasa",
@@ -8689,7 +8532,7 @@
       "source": "offbeat",
       "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
       "venue": "Poor Boys",
-      "start": "2026-12-24T15:00:00.000-08:00",
+      "start": "2026-12-24T18:00:00.000-05:00",
       "end": null,
       "categories": [
         "Comedy"
@@ -8697,8 +8540,8 @@
       "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
       "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
       "event_url": "https://calendar.offbeat.com/calendars/all-events/4708621",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-24T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 08:55:17 -0700"
+      "description": "Venue: Poor Boys\nStarts: 2026-12-24T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 11:55:17 -0400"
     },
     {
       "id": "nola-show-53383",
@@ -9497,20 +9340,6 @@
       "description": "Venue: Snug Harbor Jazz Bistro | Starts: 2026-12-30T16:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4544322",
-      "source": "offbeat",
-      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
-      "venue": "The AllWays Lounge & Cabaret",
-      "start": "2026-12-30T16:30:00.000-08:00",
-      "end": null,
-      "categories": [],
-      "moreinfo": "burlesquebingonola.eventbrite.com",
-      "ticket_url": "www.burlesquebingonola.eventbrite.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544322",
-      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-30T16:30:00.000-08:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
-      "pubDate": "Mon, 11 May 2026 14:37:20 -0700"
-    },
-    {
       "id": "nola-show-61777",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9590,6 +9419,20 @@
       "description": "Venue: The Jazz Playhouse at the Royal Sonesta | Starts: 2026-12-30T19:30:00-06:00"
     },
     {
+      "id": "offbeat-event-4544322",
+      "source": "offbeat",
+      "title": "Bingo like you've never played before! Full of bad jokes, Strip Tease, AND prizes Lefty Lucy\u2019s Burlesque Bingo is a whirlwind of wholesome good times blended with the cheeky sass of Burlesque!",
+      "venue": "The AllWays Lounge & Cabaret",
+      "start": "2026-12-30T19:30:00.000-05:00",
+      "end": null,
+      "categories": [],
+      "moreinfo": "burlesquebingonola.eventbrite.com",
+      "ticket_url": "www.burlesquebingonola.eventbrite.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4544322",
+      "description": "Venue: The AllWays Lounge & Cabaret\nStarts: 2026-12-30T19:30:00.000-05:00\nMore info: burlesquebingonola.eventbrite.com\nTickets: www.burlesquebingonola.eventbrite.com\n\nLEFTY LUCY\u2019S BURLESQUE BINGO features 3 rounds of Bingo with PRIZES EVERY ROUND \u2014 including a New Orleans Gift Set with a free shot, PLUS Lefty Lucy dances to a song the winner selects!\n\nGRAND FINALE PRIZE from GLAM JAM plus gifts from local pop-ups!\n\nBut wait\u2014there's more! \n\n#EATLOCAL with a New Orleans/Korean Fusion pop-up from NOLA SNACK BAE offering delicious and unique dishes while you play!\n\nThis ain\u2019t your Grandma\u2019s Bingo \u2014\n\nbut Grandma will love it!",
+      "pubDate": "Mon, 11 May 2026 17:37:20 -0400"
+    },
+    {
       "id": "nola-show-59306",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9653,38 +9496,6 @@
       "description": "Venue: Preservation Hall | Starts: 2026-12-31T14:30:00-06:00"
     },
     {
-      "id": "offbeat-event-4708607",
-      "source": "offbeat",
-      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
-      "venue": "Poor Boys",
-      "start": "2026-12-31T15:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
-      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708607",
-      "description": "Venue: Poor Boys\nStarts: 2026-12-31T15:00:00.000-08:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
-      "pubDate": "Sat, 14 Mar 2026 08:55:14 -0700"
-    },
-    {
-      "id": "offbeat-event-4897920",
-      "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
-      "start": "2026-12-31T15:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897920",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-31T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 14:36:54 -0700"
-    },
-    {
       "id": "nola-show-61615",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -9694,7 +9505,39 @@
       "description": "Venue: 30/90 | Starts: 2026-12-31T16:00:00-06:00"
     },
     {
-      "id": "nola-show-54087",
+      "id": "offbeat-event-4897920",
+      "source": "offbeat",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
+      "start": "2026-12-31T17:00:00.000-06:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897920",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2026-12-31T17:00:00.000-06:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 16:36:54 -0500"
+    },
+    {
+      "id": "offbeat-event-4708607",
+      "source": "offbeat",
+      "title": "The magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal ",
+      "venue": "Poor Boys",
+      "start": "2026-12-31T18:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "https://www.facebook.com/share/14T5Mey6Nit/",
+      "ticket_url": "https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4708607",
+      "description": "Venue: Poor Boys\nStarts: 2026-12-31T18:00:00.000-05:00\nCategories: Comedy\nMore info: https://www.facebook.com/share/14T5Mey6Nit/\nTickets: https://www.eventbrite.com/e/gumbolaya-the-magic-mic-tickets-1980178041828?aff=ebdsshcopyurl&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp\n\nThe magic is in the Gumbo. The bar will supply the booze, Flav and Kasia provide you 7 minutes to show us your stuff. Poets, Musicians, Comedians, Magicians and whatever you can think of within legal limits welcome to bring your flavor! Sometimes there's prizes, sometimes there's positive surprises in the mix. There's always fun! It's free, but buy 2 drinks dammit! Pull up, turn up, laugh and savor the flavor of the authentic New Orleans experience! Sign up at 9 start at 9:30.\u00a0See less",
+      "pubDate": "Sat, 14 Mar 2026 11:55:14 -0400"
+    },
+    {
+      "id": "nola-show-54088",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
       "venue": "Allways Lounge & Cabaret",
@@ -10292,22 +10135,6 @@
       "description": "Venue: Spotted Cat Music Club | Starts: 2027-01-07T14:00:00-06:00"
     },
     {
-      "id": "offbeat-event-4897919",
-      "source": "offbeat",
-      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
-      "venue": "The Howlin' Wolf",
-      "start": "2027-01-07T15:00:00.000-08:00",
-      "end": null,
-      "categories": [
-        "Comedy"
-      ],
-      "moreinfo": "",
-      "ticket_url": "www.thehowlinwolf.com",
-      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897919",
-      "description": "Venue: The Howlin' Wolf\nStarts: 2027-01-07T15:00:00.000-08:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
-      "pubDate": "Thu, 03 Sep 2026 14:36:54 -0700"
-    },
-    {
       "id": "nola-show-62539",
       "source": "nola_show",
       "title": "Listings taken from NOLA.Show without permission. Contact info@nola.show",
@@ -10315,6 +10142,22 @@
       "event_url": "https://nola.show/",
       "start": "2027-01-07T18:00:00-06:00",
       "description": "Venue: d.b.a. | Starts: 2027-01-07T18:00:00-06:00"
+    },
+    {
+      "id": "offbeat-event-4897919",
+      "source": "offbeat",
+      "title": "Comedy Gumbeaux is one of New Orleans longest running comedy shows.",
+      "venue": "The Howlin' Wolf",
+      "start": "2027-01-07T18:00:00.000-05:00",
+      "end": null,
+      "categories": [
+        "Comedy"
+      ],
+      "moreinfo": "",
+      "ticket_url": "www.thehowlinwolf.com",
+      "event_url": "https://calendar.offbeat.com/calendars/all-events/4897919",
+      "description": "Venue: The Howlin' Wolf\nStarts: 2027-01-07T18:00:00.000-05:00\nCategories: Comedy\nTickets: www.thehowlinwolf.com\n\nNow celebrating 16 years at the Howlin Wolf.  It is the Premier comedy show in the city. Comedy Gumbeaux Comedy Gumbeaux is considered a pro/am show. Is divided into three segments. The first segment is called the rising stars where those who are new to comedy or new to Comedy Gumbeaux get to perform their best three minute sets. Then the pros take over this is where season vets, touring comics and some national and even international comedians hit the stage. The third and final segment is for our drop ins. Anyone who may arrive a little late that would like to drop in and do sometime. You don\u2019t wanna miss the fun.",
+      "pubDate": "Thu, 03 Sep 2026 17:36:54 -0400"
     },
     {
       "id": "nola-show-54574",
